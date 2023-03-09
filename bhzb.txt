@@ -5989,6 +5989,42 @@ EuroNews,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&str
 DW English,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941687
 CNA,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941688
 
+💘马来测试2_5566,#genre#
+astro 爱奇艺,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571198&extension=ts
+全佳,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571192&extension=ts
+astro 双星,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571191&extension=ts
+astro 小太阳 ,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571230&extension=ts
+astro AOD 351,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571226&extension=ts
+astro AOD 352,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571225&extension=ts
+astro AOD 353,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571229&extension=ts
+TVB 翡翠台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571187&extension=ts
+TVB 星河频道,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571186&extension=ts
+TVB 经典台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571197&extension=ts
+TVB 娱乐新闻台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571188&extension=ts
+天映经典,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571182&extension=ts
+天映频道,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571218&extension=ts
+中天亚洲台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571212&extension=ts
+TVBS亚洲台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571185&extension=ts
+探索亚洲,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571181&extension=ts
+探索频道,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571210&extension=ts
+HBO,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571204&extension=ts
+NESN UHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1124351&extension=ts
+stro SuperSport UHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1016544&extension=ts
+Now Sports 4K,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1032489&extension=ts
+BT Sport Ultimate,http://royx.xyz:80/play/live.php?mac=00:1a:79:b1:05:9e&stream=1038792&extension=ts
+ELEVEN SPORTS 1 4K,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=905665&extension=ts
+astro SuperSport,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918986&extension=ts
+astro SuperSport 2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918985&extension=ts
+astro SuperSport 3,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918984&extension=ts
+astro SuperSport 4,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918983&extension=ts
+astro SuperSport 5,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918982&extension=ts
+ELEVEN SPORTS 1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880457&extension=ts
+ELEVEN SPORTS 2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880456&extension=ts
+CANAL+ SPORT 1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880461&extension=ts
+CANAL+ SPORT 2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880460&extension=ts
+CANAL+ SPORT 3,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880459&extension=ts
+CANAL+ SPORT 4,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880458&extension=ts
+
 🌈彩虹頻道_5566,#genre#
 彩虹e台,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
 彩虹電影台,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
