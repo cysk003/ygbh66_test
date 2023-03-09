@@ -5989,7 +5989,7 @@ EuroNews,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&str
 DW English,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941687
 CNA,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941688
 
-🔞頻道_5566,#genre#
+🌈彩虹頻道_5566,#genre#
 彩虹e台,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
 彩虹電影台,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
 LOOK TV,mitv://generationnexxxt.com:19806/20398d4884a6475bb6a1520411b50b54
