@@ -49,7 +49,13 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
-镜新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=19
+AXN台湾,http://61.221.81.93:8078/hls/32/80/axn.m3u8
+HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
+NHK,http://61.221.81.93:8078/hls/32/80/nhk.m3u8
+八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
+中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
+八大第一,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
+东森戏剧,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8 
