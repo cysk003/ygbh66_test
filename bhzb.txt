@@ -5097,6 +5097,8 @@ Hub Premier 4,mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580
 Hub Premier 5,mitv://generationnexxxt.com:19806/af110c62ff31403381547eed83d69f7f
 
 🎞️電影戏剧_8888,#genre#
+峨眉电影,http://118.113.5.43:4000/udp/239.93.0.252:5140
+4K超高清,http://118.113.5.43:4000/udp/239.93.1.156:5140
 CCTV6,mitv://generationnexxxt.com:19806/7c57c860cf9d44dea2940dd3c521067a
 天映頻道,mitv://generationnexxxt.com:19806/042f4bdd7eed4c1d962f10ecd8290cd0
 天映經典,mitv://generationnexxxt.com:19806/12109defb50c4aae8a692cc0ad5ca3e1
