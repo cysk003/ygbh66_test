@@ -6259,6 +6259,8 @@ CANAL+ SPORT 3,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880
 CANAL+ SPORT 4,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=880458&extension=ts
 
 🌈彩虹頻道_8888,#genre#
+HAPPY,mitv://generationnexxxt.com:19806/621bba9e74ba4b49be758c0208929195
+K,mitv://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
 彩虹e台,mitv://generationnexxxt.com:19806/2a5b154749ab46eea144a4e0a103cae5
 彩虹电影台,mitv://generationnexxxt.com:19806/318295ce90604574a21320ae8b076450
 LOOK TV,mitv://generationnexxxt.com:19806/68e430cb813f400ab868521537373260
