@@ -949,86 +949,167 @@ Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/151
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
 BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 🐼重庆有线,#genre#
-欢笑剧场4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-CCTV-4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV16-4K,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+欢笑剧场4K,http://118.24.227.124/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
+CCTV-4K,http://118.24.227.124/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV16-4K,http://118.24.227.124/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-CCTV-1 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV-2 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV-3 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV-4 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV-5 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV5+ 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV-6 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV-7 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV-8 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV-9 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV-10 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV-11 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV-12 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV-13 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV-14 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV-15 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV-16 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV-17 高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-东南卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-东方卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
-云南卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
-北京卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
-吉林卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-四川卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-天津卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-宁夏卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
-安徽卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
-山西卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
-广东卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
-广西卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
-新疆卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
-江苏卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
-江西卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
-河北卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
-河南卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
-浙江卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
-海南卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
-深圳卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-湖北卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
-湖南卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
-西藏卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
-贵州卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-辽宁卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
-重庆卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-青海卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
-黑龙江卫视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-三沙卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
-教育卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
-兵团卫视,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
-重庆新闻高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
-重庆科教高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-重庆影视高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
-重庆文体娱乐高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
-重庆少儿高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
-重庆时尚生活高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
-重庆新农村高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-家有购物,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jygw/__op/default/__f/index.m3u8
-CCTV风云剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
-书画,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
-摄影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
-车迷频道,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f/index.m3u8
-SiTV都市剧场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
-SiTV魅力足球高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
-SiTV动漫秀场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
-SiTV游戏风云高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
-求索纪录高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
-CHC高清电影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC动作电影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-CHC家庭影院,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-CCTV风云剧场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-CCTV风云音乐高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-CCTV风云足球高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-CCTV怀旧剧场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-CCTV第一剧场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-CCTV兵器科技高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+CCTV-1 高清,http://118.24.227.124/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV-2 高清,http://118.24.227.124/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+CCTV-3 高清,http://118.24.227.124/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV-4 高清,http://118.24.227.124/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV-5 高清,http://118.24.227.124/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV5+ 高清,http://118.24.227.124/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+CCTV-6 高清,http://118.24.227.124/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+CCTV-7 高清,http://118.24.227.124/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+CCTV-8 高清,http://118.24.227.124/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV-9 高清,http://118.24.227.124/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV-10 高清,http://118.24.227.124/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CCTV-11 高清,http://118.24.227.124/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+CCTV-12 高清,http://118.24.227.124/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+CCTV-13 高清,http://118.24.227.124/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+CCTV-14 高清,http://118.24.227.124/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+CCTV-15 高清,http://118.24.227.124/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+CCTV-16 高清,http://118.24.227.124/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+CCTV-17 高清,http://118.24.227.124/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+东南卫视高清,http://118.24.227.124/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+东方卫视高清,http://118.24.227.124/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
+云南卫视高清,http://118.24.227.124/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+北京卫视高清,http://118.24.227.124/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+吉林卫视高清,http://118.24.227.124/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+四川卫视高清,http://118.24.227.124/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+天津卫视高清,http://118.24.227.124/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+宁夏卫视,http://118.24.227.124/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
+安徽卫视高清,http://118.24.227.124/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+山西卫视,http://118.24.227.124/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+广东卫视高清,http://118.24.227.124/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+广西卫视高清,http://118.24.227.124/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+新疆卫视,http://118.24.227.124/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
+江苏卫视高清,http://118.24.227.124/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+江西卫视高清,http://118.24.227.124/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+河北卫视高清,http://118.24.227.124/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+河南卫视高清,http://118.24.227.124/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+浙江卫视高清,http://118.24.227.124/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+海南卫视高清,http://118.24.227.124/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+深圳卫视高清,http://118.24.227.124/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+湖北卫视高清,http://118.24.227.124/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+湖南卫视高清,http://118.24.227.124/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+西藏卫视,http://118.24.227.124/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+贵州卫视高清,http://118.24.227.124/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+辽宁卫视高清,http://118.24.227.124/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+重庆卫视高清,http://118.24.227.124/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+青海卫视,http://118.24.227.124/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+黑龙江卫视高清,http://118.24.227.124/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+三沙卫视,http://118.24.227.124/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
+教育卫视,http://118.24.227.124/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
+兵团卫视,http://118.24.227.124/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
+重庆新闻高清,http://118.24.227.124/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+重庆科教高清,http://118.24.227.124/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+重庆影视高清,http://118.24.227.124/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+重庆文体娱乐高清,http://118.24.227.124/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+重庆少儿高清,http://118.24.227.124/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+重庆时尚生活高清,http://118.24.227.124/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+重庆新农村高清,http://118.24.227.124/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+家有购物,http://118.24.227.124/__cl/cg:live/__c/jygw/__op/default/__f/index.m3u8
+CCTV风云剧场,http://118.24.227.124/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
+书画,http://118.24.227.124/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
+摄影,http://118.24.227.124/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
+车迷频道,http://118.24.227.124/__cl/cg:live/__c/doxtv/__op/default/__f/index.m3u8
+SiTV都市剧场高清,http://118.24.227.124/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
+SiTV魅力足球高清,http://118.24.227.124/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
+SiTV动漫秀场高清,http://118.24.227.124/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
+SiTV游戏风云高清,http://118.24.227.124/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
+求索纪录高清,http://118.24.227.124/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
+CHC高清电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+CCTV风云剧场高清,http://118.24.227.124/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+CCTV风云音乐高清,http://118.24.227.124/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+CCTV风云足球高清,http://118.24.227.124/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+CCTV怀旧剧场高清,http://118.24.227.124/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+CCTV第一剧场高清,http://118.24.227.124/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+CCTV兵器科技高清,http://118.24.227.124/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+
+欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
+CCTV-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+CCTV-1 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV-2 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+CCTV-3 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV-4 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV-5 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV5+ 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+CCTV-6 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+CCTV-7 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+CCTV-8 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV-9 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV-10 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CCTV-11 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+CCTV-12 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+CCTV-13 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+CCTV-14 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+CCTV-15 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+CCTV-16 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+CCTV-17 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+东南卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+东方卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
+云南卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+北京卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+吉林卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+四川卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+天津卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+宁夏卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
+安徽卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+山西卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+广东卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+广西卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+新疆卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
+江苏卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+江西卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+河北卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+河南卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+浙江卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+海南卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+深圳卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+湖北卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+湖南卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+西藏卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+贵州卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+辽宁卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+重庆卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+青海卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+黑龙江卫视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+三沙卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
+教育卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
+兵团卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
+重庆新闻高清,http://hls.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+重庆科教高清,http://hls.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+重庆影视高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+重庆文体娱乐高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+重庆少儿高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+重庆时尚生活高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+重庆新农村高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+家有购物,http://hls.live.cqccn.com/__cl/cg:live/__c/jygw/__op/default/__f/index.m3u8
+CCTV风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
+书画,http://hls.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
+摄影,http://hls.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
+车迷频道,http://hls.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f/index.m3u8
+SiTV都市剧场高清,http://hls.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
+SiTV魅力足球高清,http://hls.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
+SiTV动漫秀场高清,http://hls.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
+SiTV游戏风云高清,http://hls.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
+求索纪录高清,http://hls.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
+CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+CCTV风云剧场高清,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+CCTV风云音乐高清,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+CCTV风云足球高清,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+CCTV怀旧剧场高清,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+CCTV第一剧场高清,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+CCTV兵器科技高清,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 ❤️爱尚高清,#genre#
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -1146,147 +1227,6 @@ GTV网络棋牌,http://live.aishang.ctlcdn.com/00000110240319_1/playlist.m3u8?CO
 重庆卫视,http://live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-❤️爱尚高清2,#genre#
-CCTV1 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
-CCTV2 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
-CCTV3 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
-CCTV4 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1
-CCTV5 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
-CCTV5+ 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1
-CCTV6 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1
-CCTV7 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1
-CCTV8 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1
-CCTV9 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1
-CCTV9 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1
-CCTV10 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1
-CCTV11 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1
-CCTV12 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1
-CCTV13 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
-CCTV14 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1
-CCTV15 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
-CCTV16 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8
-CCTV16 22M2160,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1
-CCTV17 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1
-CCTV4K 25M2160,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
-CGTN英语 HD,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240365_1/playlist.m3u8?CONTENTID=00000110240365_1
-CGTN西班牙,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1
-CGTN法语,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8
-CGTN阿拉伯,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8
-CGTN俄语,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1
-CHC动作电影 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
-CHC家庭影院 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
-CHC高清电影 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-IPTV5+ 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1
-中国教育1 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
-东南卫视 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1
-东方卫视 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1
-北京卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1
-天津卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1
-安徽卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1
-山东卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1
-广东卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1
-江苏卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1
-河北卫视 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1
-浙江卫视 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1
-深圳卫视 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1
-湖北卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1
-湖南卫视 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1
-贵州卫视 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1
-辽宁卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1
-黑龙江卫视 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
-湖南金鹰纪实 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1
-体育赛事 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
-熊猫频道 4M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240263_1/playlist.m3u8?CONTENTID=00000110240263_1
-测试频道 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240330_1/playlist.m3u8?CONTENTID=00000110240330_1
-CCTV1 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240001_1/playlist.m3u8?CONTENTID=00000110240001_1
-CCTV2 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240002_1/playlist.m3u8?CONTENTID=00000110240002_1
-CCTV3 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240259_1/playlist.m3u8?CONTENTID=00000110240259_1
-CCTV4 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240005_1/playlist.m3u8?CONTENTID=00000110240005_1
-CCTV5 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240260_1/playlist.m3u8?CONTENTID=00000110240260_1
-CCTV6 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240261_1/playlist.m3u8?CONTENTID=00000110240261_1
-CCTV7 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240009_1/playlist.m3u8?CONTENTID=00000110240009_1
-CCTV8 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240262_1/playlist.m3u8?CONTENTID=00000110240262_1
-CCTV9 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240014_1/playlist.m3u8?CONTENTID=00000110240014_1
-CCTV10 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240015_1/playlist.m3u8?CONTENTID=00000110240015_1
-CCTV11 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240016_1/playlist.m3u8?CONTENTID=00000110240016_1
-CCTV12 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240017_1/playlist.m3u8?CONTENTID=00000110240017_1
-CCTV13 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240126_1/playlist.m3u8?CONTENTID=00000110240126_1
-CCTV14 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240085_1/playlist.m3u8?CONTENTID=00000110240085_1
-CCTV15 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240086_1/playlist.m3u8?CONTENTID=00000110240086_1
-CCTV17 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240327_1/playlist.m3u8?CONTENTID=00000110240327_1
-CGTN 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240021_1/playlist.m3u8?CONTENTID=00000110240021_1
-IPTV3+ 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240093_1/playlist.m3u8?CONTENTID=00000110240093_1
-IPTV5+ 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240094_1/playlist.m3u8?CONTENTID=00000110240094_1
-IPTV6+ 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240007_1/playlist.m3u8?CONTENTID=00000110240007_1
-IPTV8+ 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240125_1/playlist.m3u8?CONTENTID=00000110240125_1
-IPTV少儿动画 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240092_1/playlist.m3u8?CONTENTID=00000110240092_1
-IPTV收视指南 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240225_1/playlist.m3u8?CONTENTID=00000110240225_1
-IPTV法治 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?CONTENTID=00000110240096_1
-IPTV热播剧场 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240089_1/playlist.m3u8?CONTENTID=00000110240089_1
-IPTV相声小品 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240006_1/playlist.m3u8?CONTENTID=00000110240006_1
-IPTV经典电影 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240090_1/playlist.m3u8?CONTENTID=00000110240090_1
-IPTV谍战剧场 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240003_1/playlist.m3u8?CONTENTID=00000110240003_1
-IPTV野外 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240095_1/playlist.m3u8?CONTENTID=00000110240095_1
-IPTV魅力时尚 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240091_1/playlist.m3u8?CONTENTID=00000110240091_1
-东南卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240029_1/playlist.m3u8?CONTENTID=00000110240029_1
-东方卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240011_1/playlist.m3u8?CONTENTID=00000110240011_1
-云南卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240082_1/playlist.m3u8?CONTENTID=00000110240082_1
-内蒙古卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240060_1/playlist.m3u8?CONTENTID=00000110240060_1
-北京卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240026_1/playlist.m3u8?CONTENTID=00000110240026_1
-吉林卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240046_1/playlist.m3u8?CONTENTID=00000110240046_1
-四川卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240071_1/playlist.m3u8?CONTENTID=00000110240071_1
-天津卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240072_1/playlist.m3u8?CONTENTID=00000110240072_1
-宁夏卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240061_1/playlist.m3u8?CONTENTID=00000110240061_1
-安徽卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240024_1/playlist.m3u8?CONTENTID=00000110240024_1
-山东卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240064_1/playlist.m3u8?CONTENTID=00000110240064_1
-山西卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240065_1/playlist.m3u8?CONTENTID=00000110240065_1
-广东卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240036_1/playlist.m3u8?CONTENTID=00000110240036_1
-广西卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240037_1/playlist.m3u8?CONTENTID=00000110240037_1
-新疆卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240079_1/playlist.m3u8?CONTENTID=00000110240079_1
-江苏卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240048_1/playlist.m3u8?CONTENTID=00000110240048_1
-江西卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240049_1/playlist.m3u8?CONTENTID=00000110240049_1
-河北卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240040_1/playlist.m3u8?CONTENTID=00000110240040_1
-河南卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240041_1/playlist.m3u8?CONTENTID=00000110240041_1
-浙江卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240013_1/playlist.m3u8?CONTENTID=00000110240013_1
-海南卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240059_1/playlist.m3u8?CONTENTID=00000110240059_1
-深圳卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240004_1/playlist.m3u8?CONTENTID=00000110240004_1
-湖北卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240043_1/playlist.m3u8?CONTENTID=00000110240043_1
-湖南卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240008_1/playlist.m3u8?CONTENTID=00000110240008_1
-甘肃卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240034_1/playlist.m3u8?CONTENTID=00000110240034_1
-西藏卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240076_1/playlist.m3u8?CONTENTID=00000110240076_1
-贵州卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240038_1/playlist.m3u8?CONTENTID=00000110240038_1
-辽宁卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240057_1/playlist.m3u8?CONTENTID=00000110240057_1
-重庆卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240012_1/playlist.m3u8?CONTENTID=00000110240012_1
-陕西卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240066_1/playlist.m3u8?CONTENTID=00000110240066_1
-青海卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240063_1/playlist.m3u8?CONTENTID=00000110240063_1
-黑龙江卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240042_1/playlist.m3u8?CONTENTID=00000110240042_1
-厦门卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240159_1/playlist.m3u8?CONTENTID=00000110240159_1
-四川康巴卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240331_1/playlist.m3u8?CONTENTID=00000110240331_1
-山东教育卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240304_1/playlist.m3u8?CONTENTID=00000110240304_1
-新疆兵团卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240280_1/playlist.m3u8?CONTENTID=00000110240280_1
-海南三沙卫视 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240589_1/playlist.m3u8?CONTENTID=00000110240589_1
-北京卡酷少儿 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240051_1/playlist.m3u8?CONTENTID=00000110240051_1
-广东嘉佳卡通 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240087_1/playlist.m3u8?CONTENTID=00000110240087_1
-江苏财富天下 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240148_1/playlist.m3u8?CONTENTID=00000110240148_1
-湖南先锋乒羽 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240320_1/playlist.m3u8?CONTENTID=00000110240320_1
-湖南金鹰卡通 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240050_1/playlist.m3u8?CONTENTID=00000110240050_1
-NNM网络棋牌 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240319_1/playlist.m3u8?CONTENTID=00000110240319_1
-NNM新动漫 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240321_1/playlist.m3u8?CONTENTID=00000110240321_1
-动作影院 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8?CONTENTID=00000110240277_1
-吉林篮球 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240322_1/playlist.m3u8?CONTENTID=00000110240322_1
-喜剧影院 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240276_1/playlist.m3u8?CONTENTID=00000110240276_1
-家庭影院 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240278_1/playlist.m3u8?CONTENTID=00000110240278_1
-武侠剧场 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240308_1/playlist.m3u8?CONTENTID=00000110240308_1
-军事 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240311_1/playlist.m3u8?CONTENTID=00000110240311_1
-动画 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240335_1/playlist.m3u8?CONTENTID=00000110240335_1
-国学 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240332_1/playlist.m3u8?CONTENTID=00000110240332_1
-戏曲 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240333_1/playlist.m3u8?CONTENTID=00000110240333_1
-早教 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240334_1/playlist.m3u8?CONTENTID=00000110240334_1
-星影 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240279_1/playlist.m3u8?CONTENTID=00000110240279_1
-武术 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240312_1/playlist.m3u8?CONTENTID=00000110240312_1
-精选 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240275_1/playlist.m3u8?CONTENTID=00000110240275_1
-
 
 
 🐯动画片,#genre#
