@@ -6231,7 +6231,9 @@ JStar极限台,mitv://generationnexxxt.com:19806/c927fff68262429db938f1facd454bf
 HAPPY,mitv://generationnexxxt.com:19806/3a8a5adf93674ce2b85012f87ad07709
 K,mitv://generationnexxxt.com:19806/e20dca54b1324dac8e48bfa7b604f1b7
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
+Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/index.m3u8
 Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
+Fake Taxi HD2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6202/index.m3u8
 网约校花,https://0yefiks35y.motorjn.com/20230122/mTBqEmJZ/index.m3u8
 老婆帮帮忙,https://0yefiks35y.motorjn.com/20230122/ivvwjXL8/index.m3u8
 高颜值萝莉,https://0yefiks35y.motorjn.com/20230122/Hlr1NECE/index.m3u8
