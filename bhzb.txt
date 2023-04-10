@@ -4932,6 +4932,48 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 
 
 🌙弯弯测试_888,#genre#
+卫视中文,http://flv.mp4cdn.live/gt-key=0025874.php?id=109
+天映频道,http://flv.mp4cdn.live/gt-key=0025874.php?id=110
+天映经典,http://flv.mp4cdn.live/gt-key=0025874.php?id=111
+星卫电影台,http://flv.mp4cdn.live/gt-key=0025874.php?id=112
+美亚电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=113
+卫视电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=114
+1,http://flv.mp4cdn.live/gt-key=0025874.php?id=115
+2,http://flv.mp4cdn.live/gt-key=0025874.php?id=116
+3,http://flv.mp4cdn.live/gt-key=0025874.php?id=117
+4,http://flv.mp4cdn.live/gt-key=0025874.php?id=118
+5,http://flv.mp4cdn.live/gt-key=0025874.php?id=119
+开电视,http://flv.mp4cdn.live/gt-key=0025874.php?id=1
+翡翠,http://flv.mp4cdn.live/gt-key=0025874.php?id=2
+明珠,http://flv.mp4cdn.live/gt-key=0025874.php?id=3
+星河,http://flv.mp4cdn.live/gt-key=0025874.php?id=4
+J2,http://flv.mp4cdn.live/gt-key=0025874.php?id=5
+MYTV残片,http://flv.mp4cdn.live/gt-key=0025874.php?id=6
+MYTV电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=7
+MYTV港剧,http://flv.mp4cdn.live/gt-key=0025874.php?id=8
+美亚电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=9
+娱乐新闻,http://flv.mp4cdn.live/gt-key=0025874.php?id=10
+MYTV,http://flv.mp4cdn.live/gt-key=0025874.php?id=11
+功夫台,http://flv.mp4cdn.live/gt-key=0025874.php?id=12
+无线新闻,http://flv.mp4cdn.live/gt-key=0025874.php?id=13
+无线财经,http://flv.mp4cdn.live/gt-key=0025874.php?id=14
+纬来电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=103
+东森电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=104
+东森洋片,http://flv.mp4cdn.live/gt-key=0025874.php?id=105
+东森戏剧,http://flv.mp4cdn.live/gt-key=0025874.php?id=106
+龙华洋片,http://flv.mp4cdn.live/gt-key=0025874.php?id=107
+龙祥时代,http://flv.mp4cdn.live/gt-key=0025874.php?id=108
+卫视中文,http://flv.mp4cdn.live/gt-key=0025874.php?id=109
+天映频道,http://flv.mp4cdn.live/gt-key=0025874.php?id=110
+天映经典,http://flv.mp4cdn.live/gt-key=0025874.php?id=111
+星卫电影台,http://flv.mp4cdn.live/gt-key=0025874.php?id=112
+美亚电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=113
+卫视电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=114
+1,http://flv.mp4cdn.live/gt-key=0025874.php?id=115
+2,http://flv.mp4cdn.live/gt-key=0025874.php?id=116
+3,http://flv.mp4cdn.live/gt-key=0025874.php?id=117
+4,http://flv.mp4cdn.live/gt-key=0025874.php?id=118
+5,http://flv.mp4cdn.live/gt-key=0025874.php?id=119
 民视,mitv://generationnexxxt.com:19806/40c260a6af2241b2a42f80dc9b8e17f7
 人间卫视,mitv://generationnexxxt.com:19806/366b657578a7468fa7a93dff507aaa59
 台视,mitv://generationnexxxt.com:19806/d5d9055ddc8d49d3ad02089b2852d81a
