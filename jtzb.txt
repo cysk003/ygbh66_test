@@ -5177,7 +5177,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 
 
 
-🌙弯弯测试_888,#genre#
+🌙弯弯测试_7788,#genre#
 
 民视,mitv://generationnexxxt.com:19806/b78b3069faa54c1da0db08ec240c9e7e
 人间卫视,mitv://generationnexxxt.com:19806/5f46e1c923ff44f6a6e825254840bb9f
@@ -5374,7 +5374,7 @@ Taiwan+,mitv://generationnexxxt.com:19806/a6fe65aa9b664c099ede9276cdc529fb
 东森购物2台,mitv://generationnexxxt.com:19806/db70b24ed49c4b7b91f282c44205b69c
 东森购物1台,mitv://generationnexxxt.com:19806/bd278cd15c504c829153a7a692468995
 
-🌈GA测试_888,#genre#
+🌈GA测试_7788,#genre#
 港台電視31,mitv://generationnexxxt.com:19806/74fc0c2698d7473993bf38cc305005d8
 港台电视32,mitv://generationnexxxt.com:19806/2c0081f46ec34d938526a4840a8d77db
 HOY TV,mitv://generationnexxxt.com:19806/888310b67d4145d38881b7aff412bc4e
@@ -5422,7 +5422,7 @@ TV2,mitv://generationnexxxt.com:19806/a932b8b3484c4126954b799b8346422e
 TV3,mitv://generationnexxxt.com:19806/468e643a3ec34d139b83f691f5571655
 NTV7,mitv://generationnexxxt.com:19806/85ad24391c6045e2aa60fff6271db53c
 
-🐼馬來西亞测试_888,#genre#
+🐼馬來西亞测试_7788,#genre#
 八度空间,mitv://generationnexxxt.com:19806/5ed75671b2a040ee8df135209f74ec5a
 TV9,mitv://generationnexxxt.com:19806/69040523973b44f2893d07a0f702d604
 Astro Oasis HD,mitv://generationnexxxt.com:19806/10be3305747747f58710e4d80b1dec47
@@ -5500,7 +5500,7 @@ SHOWCASE MOVIES,mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d5968
 beIN Sports 2,mitv://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0
 Golf Channel,mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909
 
-💘新加坡测试_888,#genre#
+💘新加坡测试_7788,#genre#
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 中天亚洲台,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
@@ -5541,7 +5541,7 @@ Hub都会台,mitv://generationnexxxt.com:19806/feb243790576418ea12aa65f7421bb12
 TVBS亚洲,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
 Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
 
-☁️新闻测试_888,#genre#
+☁️新闻测试_7788,#genre#
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 无线新闻台(备),mitv://generationnexxxt.com:19806/bd60966852d044a194e8136c596219fb
 无线新闻台,mitv://generationnexxxt.com:19806/6430f5a1000e1577c1144b254d255b9d
@@ -5599,7 +5599,7 @@ The Weather Network,mitv://generationnexxxt.com:19806/feee91e7ee4541c3a24b385477
 The Weather Channel,mitv://generationnexxxt.com:19806/bd27010686a04dd9bcd17fcedce18344
 
 
-🎵音乐测试_888,#genre#
+🎵音乐测试_7788,#genre#
 MTV,mitv://generationnexxxt.com:19806/6a56e08561c342c5bf9c85a3dafd3c3e
 Music Japan TV,mitv://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea
 MTV Live,mitv://generationnexxxt.com:19806/ee0b3600ae284e5d8af143de9642fa1a
@@ -5607,7 +5607,7 @@ Mezzo Live,mitv://generationnexxxt.com:19806/8d0074c4d67d4fb2b27bc8e844d17440
 CLASSICA 古典乐,mitv://generationnexxxt.com:19806/43c78a976f0d460eb1ab2ac1e68f99ab
 CMusic,mitv://generationnexxxt.com:19806/000c45a51f234a93aa3bceb2790c2d21
 
-🎾体育测试_888,#genre#
+🎾体育测试_7788,#genre#
 CCTV5,mitv://generationnexxxt.com:19806/3b142cffb4924301b28c5f605630801e
 CCTV5+,mitv://generationnexxxt.com:19806/523c903908b7424f9f71bf77a2427b71
 魅力足球,mitv://generationnexxxt.com:19806/8c75b45557f64dbba65257a5c9096077
@@ -5681,7 +5681,7 @@ Sky Sports Cricket,mitv://generationnexxxt.com:19806/4c8af69d907a45a5a2fc2977409
 Sky Sports Action,mitv://generationnexxxt.com:19806/832cfec045fd458f9a490f07770bb879
 Golf Channel,mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909
 
-🐼知识测试_888,#genre#
+🐼知识测试_7788,#genre#
 CCTV9,mitv://generationnexxxt.com:19806/5f684b66c63e4e13a64d397bdcfc6080
 国家地理频道,mitv://generationnexxxt.com:19806/9a869b3585c84caf9c7b9a3fa091e44a
 探索频道,mitv://generationnexxxt.com:19806/14dd277b71834ab88a92f6546dec3ae2
@@ -5715,7 +5715,7 @@ TV5MONDE Style 生活时尚,mitv://generationnexxxt.com:19806/50a3974dcf7e431c91
 Travel Channel,mitv://generationnexxxt.com:19806/15369bd05a294d3087377848d53a0a98
 
 
-🎥电影测试_888,#genre#
+🎥电影测试_7788,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/fabe340b1cc94bc8a42db4844fb7e497
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
@@ -5770,7 +5770,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/d95a1bbfe35f4b9ba69f50ce0d2e46
 Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
 亚洲剧台,mitv://generationnexxxt.com:19806/33c1ad8276a34a8e8c46965da4f44e19
 
-💞GA测试1_888,#genre#
+💞GA测试1_7788,#genre#
  港台電視 31,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/236957176?ticket=597daaf2659b03770c1272b8a371b1e14068a5e1&profile=pass
 港台電視 32,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/239019394?ticket=aa4f8d47ccc101b748e3afa86813b14b88596744&profile=pass
 中央電視台綜合頻道（CCTV-1綜合),http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/330285744?ticket=23b3ac69d6ff4f7f2d4c7355e1d6d5a0f3ba12f3&profile=pass
@@ -6185,7 +6185,7 @@ GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 凤凰香港,http://120.84.96.78:808/hls/81/index.m3u8 
 凤凰香港,http://120.84.96.69:808/hls/81/index.m3u8
 凤凰香港,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
-💞GA测试2_888,#genre#
+💞GA测试2_7788,#genre#
 東森幼幼 HD,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼 HD,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 東森幼幼 HD,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
@@ -6388,7 +6388,7 @@ HBO強檔,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC666393296663
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 美亞電影 HD,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-💞TW测试_888,#genre#
+💞TW测试_7788,#genre#
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 台湾戏剧,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
@@ -6498,7 +6498,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 HBOhits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 
-💘新加坡测试2_888,#genre#
+💘新加坡测试2_7788,#genre#
 HBO,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941648
 HBO Hits,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941647
 HBO Family,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941646
