@@ -6080,7 +6080,7 @@ TV2,mitv://generationnexxxt.com:19806/ed82c864dc0944eea558e8b30c9062a4
 TV3,mitv://generationnexxxt.com:19806/5f4647b9a7424efb84bfc15ea580c9b5
 NTV7,mitv://generationnexxxt.com:19806/a0c30ea620c3479186327e3834ce4ad7
 
-🐼馬來西亞测试_888,#genre#
+🐼馬來西亞测试_7788,#genre#
 八度空间,mitv://generationnexxxt.com:19806/4f9b4b927a7d48efb9bf6bf74ded5bb9
 TV9,mitv://generationnexxxt.com:19806/baeb650a8f9e41979110976e67c9aaf2
 Astro Oasis HD,mitv://generationnexxxt.com:19806/5e29ed4cfeda4303ac5bc3b9b5677b5e
@@ -6198,7 +6198,9 @@ Hub Premier 1,mitv://generationnexxxt.com:19806/4b83405f738042d084055fee7295f311
 Hub都会台,mitv://generationnexxxt.com:19806/feb243790576418ea12aa65f7421bb12
 TVBS亚洲,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
 Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
-☁️新闻测试_888,#genre#
+
+
+☁️新闻测试_7788,#genre#
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 无线新闻台(备),mitv://generationnexxxt.com:19806/31eb1cf3f36f4188a77f4260af2b50d9
 无线新闻台,mitv://generationnexxxt.com:19806/5d705b49a54f430bb3fb362fd82a4a23
@@ -6966,6 +6968,8 @@ GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 凤凰香港,http://120.84.96.78:808/hls/81/index.m3u8 
 凤凰香港,http://120.84.96.69:808/hls/81/index.m3u8
 凤凰香港,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
+
+
 💞GA测试2_7788,#genre#
 東森幼幼 HD,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼 HD,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
@@ -7169,6 +7173,8 @@ HBO強檔,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC666393296663
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 美亞電影 HD,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+
+
 💞TW测试_7788,#genre#
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
