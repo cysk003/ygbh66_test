@@ -1,9 +1,5 @@
 💞月光宝盒,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-经典功夫台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136593.m3u8
-经典剧集台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt121398615.m3u8
-经典功夫台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136593.m3u8
-1905电影,https://hlslive.1905.com:443/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1682244301&sign=8ebf118bbe6fa9fbbde3e16da379653b
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
