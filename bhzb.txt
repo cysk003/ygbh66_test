@@ -11,6 +11,21 @@ StarWorld,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
 东森新闻,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
 ELEVEN1,http://61.221.81.93:8534/hls/65/807/ch843.m3u8
 ELEVEN2,http://61.221.81.93:8539/hls/65/807/ch843.m3u8
+凤凰卫视中文,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=1 凤凰卫视资讯,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=2 TVB翡翠台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=5 TVB无线新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=6 TVB财经体育资讯台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=7 TVB J2台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=8 TVB明珠台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=9 香港有线新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=11 香港有线18台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=12 香港有线高清603台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=13 香港有线体育台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=14 香港有线财经资讯台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=15 NOW新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=17 ViuTV,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=19 ViuTVSix,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=20 香港国际财经台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=22 HOY资讯台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=23 HOY TV,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=24 港台电视31,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=26 港台电视32,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=27 香港卫视HKS,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=30 中天新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=43
+东森新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=44
+东森财经新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=45
+中视新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=46
+台视新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=47
+三立新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=48
+三立iNEWS,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=49
+民视新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=50
+华视新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=51
+镜电视新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=52
+寰宇新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=53
+TVBS新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=54
+TVBS HD,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=56
+TVBS欢乐台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=57
+中视HD,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=60 台视HD,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=61 民视HD,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=62 华视HD,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=63
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
