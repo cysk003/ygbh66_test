@@ -1,5 +1,16 @@
 💞月光宝盒,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+Movie gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
+StarWorld,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
+卫视电影台,http://61.221.81.93:8523/hls/65/807/ch843.m3u8
+东森幼幼,http://61.221.81.93:8525/hls/65/807/ch843.m3u8
+八大综合,http://61.221.81.93:8530/hls/65/807/ch843.m3u8
+八大第一,http://61.221.81.93:8531/hls/65/807/ch843.m3u8
+年代新闻,http://61.221.81.93:8532/hls/65/807/ch843.m3u8
+寰宇新闻,http://61.221.81.93:8513/hls/65/807/ch843.m3u8
+东森新闻,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
+ELEVEN1,http://61.221.81.93:8534/hls/65/807/ch843.m3u8
+ELEVEN2,http://61.221.81.93:8539/hls/65/807/ch843.m3u8
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
