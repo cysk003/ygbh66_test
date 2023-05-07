@@ -70,7 +70,28 @@ MoMo亲子,http://123.51.230.124:8536/.m3u8
 三立台湾台,http://123.51.230.124:8561/.m3u8
 非凡新闻,http://123.51.230.124:8567/.m3u8
 龙华卡通,http://123.51.230.124:8600/.m3u8
-
+翡翠台,http://209.141.47.175/kstv2.php?id=1
+明珠台,http://209.141.47.175/kstv2.php?id=2
+无线新闻,http://209.141.47.175/kstv2.php?id=3
+有线新闻台,http://209.141.47.175/kstv2.php?id=4
+Now新闻台,http://209.141.47.175/kstv2.php?id=5
+VIUTV,http://209.141.47.175/kstv2.php?id=6
+Asia Action,http://209.141.47.175/kstv2.php?id=7
+财经体育资讯台,http://209.141.47.175/kstv2.php?id=8
+Now财经资讯台,http://209.141.47.175/kstv2.php?id=9
+TVB J2,http://209.141.47.175/kstv2.php?id=10
+RHK31,http://209.141.47.175/kstv2.php?id=13
+RHK32,http://209.141.47.175/kstv2.php?id=14
+中天新闻2,http://209.141.47.175/kstv2.php?id=485
+中视新闻,http://209.141.47.175/kstv2.php?id=486
+民视新闻,http://209.141.47.175/kstv2.php?id=487
+东森新闻,http://209.141.47.175/kstv2.php?id=488
+东森财经新闻,http://209.141.47.175/kstv2.php?id=489
+寰宇新闻,http://209.141.47.175/kstv2.php?id=490
+台视新闻,http://209.141.47.175/kstv2.php?id=491
+壹新闻,http://209.141.47.175/kstv2.php?id=492
+天空新闻,http://209.141.47.175/kstv2.php?id=493
+三立iNEWS,http://209.141.47.175/kstv2.php?id=494
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
