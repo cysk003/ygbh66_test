@@ -635,6 +635,7 @@ Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_de
 东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 靓妆,http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
 🌈4K8K,#genre#
+CCTV1-4K, http://1.25.223.190:6868/hls/index.m3u8
 CCTV4K超高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV4K,http://lxajh.top/iptv/cctv.php?id=cctv4k
 CCTV16-4K,http://home.ddx2013.cc:4022/rtp/239.93.5.206:8840
