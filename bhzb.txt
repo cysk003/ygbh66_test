@@ -1,28 +1,5 @@
 🌙月光宝盒,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-翡翠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=2
-HOY TV,http://flv.mp4cdn.live/gt-key=00569874.php?id=1
-明珠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=3
-TVB星河,http://flv.mp4cdn.live/gt-key=00569874.php?id=4
-TVB J2,http://flv.mp4cdn.live/gt-key=00569874.php?id=5
-无线新闻台,http://flv.mp4cdn.live/gt-key=00569874.php?id=13
-无线财经台,http://flv.mp4cdn.live/gt-key=00569874.php?id=14
-天映频道,http://flv.mp4cdn.live/gt-key=00569874.php?id=110
-天映经典,http://flv.mp4cdn.live/gt-key=00569874.php?id=111
-星卫电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=112
-美亚电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=113
-卫视电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=114
-CINEMAX电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=101
-好莱坞电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=100
-AXN电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
-纬来电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=103
-东森电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=104
-东森洋片台,http://flv.mp4cdn.live/gt-key=00569874.php?id=105
-东森戏剧台,http://flv.mp4cdn.live/gt-key=00569874.php?id=106
-HBO电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=99
-龙华洋片台,http://flv.mp4cdn.live/gt-key=00569874.php?id=107
-龙祥电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=108
-卫视中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=109
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
