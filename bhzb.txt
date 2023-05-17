@@ -4502,7 +4502,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 
 
 🌙弯弯测试_778,#genre#
-民视,mitv://generationnexxxt.com:19806/d0c5de227ca34210a2a3222c76e80fd4
+民视,mitv://generationnexxxt.com:19806/645d085e0005113d6d3d8ef25af73081
 人间卫视,mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
 台视,mitv://generationnexxxt.com:19806/6458c4430009f8ea5c9386c26efc600e
 大爱,mitv://generationnexxxt.com:19806/f7a978e8d6d843d7a9bdd457d5d6910c
