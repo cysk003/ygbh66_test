@@ -3,7 +3,6 @@
 经典功夫,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213aazz6559930.m3u8
 经典奇幻,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240089fiyt1213aa988615.m3u8
 经典剧集,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213aaqq988615.m3u8
-经典电影,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213WW6530832.m3u8
 凤凰中文台,mitv://generationnexxxt.com:19806/645385720009117848161b4e340f749d
 凤凰资讯台,mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
 凤凰香港台,mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
