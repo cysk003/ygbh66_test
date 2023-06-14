@@ -1,5 +1,5 @@
 🌙月光宝盒,#genre#
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+凤凰卫视,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686312697&rand=GPCliIMJdJ&uuid=9b647b3816b2a66a&from=web&sign=c469d073b65a1ef009f63e5fb44a7662
 凤凰资讯台,mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
 凤凰香港台,mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
 翡翠台,mitv://generationnexxxt.com:19806/03b76f07cea3474a913541c586fc0747
@@ -88,6 +88,7 @@ CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 🎈央视直播,#genre#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
