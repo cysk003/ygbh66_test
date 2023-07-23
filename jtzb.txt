@@ -781,221 +781,150 @@ GTV网络棋牌,http://live.aishang.ctlcdn.com/00000110240319_1/playlist.m3u8?CO
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
-⚡  百视通,#genre#
-CCTV16-4K,http://lzoq.hk3c.ml/daili/?id=cctv16hd4k/15000000
-CCTV-4K,http://lzoq.hk3c.ml/daili/?id=cctv4k/15000000
-欢笑剧场4k,http://lzoq.hk3c.ml/daili/?id=hxjc4k/15000000
-CCTV1 8M,http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
-CCTV2 8M,http://lzoq.hk3c.ml/daili/?id=cctv2hd8m/8000000
-CCTV3 8M,http://lzoq.hk3c.ml/daili/?id=cctv38m/8000000
-CCTV4 8M,http://lzoq.hk3c.ml/daili/?id=cctv4hd8m/8000000
-CCTV5 8M,http://lzoq.hk3c.ml/daili/?id=cctv58m/8000000
-CCTV5+ 8M,http://lzoq.hk3c.ml/daili/?id=cctv5phd8m/8000000
-CCTV6 8M,http://lzoq.hk3c.ml/daili/?id=cctv6hd8m/8000000
-CCTV7 8M,http://lzoq.hk3c.ml/daili/?id=cctv7hd8m/8000000
-CCTV8 8M,http://lzoq.hk3c.ml/daili/?id=cctv8hd8m/8000000
-CCTV9 8M,http://lzoq.hk3c.ml/daili/?id=cctv9hd8m/8000000
-CCTV10 8M,http://lzoq.hk3c.ml/daili/?id=cctv10hd8m/8000000
-CCTV11 8M,http://lzoq.hk3c.ml/daili/?id=cctv11hd8m/8000000
-CCTV12 8M,http://lzoq.hk3c.ml/daili/?id=cctv12hd8m/8000000
-CCTV13 8M,http://lzoq.hk3c.ml/daili/?id=cctv13xwhd8m/8000000
-CCTV14 8M,http://lzoq.hk3c.ml/daili/?id=cctvsehd8m/8000000
-CCTV15 8M,http://lzoq.hk3c.ml/daili/?id=cctv15hd8m/8000000
-CCTV16 8M,http://lzoq.hk3c.ml/daili/?id=cctv16hd8m/8000000
-CCTV17 8M,http://lzoq.hk3c.ml/daili/?id=cctv17hd8m/8000000
-江苏卫视 8M,http://lzoq.hk3c.ml/daili/?id=jswshd8m/8000000
-广西卫视 8M,http://lzoq.hk3c.ml/daili/?id=gxwshd8m/8000000
-四川卫视 8M,http://lzoq.hk3c.ml/daili/?id=scwshd/8000000
-湖南卫视 8M,http://lzoq.hk3c.ml/daili/?id=hunanwshd8m/8000000
-浙江卫视 8M,http://lzoq.hk3c.ml/daili/?id=zjwshd8m/8000000
-东方卫视 8M,http://lzoq.hk3c.ml/daili/?id=dfwshd8m/8000000
-北京卫视 8M,http://lzoq.hk3c.ml/daili/?id=bjwshd8m/8000000
-天津卫视 8M,http://lzoq.hk3c.ml/daili/?id=tjwshd8m/8000000
-辽宁卫视 8M,http://lzoq.hk3c.ml/daili/?id=lnwshd8m/8000000
-安徽卫视 8M,http://lzoq.hk3c.ml/daili/?id=ahwshd8m/8000000
-黑龙江卫视 8M,http://lzoq.hk3c.ml/daili/?id=hljwshd8m/8000000
-广东卫视 8M,http://lzoq.hk3c.ml/daili/?id=gdwshd8m/8000000
-深圳卫视 8M,http://lzoq.hk3c.ml/daili/?id=szwshd8m/8000000
-湖北卫视 8M,http://lzoq.hk3c.ml/daili/?id=hubeiws8m/8000000
-吉林卫视 8M,http://lzoq.hk3c.ml/daili/?id=jlwshd8m/8000000
-山东卫视 8M,http://lzoq.hk3c.ml/daili/?id=sdws8m/8000000
-江西卫视 8M,http://lzoq.hk3c.ml/daili/?id=jxws8m/8000000
-河南卫视 8M,http://lzoq.hk3c.ml/daili/?id=hnwshd8m/8000000
-河北卫视 8M,http://lzoq.hk3c.ml/daili/?id=hbwshd8m/8000000
-甘肃卫视 8M,http://lzoq.hk3c.ml/daili/?id=gswshd8m/8000000
-重庆卫视 8M,http://lzoq.hk3c.ml/daili/?id=cqws8m/8000000
-东南卫视 8M,http://lzoq.hk3c.ml/daili/?id=dnwshd8m/8000000
-云南卫视 8M,http://lzoq.hk3c.ml/daili/?id=ynwshd8m/8000000
-贵州卫视 8M,http://lzoq.hk3c.ml/daili/?id=gzwshd8m/8000000
-海南卫视 8M,http://lzoq.hk3c.ml/daili/?id=hainanwshd8m/8000000
-欢笑剧场 8M,http://lzoq.hk3c.ml/daili/?id=hxjc8m/8000000
-劲爆体育 8M,http://lzoq.hk3c.ml/daili/?id=jbtyhd8m/8000000
-快乐垂钓 8M,http://lzoq.hk3c.ml/daili/?id=klcd8m/8000000
-金鹰纪实 8M,http://lzoq.hk3c.ml/daili/?id=jyjs8m/8000000
-戏曲精选 8M,http://lzoq.hk3c.ml/daili/?id=xqjx8m/8000000
-上海第一财经 8M,http://lzoq.hk3c.ml/daili/?id=dycjhd8m/8000000
-上视新闻 8M,http://lzoq.hk3c.ml/daili/?id=xwzhhd8m/8000000
-上海都市 8M,http://lzoq.hk3c.ml/daili/?id=dshd8m/8000000
-上海纪实 8M,http://lzoq.hk3c.ml/daili/?id=jspdhd/4000000
-东方影视 8M,http://lzoq.hk3c.ml/daili/?id=dfyshd8m/8000000
-五星体育 8M,http://lzoq.hk3c.ml/daili/?id=wxtyhd8m/8000000
-上视外语 8M,http://lzoq.hk3c.ml/daili/?id=icshd8m/8000000
-七彩戏剧 8M,http://lzoq.hk3c.ml/daili/?id=qcxjhd8m/8000000
-上海教育 8M,http://lzoq.hk3c.ml/daili/?id=setvhd/8000000
-全纪实 8M,http://lzoq.hk3c.ml/daili/?id=qjshd8m/8000000
-生活时尚 8M,http://lzoq.hk3c.ml/daili/?id=shss8m/8000000
-新视觉 8M,http://lzoq.hk3c.ml/daili/?id=xsjhd8m/8000000
-游戏风云 8M,http://lzoq.hk3c.ml/daili/?id=yxfy8m/8000000
-热门综艺 8M,http://lzoq.hk3c.ml/daili/?id=rmzy8m/8000000
-超级体育 8M,http://lzoq.hk3c.ml/daili/?id=qcsj8m/8000000
-健康养生 8M,http://lzoq.hk3c.ml/daili/?id=jkys8m/8000000
-百变课堂 8M,http://lzoq.hk3c.ml/daili/?id=bbkt8m/8000000
-看天下精选 8M,http://lzoq.hk3c.ml/daili/?id=ktxjx8m/8000000
-华语影院 8M,http://lzoq.hk3c.ml/daili/?id=hyyy8m/8000000
-电竞天堂 8M,http://lzoq.hk3c.ml/daili/?id=djtt8m/8000000
-青春动漫 8M,http://lzoq.hk3c.ml/daili/?id=qcdm8m/8000000
-宝宝动画 8M,http://lzoq.hk3c.ml/daili/?id=bbdh8m/8000000
-星光影院 8M,http://lzoq.hk3c.ml/daili/?id=xgyy8m/8000000
-谍战剧场 8M,http://lzoq.hk3c.ml/daili/?id=dzjc8m/8000000
-全球大片 8M,http://lzoq.hk3c.ml/daili/?id=qqdp8m/8000000
-热门剧场 8M,http://lzoq.hk3c.ml/daili/?id=rmjc8m/8000000
-陶瓷高清 8M,http://lzoq.hk3c.ml/daili/?id=taocihd/8000000
-中国教育-1 8M,http://lzoq.hk3c.ml/daili/?id=zgjy1t8m/8000000
-中国教育-4 8M,http://lzoq.hk3c.ml/daili/?id=zgjy4hd8m/8000000
-卡酷少儿 8M,http://lzoq.hk3c.ml/daili/?id=kkse8m/8000000
-纪实科教 8M,http://lzoq.hk3c.ml/daili/?id=dajs8m/8000000
-茶频道 8M,http://lzoq.hk3c.ml/daili/?id=cpdhdavs8m/8000000
-足球高清 8M,http://lzoq.hk3c.ml/daili/?id=zqpd8m/8000000
-炫动卡通 8M,http://lzoq.hk3c.ml/daili/?id=hhxd8m/8000000
-东方财经 8M,http://lzoq.hk3c.ml/daili/?id=dfcjhd8m/8000000
-都市剧场 8M,http://lzoq.hk3c.ml/daili/?id=dsjc8m/8000000
-动漫秀场 8M,http://lzoq.hk3c.ml/daili/?id=dmxc8m/8000000
-法治天地 8M,http://lzoq.hk3c.ml/daili/?id=fztd8m/8000000
-金色学堂 8M,http://lzoq.hk3c.ml/daili/?id=jingsepd8m/8000000
-魅力足球 8M,http://lzoq.hk3c.ml/daili/?id=mlyyhd8m/8000000
-
-🎗重庆有线,#genre#
-欢笑剧场4K,http://bad-ass.site:5678/cqyx.php?id=hxjc_4K
-CCTV-4K,http://bad-ass.site:5678/cqyx.php?id=CCTV4K
-CCTV16-4K,http://bad-ass.site:5678/cqyx.php?id=CCTV16_4K
-CCTV2财经高清,http://bad-ass.site:5678/cqyx.php?id=cctv2HD
-CCTV3综艺高清,http://bad-ass.site:5678/cqyx.php?id=cctv3HD
-CCTV4中文国际高清,http://bad-ass.site:5678/cqyx.php?id=cctv4HD
-CCTV5体育高清,http://bad-ass.site:5678/cqyx.php?id=cctv5HD
-CCTV5P高清,http://bad-ass.site:5678/cqyx.php?id=cctv5SportHD
-CCTV6电影高清,http://bad-ass.site:5678/cqyx.php?id=cctv6HD
-CCTV7国防军事高清,http://bad-ass.site:5678/cqyx.php?id=cctv7HD
-CCTV8电视剧高清,http://bad-ass.site:5678/cqyx.php?id=cctv8HD
-CCTV9纪录高清,http://bad-ass.site:5678/cqyx.php?id=cctv9HD
-CCTV10科教高清,http://bad-ass.site:5678/cqyx.php?id=cctv10HD
-CCTV11戏曲高清,http://bad-ass.site:5678/cqyx.php?id=cctv11HD
-CCTV12社会与法高清,http://bad-ass.site:5678/cqyx.php?id=cctv12HD
-CCTV13新闻高清,http://bad-ass.site:5678/cqyx.php?id=CCTVNewsHD
-CCTV14少儿高清,http://bad-ass.site:5678/cqyx.php?id=cctvseHD
-CCTV15音乐高清,http://bad-ass.site:5678/cqyx.php?id=cctv15HD
-CCTV16奥林匹克高清,http://bad-ass.site:5678/cqyx.php?id=cctv16HD
-CCTV17农业农村高清,http://bad-ass.site:5678/cqyx.php?id=cctv17HD
-重庆卫视高清,http://bad-ass.site:5678/cqyx.php?id=chongqingHD
-江苏卫视高清,http://bad-ass.site:5678/cqyx.php?id=jiangsuHD
-北京卫视高清,http://bad-ass.site:5678/cqyx.php?id=beijingHD
-浙江卫视高清,http://bad-ass.site:5678/cqyx.php?id=zhejiangHD
-东方卫视高清,http://bad-ass.site:5678/cqyx.php?id=shanghaiHD
-深圳卫视高清,http://bad-ass.site:5678/cqyx.php?id=shenzhenHD
-辽宁卫视高清,http://bad-ass.site:5678/cqyx.php?id=liaoningHD
-天津卫视高清,http://bad-ass.site:5678/cqyx.php?id=tianjinHD
-贵州卫视高清,http://bad-ass.site:5678/cqyx.php?id=guizhouHD
-四川卫视高清,http://bad-ass.site:5678/cqyx.php?id=sichuanHD
-云南卫视高清,http://bad-ass.site:5678/cqyx.php?id=yunnanSD
-东南卫视高清,http://bad-ass.site:5678/cqyx.php?id=dongnanHD
-黑龙江卫视高清,http://bad-ass.site:5678/cqyx.php?id=heilongjiangHD
-安徽卫视高清,http://bad-ass.site:5678/cqyx.php?id=anhuiSD
-河北卫视高清,http://bad-ass.site:5678/cqyx.php?id=hebeiSD
-江西卫视高清,http://bad-ass.site:5678/cqyx.php?id=jiangxiHD
-湖北卫视高清,http://bad-ass.site:5678/cqyx.php?id=hubeiSD
-海南卫视高清,http://bad-ass.site:5678/cqyx.php?id=hainanSD
-吉林卫视高清,http://bad-ass.site:5678/cqyx.php?id=jilinHD
-广西卫视高清,http://bad-ass.site:5678/cqyx.php?id=guangxiHD
-内蒙古卫视,http://bad-ass.site:5678/cqyx.php?id=neimengkuSD
-湖南卫视高清,http://bad-ass.site:5678/cqyx.php?id=hunanHD
-广东卫视高清,http://bad-ass.site:5678/cqyx.php?id=guangdongHD
-河南卫视高清,http://bad-ass.site:5678/cqyx.php?id=henanHD
-山西卫视,http://bad-ass.site:5678/cqyx.php?id=shanxiSD
-兵团卫视,http://bad-ass.site:5678/cqyx.php?id=bingtuanSD
-宁夏卫视,http://bad-ass.site:5678/cqyx.php?id=ningxia
-北京卡酷少儿,http://bad-ass.site:5678/cqyx.php?id=bjkakuSD
-金鹰卡通高清,http://bad-ass.site:5678/cqyx.php?id=jinyingSD
-三沙卫视,http://bad-ass.site:5678/cqyx.php?id=sanshaSD
-青海卫视,http://bad-ass.site:5678/cqyx.php?id=qinghaiSD
-中国天气,http://bad-ass.site:5678/cqyx.php?id=tianqiSD
-北京纪实科教高清,http://bad-ass.site:5678/cqyx.php?id=bjayjsSD
-山东教育卫视,http://bad-ass.site:5678/cqyx.php?id=sdjiaoyuSD
-新疆卫视,http://bad-ass.site:5678/cqyx.php?id=xinjiangSD
-西藏卫视,http://bad-ass.site:5678/cqyx.php?id=xizangSD
-CGTN,http://bad-ass.site:5678/cqyx.php?id=cgtnSD
-CETV-1,http://bad-ass.site:5678/cqyx.php?id=cetv-1SD
-CETV-4,http://bad-ass.site:5678/cqyx.php?id=cetv-4SD
-生活时尚,http://bad-ass.site:5678/cqyx.php?id=shenghuo
-百姓健康,http://bad-ass.site:5678/cqyx.php?id=jiankangSD
-快乐垂钓高清,http://bad-ass.site:5678/cqyx.php?id=klcdHD
-第一剧场高清,http://bad-ass.site:5678/cqyx.php?id=diyijuchangHD
-都市剧场高清,http://bad-ass.site:5678/cqyx.php?id=dsjcHD
-动漫秀场高清,http://bad-ass.site:5678/cqyx.php?id=dmxcHD
-魅力足球高清,http://bad-ass.site:5678/cqyx.php?id=mlzqHD
-风云剧场高清,http://bad-ass.site:5678/cqyx.php?id=fyjcHD
-求索纪录高清,http://bad-ass.site:5678/cqyx.php?id=qsjlHD
-兵器科技高清,http://bad-ass.site:5678/cqyx.php?id=bqkjHD
-游戏风云高清,http://bad-ass.site:5678/cqyx.php?id=yxfyHD
-怀旧剧场高清,http://bad-ass.site:5678/cqyx.php?id=hjjcHD
-风云音乐高清,http://bad-ass.site:5678/cqyx.php?id=fyyyHD
-央视台球高清,http://bad-ass.site:5678/cqyx.php?id=ystqHD
-风云足球高清,http://bad-ass.site:5678/cqyx.php?id=fyzqHD
-央视文化精品高清,http://bad-ass.site:5678/cqyx.php?id=yswhHD
-高尔夫网球高清,http://bad-ass.site:5678/cqyx.php?id=golfHD
-早期教育高清,http://bad-ass.site:5678/cqyx.php?id=zaojiaoHD
-重庆新闻高清,http://bad-ass.site:5678/cqyx.php?id=CQTVNewsHD
-重庆影视高清,http://bad-ass.site:5678/cqyx.php?id=cqyingshiHD
-重庆社会与法高清,http://bad-ass.site:5678/cqyx.php?id=CQTVTrendyHD
-重庆时尚生活高清,http://bad-ass.site:5678/cqyx.php?id=cqssgwHD
-重庆文体娱乐高清,http://bad-ass.site:5678/cqyx.php?id=cqwtylHD
-重庆新农村高清,http://bad-ass.site:5678/cqyx.php?id=cqggncHD
-重庆少儿高清,http://bad-ass.site:5678/cqyx.php?id=cqseHD
-重庆科教高清,http://bad-ass.site:5678/cqyx.php?id=CQTVkejiaoHD
-爱看导视高清,http://bad-ass.site:5678/cqyx.php?id=aikanHD
-重庆汽摩高清,http://bad-ass.site:5678/cqyx.php?id=cqcarSD
-重庆移动高清,http://bad-ass.site:5678/cqyx.php?id=mryyHD
-重广融媒,http://bad-ass.site:5678/cqyx.php?id=cqrongmei
-优购物,http://bad-ass.site:5678/cqyx.php?id=yougouwu
-家家购物,http://bad-ass.site:5678/cqyx.php?id=jjgw
-风尚购物,http://bad-ass.site:5678/cqyx.php?id=fsgw
-聚鲨环球精选,http://bad-ass.site:5678/cqyx.php?id=jusha
-中视购物,http://bad-ass.site:5678/cqyx.php?id=ysgw
-家有购物,http://bad-ass.site:5678/cqyx.php?id=jygw
-央广购物,http://bad-ass.site:5678/cqyx.php?id=yggw
-东方财经高清,http://bad-ass.site:5678/cqyx.php?id=dfcj
-证券服务,http://bad-ass.site:5678/cqyx.php?id=jiazheng
-书画,http://bad-ass.site:5678/cqyx.php?id=shuhua
-新动漫,http://bad-ass.site:5678/cqyx.php?id=dongman
-国学频道,http://bad-ass.site:5678/cqyx.php?id=guoxue
-优优宝贝,http://bad-ass.site:5678/cqyx.php?id=youxi
-中华特产,http://bad-ass.site:5678/cqyx.php?id=techan
-环球奇观,http://bad-ass.site:5678/cqyx.php?id=car
-生态环境,http://bad-ass.site:5678/cqyx.php?id=shengtai
-四海钓鱼,http://bad-ass.site:5678/cqyx.php?id=diaoyu
-发现之旅,http://bad-ass.site:5678/cqyx.php?id=faxian
-车迷,http://bad-ass.site:5678/cqyx.php?id=doxtv
-法治天地,http://bad-ass.site:5678/cqyx.php?id=fazhi
-金色学堂,http://bad-ass.site:5678/cqyx.php?id=jinse
-收藏天下,http://bad-ass.site:5678/cqyx.php?id=soucang
-财富天下,http://bad-ass.site:5678/cqyx.php?id=caifu
-女性时尚,http://bad-ass.site:5678/cqyx.php?id=nvxing
-中学生,http://bad-ass.site:5678/cqyx.php?id=qicai
-天元围棋,http://bad-ass.site:5678/cqyx.php?id=weiqi
-先锋乒羽,http://bad-ass.site:5678/cqyx.php?id=xianfeng
-环球旅游,http://bad-ass.site:5678/cqyx.php?id=huanqiulvyou
-老故事,http://bad-ass.site:5678/cqyx.php?id=gushi
-摄影频道,http://bad-ass.site:5678/cqyx.php?id=sheying
-靓妆,http://bad-ass.site:5678/cqyx.php?id=liang
-
+🍇  北京IPTV,#genre#
+CCTV-1,http://qnap.yjnhome.com:4000/udp/239.3.1.129:8008
+CCTV-2,http://qnap.yjnhome.com:4000/udp/239.3.1.60:8084
+CCTV-3,http://qnap.yjnhome.com:4000/udp/239.3.1.172:8001
+CCTV-4,http://qnap.yjnhome.com:4000/udp/239.3.1.105:8092
+CCTV-5,http://qnap.yjnhome.com:4000/udp/239.3.1.173:8001
+CCTV-5+,http://qnap.yjnhome.com:4000/udp/239.3.1.130:8004
+CCTV-6,http://qnap.yjnhome.com:4000/udp/239.3.1.174:8001
+CCTV-7,http://qnap.yjnhome.com:4000/udp/239.3.1.61:8104
+CCTV-8,http://qnap.yjnhome.com:4000/udp/239.3.1.175:8001
+CCTV-9,http://qnap.yjnhome.com:4000/udp/239.3.1.62:8112
+CCTV-10,http://qnap.yjnhome.com:4000/udp/239.3.1.63:8116
+CCTV-11,http://qnap.yjnhome.com:4000/udp/239.3.1.152:8120
+CCTV-12,http://qnap.yjnhome.com:4000/udp/239.3.1.64:8124
+CCTV-13,http://qnap.yjnhome.com:4000/udp/239.3.1.124:8128
+CCTV-14,http://qnap.yjnhome.com:4000/udp/239.3.1.65:8132
+CCTV-15,http://qnap.yjnhome.com:4000/udp/239.3.1.153:8136
+CCTV-16,http://qnap.yjnhome.com:4000/udp/239.3.1.184:8001
+CCTV-17,http://qnap.yjnhome.com:4000/udp/239.3.1.151:8144
+CCTV4欧洲,http://qnap.yjnhome.com:4000/udp/239.3.1.213:4220
+CCTV4美洲,http://qnap.yjnhome.com:4000/udp/239.3.1.214:4220
+CGTN,http://qnap.yjnhome.com:4000/udp/239.3.1.215:4220
+CGTN纪录频道,http://qnap.yjnhome.com:4000/udp/239.3.1.216:4220
+CGTN西班牙语,http://qnap.yjnhome.com:4000/udp/239.3.1.217:4220
+CGTN法语,http://qnap.yjnhome.com:4000/udp/239.3.1.218:4220
+CGTN阿拉伯语,http://qnap.yjnhome.com:4000/udp/239.3.1.219:4220
+CGTN俄语,http://qnap.yjnhome.com:4000/udp/239.3.1.220:4220
+CETV1,http://qnap.yjnhome.com:4000/udp/239.3.1.57:8152
+CETV2,http://qnap.yjnhome.com:4000/udp/239.3.1.54:4120
+CETV3,http://qnap.yjnhome.com:4000/udp/239.3.1.55:4120
+CETV4,http://qnap.yjnhome.com:4000/udp/239.3.1.56:4120
+通州融媒,http://qnap.yjnhome.com:4000/udp/239.3.1.221:8001
+朝阳融媒,http://qnap.yjnhome.com:4000/udp/239.3.1.163:8001
+北京IPTV淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+北京IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+北京IPTV萌宠,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+北京IPTV淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+北京IPTV淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+北京IPTV4K超清,http://qnap.yjnhome.com:4000/udp/239.3.1.249:8001
+北京IPTV淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+IPTV收视指南,http://qnap.yjnhome.com:4000/udp/239.3.1.193:8012
+IPTV热播剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.194:9020
+IPTV经典电影,http://qnap.yjnhome.com:4000/udp/239.3.1.195:9024
+IPTV魅力时尚,http://qnap.yjnhome.com:4000/udp/239.3.1.196:9012
+IPTV少儿动画,http://qnap.yjnhome.com:4000/udp/239.3.1.199:9000
+爱上4K,http://qnap.yjnhome.com:4000/udp/239.3.1.236:2000
+大健康,http://qnap.yjnhome.com:4000/udp/239.3.1.251:8001
+密云电视台,http://qnap.yjnhome.com:4000/udp/239.3.1.154:8001
+晴采竞技,http://qnap.yjnhome.com:4000/udp/239.3.1.125:8001
+晴采篮球,http://qnap.yjnhome.com:4000/udp/239.3.1.126:8001
+晴采羽毛球,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001
+晴采广场舞,http://qnap.yjnhome.com:4000/udp/239.3.1.128:8001
+体育赛事高清,http://qnap.yjnhome.com:4000/udp/239.3.1.157:8176
+北京房山电视台,http://qnap.yjnhome.com:4000/udp/239.3.1.96:8001
+北京体育休闲,http://qnap.yjnhome.com:4000/udp/239.3.1.97:8001
+北京纪实科教,http://qnap.yjnhome.com:4000/udp/239.3.1.115:8000
+北京财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
+北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
+北京影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
+北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+北京卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.241:8000
+北京文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
+北京体育休闲,http://qnap.yjnhome.com:4000/udp/239.3.1.243:8000
+北京国际频道,http://qnap.yjnhome.com:4000/udp/239.3.1.235:8000
+卡酷少儿,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
+中国交通,http://qnap.yjnhome.com:4000/udp/239.3.1.188:8001
+快乐垂钓,http://qnap.yjnhome.com:4000/udp/239.3.1.164:8001
+茶频道,http://qnap.yjnhome.com:4000/udp/239.3.1.165:8001
+BesTV,http://qnap.yjnhome.com:4000/udp/239.3.1.166:8001
+时尚购物,http://qnap.yjnhome.com:4000/udp/239.3.1.181:8001
+金鹰纪实高清,http://qnap.yjnhome.com:4000/udp/239.3.1.58:8156
+熊猫频道高清,http://qnap.yjnhome.com:4000/udp/239.3.1.66:8068
+每日影院高清,http://qnap.yjnhome.com:4000/udp/239.3.1.111:8001
+幸福剧场高清,http://qnap.yjnhome.com:4000/udp/239.3.1.112:8001
+幸福娱乐高清,http://qnap.yjnhome.com:4000/udp/239.3.1.113:8001
+风尚生活高清,http://qnap.yjnhome.com:4000/udp/239.3.1.114:8001
+纪实人文高清,http://qnap.yjnhome.com:4000/udp/239.3.1.212:8060
+重庆卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.122:8160
+江西卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.123:8164
+湖南卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.132:8012
+黑龙江卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.133:8016
+深圳卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.134:8020
+江苏卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.135:8028
+东方卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.136:8032
+浙江卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.137:8036
+湖北卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.138:8044
+天津卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.141:1234
+广东卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.142:8048
+东南卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.156:8148
+山东卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.209:8052
+辽宁卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.210:8056
+安徽卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.211:8064
+河北卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.148:8072
+贵州卫视高清,http://qnap.yjnhome.com:4000/udp/239.3.1.149:8076
+延庆TV,http://qnap.yjnhome.com:4000/udp/239.3.1.187:8001
+城市剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.67:4120
+军旅剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.68:4120
+古装剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.69:4120
+音乐现场,http://qnap.yjnhome.com:4000/udp/239.3.1.70:4120
+地理,http://qnap.yjnhome.com:4000/udp/239.3.1.71:4120
+美妆,http://qnap.yjnhome.com:4000/udp/239.3.1.72:4120
+健康,http://qnap.yjnhome.com:4000/udp/239.3.1.73:4120
+精选,http://qnap.yjnhome.com:4000/udp/239.3.1.74:4120
+解密,http://qnap.yjnhome.com:4000/udp/239.3.1.75:4120
+军事,http://qnap.yjnhome.com:4000/udp/239.3.1.76:4120
+国学,http://qnap.yjnhome.com:4000/udp/239.3.1.77:4120
+戏曲,http://qnap.yjnhome.com:4000/udp/239.3.1.78:4120
+早教,http://qnap.yjnhome.com:4000/udp/239.3.1.79:4120
+动画,http://qnap.yjnhome.com:4000/udp/239.3.1.80:4120
+好学生,http://qnap.yjnhome.com:4000/udp/239.3.1.81:4120
+鉴赏,http://qnap.yjnhome.com:4000/udp/239.3.1.82:4120
+墨宝,http://qnap.yjnhome.com:4000/udp/239.3.1.83:4120
+光影,http://qnap.yjnhome.com:4000/udp/239.3.1.84:4120
+台球,http://qnap.yjnhome.com:4000/udp/239.3.1.85:4120
+爱生活,http://qnap.yjnhome.com:4000/udp/239.3.1.86:4120
+武术,http://qnap.yjnhome.com:4000/udp/239.3.1.87:4120
+高网,http://qnap.yjnhome.com:4000/udp/239.3.1.88:4120
+足球,http://qnap.yjnhome.com:4000/udp/239.3.1.89:4120
+武侠剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.90:4120
+喜剧影院,http://qnap.yjnhome.com:4000/udp/239.3.1.91:4120
+动作影院,http://qnap.yjnhome.com:4000/udp/239.3.1.92:4120
+家庭影院,http://qnap.yjnhome.com:4000/udp/239.3.1.93:4120
+星影,http://qnap.yjnhome.com:4000/udp/239.3.1.94:4120
+山东教育卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.52:4120
+厦门卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.143:4120
+兵团卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.144:4120
+三沙卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.155:4120
+云南卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.26:8108
+河南卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.27:8128
+四川卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.29:8288
+广西卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.39:8300
+吉林卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.40:8200
+陕西卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.41:8140
+山西卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.42:8172
+内蒙古卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.43:8176
+青海卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.44:8184
+海南卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.45:8304
+宁夏卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.46:8124
+西藏卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.47:8164
+新疆卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.48:8160
+甘肃卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.49:8188
+金鹰卡通,http://qnap.yjnhome.com:4000/udp/239.3.1.51:9252
+财富天下,http://qnap.yjnhome.com:4000/udp/239.3.1.53:9136
+嘉佳卡通,http://qnap.yjnhome.com:4000/udp/239.3.1.147:9268
 🐯动画片,#genre#
 【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
