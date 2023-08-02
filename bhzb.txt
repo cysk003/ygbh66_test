@@ -1,6 +1,5 @@
 🌙月光宝盒,#genre#
-经典功夫台,https://cn-sdqd-cu-01-18.bilivideo.com/live-bvc/701749/live_179302204_68184269/index.m3u8
-凤凰中文台,mitv://generationnexxxt.com:19806/98826034592245d18d0a7f9e29f1398f
+凤凰中文台,http://685123.xyz:4022/udp/239.61.2.184:9092
 凤凰资讯台,mitv://generationnexxxt.com:19806/c25ff00d1f62473190819062e87bb70d
 凤凰香港台,mitv://generationnexxxt.com:19806/eba2c91eb6c54e51b78036d9412a355c
 翡翠台,mitv://generationnexxxt.com:19806/6986050f9a7a48fc8df8e2637d10b610
