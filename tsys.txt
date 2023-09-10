@@ -6226,7 +6226,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 回复VIP,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 获取密码,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 
-🌙弯弯测试_000,#genre#
+🌙弯弯测试_007,#genre#
 民視,mitv://generationnexxxt.com:19806/8b0e721cee984d389cef154c1b1c4ca9
 台視,mitv://generationnexxxt.com:19806/db1ae87e258f44af90cae52fda2d0c4c
 大愛,mitv://generationnexxxt.com:19806/36b6c78f2eff4d0f9c55a220482902d4
@@ -6404,7 +6404,7 @@ TV2,mitv://generationnexxxt.com:19806/69d668a50a2c4d55bc1adfbdf2f29bf7
 TV3,mitv://generationnexxxt.com:19806/fa74ead583154a9692291aeb75eb5bb2
 NTV7,mitv://generationnexxxt.com:19806/e8957c5d3f8845cb939db883be072101
 
-🌈GA测试_000,#genre#
+🌈GA测试_007,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/46b5d17a4a76433fa3c8844ea592f1a4
 港台電視32,mitv://generationnexxxt.com:19806/bf27a990692d464287ecbc83a985d4e8
 HOY TV,mitv://generationnexxxt.com:19806/66ae283536404e0fa8b242fdfc01fd6f
@@ -6441,7 +6441,7 @@ Hands Up,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 HOY資訊台,mitv://generationnexxxt.com:19806/415368ba86e14ffcbfb8eb75955909b6
 黃金翡翠台,mitv://generationnexxxt.com:19806/22725782a38d437cb56a92eede2d8c3b
 
-🐼馬來西亞测试_000,#genre#
+🐼馬來西亞测试_007,#genre#
 八度空間,mitv://generationnexxxt.com:19806/2e2b2c26f8e54bbbb79581b30bb9816e
 TV9,mitv://generationnexxxt.com:19806/c941b205cbac44c093ccb803f4a3e41a
 Astro Oasis HD,mitv://generationnexxxt.com:19806/a95390cc70a94c80bbfdd92bbc4242a2
@@ -6476,7 +6476,7 @@ WWE,mitv://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
 Sky News,mitv://generationnexxxt.com:19806/004e34fc27b949339dc56c7dfc272f76
 八度空間(備),mitv://generationnexxxt.com:19806/daa79ab2d5c64092b7868388c9fe3d2d
 
-💘新加坡测试_000,#genre#
+💘新加坡测试_007,#genre#
 天映频道,mitv://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
 中天亚洲台,mitv://generationnexxxt.com:19806/0ca9f16b087d4fe8bd97852c47a222b7
 TVB星河,mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
@@ -6508,7 +6508,7 @@ TVBS亚洲,mitv://generationnexxxt.com:19806/3ee34cdd82744fb39ef758059e7d2704
 NBA,mitv://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
 beINSports2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 
-☁️新闻测试_000,#genre#
+☁️新闻测试_007,#genre#
 壹電視新聞台,mitv://generationnexxxt.com:19806/c4815d36091444f4b75aa85a2d8e301f
 年代新聞,mitv://generationnexxxt.com:19806/34f11ed9e7a444aaa0bd1dd00416dafb
 東森新聞台,mitv://generationnexxxt.com:19806/a9b20866a39f45cbafacba9a002ee334
@@ -6527,7 +6527,7 @@ TVBS,mitv://generationnexxxt.com:19806/f953c331e4b342a99a7641c47b1dee7d
 民視(備),mitv://generationnexxxt.com:19806/45c8bb9ecc574de589fe3a27534f7ce4
 三立台灣台(備),mitv://generationnexxxt.com:19806/28d4d1825da74b3c8dcd40e771ea9f49
 
-🎥电影测试_000,#genre#
+🎥电影测试_007,#genre#
 美亚电影台(粤语),mitv://135.148.104.228:19806/6eac4ae393a34f7ca2da2a053a558ebb
 Hands Up,mitv://135.148.104.228:19806/e78b4e2900154414a93f2ccd57a18d04
 粤语片台,mitv://135.148.104.228:19806/887df0bf0d8d492d95b9c2fdf6cc9694
@@ -6554,7 +6554,7 @@ HBO Family,mitv://generationnexxxt.com:19806/7bca5155f8a44196ba9fe323990a7347
 CatchPlay電影台,mitv://generationnexxxt.com:19806/860efac5532f42a09e2ab286acc2fb11
 CinemaWorld,mitv://generationnexxxt.com:19806/7477c2f2247c470ab03e34d744b5c871
 
-🔆晴天_000,#genre#
+🔆晴天_007,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/46b5d17a4a76433fa3c8844ea592f1a4
 港台電視32,mitv://generationnexxxt.com:19806/bf27a990692d464287ecbc83a985d4e8
 HOY TV,mitv://generationnexxxt.com:19806/66ae283536404e0fa8b242fdfc01fd6f
