@@ -7442,16 +7442,6 @@ TVBJ2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&
 纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 
 🌈彩虹頻道_555,#genre#
-松视1台,p3p://108.181.32.169:19906/641a7fef0001cbadc0dd785024cf7b16
-松视3台,p3p://108.181.32.169:19906/641a8072000b7475c0df7a8149c10bc0
-松视2台,p3p://108.181.32.169:19906/641a80840007ebe4c0dfbfea75246776
-HAPPY,p3p://108.181.32.169:19906/641a803200002963c0de7d9d18c613b0
-彩虹K,p3p://108.181.32.169:19906/641a80460008b827c0decdee29e32e4a
-玩美台,p3p://108.181.32.169:19906/641a809400078800c0dffe502ef54240
-亚视香蕉台,p3p://108.181.32.169:19906/641a80a30005f9aac0e038823bb70f3f
-ATV 垫台,P3P://108.181.32.169:19906/641a80b3000e6c47c0e0793a487a2d83
-极限台HOT,p3p://108.181.32.169:19906/641a80c500043976c0e0bced75a64dff
-彩虹电影,p3p://108.181.32.169:19906/641a8056000984f3c0df0ca20be706a6
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
 Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
