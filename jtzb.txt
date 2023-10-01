@@ -1,41 +1,47 @@
 🌙月光宝盒,#genre#
-凤凰中文台,mitv://135.148.104.228:19806/64e1ab2a000417167359b3ca0417008f	
-凤凰资讯台,mitv://135.148.104.228:19806/09e4cacca57e465e8bdd47481f842b83
-凤凰香港台,mitv://135.148.104.228:19806/1229628cd9d1442ca81ee8e3148dbbf6
-翡翠台,mitv://135.148.104.228:19806/1b03d72fd3854026b21904e939b8446a
-千禧经典台,mitv://135.148.104.228:19806/82237250e487405d87030dd69457ddd8
-民视,mitv://135.148.104.228:19806/2923338a99ed4f3a8a926f991db63f91
-台视,mitv://135.148.104.228:19806/cfe8fbcc016c43f0a13a14e99590b830
-中视,mitv://135.148.104.228:19806/d8a4444e9e8243f2bacda6e83e5b3360
-华视,mitv://135.148.104.228:19806/d643aa6dda144eecb59010ebafed5158
-公视,mitv://135.148.104.228:19806/6b4c144ae0ff4771b16379ce24eb617c
-壹电视新闻台,mitv://135.148.104.228:19806/69bc3f48acbe43e1b65d928484493bf6
-年代新闻,mitv://135.148.104.228:19806/0bf2d916da0d417da403b3ad8b443207
-东森新闻台,mitv://135.148.104.228:19806/434f406290f4487ba856102b81e44930
-中天新闻台,mitv://135.148.104.228:19806/95e0fd8e10fc45f2bf22b5ad01dab744
-民视新闻台,mitv://135.148.104.228:19806/fa380c90b64a447b820240abc23adaea
-三立新闻台,mitv://135.148.104.228:19806/6d2efbadfee2444a888f5803120b1306
-TVBS新闻台,mitv://135.148.104.228:19806/fa4f9e56359342278c55f9c11c143a8a
-TVBS,mitv://135.148.104.228:19806/dddbab0921ec4c208e9ea6e1465be102
-东森财经新闻台,mitv://135.148.104.228:19806/8c73f47217ca44ceb4990ca148a420b4
-非凡新闻台,mitv://135.148.104.228:19806/6739a31d1a014cfd91c19b6fc1921fa5
-卫视电影台,mitv://135.148.104.228:19806/7caf8e26ae87407baac900f7d0895397
-东森电影台,mitv://135.148.104.228:19806/5d89062fdd644e54930ba7a924e587a2
-纬来电影台,mitv://135.148.104.228:19806/e3e23dac0aa247bc99b086dca9421832
-龙祥电影,mitv://135.148.104.228:19806/e796c82d6c1a490791fe1199144f5a2f
-HBO,mitv://135.148.104.228:19806/75471b978f834023861a7d9cdbbd7ae3
-东森洋片台,mitv://135.148.104.228:19806/0255c1e6952344f98f6bdf52779cee14
-AXN,mitv://135.148.104.228:19806/cf3cb2e9fc6e4d53b4ae52cf2a686e72
-好莱坞电影台,mitv://135.148.104.228:19806/99468997c2604a98be4751d4064fb498
-CINEMAX,mitv://135.148.104.228:19806/40c0e2c415e5435e9ee04fccfba51cc2
-HBO强档巨献,mitv://135.148.104.228:19806/8605cd40b7eb47fea356c3a400e292ae
-HBO原创巨献,mitv://135.148.104.228:19806/30effc0e95f7495eb7288ecb76593586
-美亚电影台HD,mitv://135.148.104.228:19806/675e0fe8a3774f5bbaf20de4231db82a
-龙华电影,mitv://135.148.104.228:19806/4cf167ce356c45629e4c875f43cafb7f
-星卫HD电影台,mitv://135.148.104.228:19806/bff0654037ad4bbca9f80de6b786d10e
-靖天映画,mitv://135.148.104.228:19806/48c24c38ac8747fc845617e556995d75
-靖天电影台,mitv://135.148.104.228:19806/8c504b55f34840b3a5c624d87c0cf6c7
-WARNER TV,mitv://135.148.104.228:19806/9a8e53a38fe149238568062ffcb11a9c
+凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
+凤凰资讯台,mitv://generationnexxxt.com:19806/f1be3950960d423a9f70c8144718c7cf
+凤凰香港台,mitv://generationnexxxt.com:19806/4c2233f1428e4425946cbdc304eb5a20
+翡翠台,mitv://generationnexxxt.com:19806/1e872ba83c4242098a5074c34ca37fee
+千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
+民视,mitv://generationnexxxt.com:19806/67614555f2e0493aa68a4912bbc3ca32
+台视,mitv://generationnexxxt.com:19806/7e96091d946f478fbd7b2d04d35253ce
+大爱,mitv://generationnexxxt.com:19806/040bf47fdbea454b8b1dc1aae5bd8bd0
+中视,mitv://generationnexxxt.com:19806/4bee246a3f114de9944e48b2005d7ed7
+华视,mitv://generationnexxxt.com:19806/92d7df1601d944d6a97c994c7460b432
+公视,mitv://generationnexxxt.com:19806/6f827d241c504813a63f3469c7ccac3c
+壹电视新闻台,mitv://generationnexxxt.com:19806/5291fb0eeedb4cd4b2555e2196c56874
+年代新闻,mitv://generationnexxxt.com:19806/bb726b86b3c74b42b4d3e693c30ccf01
+东森新闻台,mitv://generationnexxxt.com:19806/6d283ea40817411b9cca82d0ffad8fe7
+中天新闻台,mitv://generationnexxxt.com:19806/4d02c86f480c4ec29169bde01e17fec0
+民视新闻台,mitv://generationnexxxt.com:19806/54411d1bafbf443098720c39ba3212ab
+三立新闻台,mitv://generationnexxxt.com:19806/d02b1b35fb894b13b46ee654b6fda2f6
+TVBS新闻台,mitv://generationnexxxt.com:19806/5791bca9be3148bc81c4b623781d3852
+TVBS,mitv://generationnexxxt.com:19806/37fbb2509ff3485785203592ab7f5cb5
+东森财经新闻台,mitv://generationnexxxt.com:19806/d3dd5d1fc5b84e738696a32198dab11e
+非凡新闻台,mitv://generationnexxxt.com:19806/8063160e04104b5fb09c5ddd25b7a87a
+卫视电影台,mitv://generationnexxxt.com:19806/147499c7793f4fa6a48b14d287b72fcc
+东森电影台,mitv://generationnexxxt.com:19806/c9ff7e530ae34feba5d08a8be936b64a
+纬来电影台,mitv://generationnexxxt.com:19806/4ea1be9dfb81421e849d74580e2abf05
+龙祥电影,mitv://generationnexxxt.com:19806/cca4e692d7a9403f93231edf88edc05c
+HBO,mitv://generationnexxxt.com:19806/174c242cc77645be987adcacaf9208c7
+东森洋片台,mitv://generationnexxxt.com:19806/aa3b6bbccc2a4dabb85c29f8b8786ebe
+AXN,mitv://generationnexxxt.com:19806/450b9f6dd64f4b44830eaf7890f8a759
+好莱坞电影台,mitv://generationnexxxt.com:19806/3a29fafa3d3c4681b7c63a25d9d6e020
+CINEMAX,mitv://generationnexxxt.com:19806/9d557910141f439b8ff5dc1d3fc17a60
+HBO强档巨献,mitv://generationnexxxt.com:19806/17928b81686945cea3879a3f5a6de834
+HBO原创巨献,mitv://generationnexxxt.com:19806/74972f0ebe0c41caa720eded997f4cd5
+美亚电影台HD,mitv://generationnexxxt.com:19806/a305d7c10c3a4ec68de4291d096b7e14
+龙华电影,mitv://generationnexxxt.com:19806/93919f18a2bc4da2857bb649bd7e7925
+星卫HD电影台,mitv://generationnexxxt.com:19806/ef24e99452a94d4c9a5179185b03b818
+靖天映画,mitv://generationnexxxt.com:19806/9ece76aaf30e4ac1a114fd4e979545f9
+靖天电影台,mitv://generationnexxxt.com:19806/072df6ec878c4cb8a80ce8d0897aacd0
+WARNER TV,mitv://generationnexxxt.com:19806/5986e0a4349f4a74b41bfa2b9491e04d
+Star Movies HD,mitv://generationnexxxt.com:19806/04b97ec7062c4750a14bbfcce49eee1f
+AMC最爱电影,mitv://generationnexxxt.com:19806/45b64b901eaa48c588631df99dc8b598
+HBO Family,mitv://generationnexxxt.com:19806/f4f9122892d54968b79b5d89280154d7
+CatchPlay电影台,mitv://generationnexxxt.com:19806/083b3294aedb429a841c5285e0a76b99
+
 
 三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
