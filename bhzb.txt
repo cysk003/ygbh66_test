@@ -467,277 +467,423 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 百视通体育7,https://cntv.sbs/tv?auth=231013&id=sport7
 
 📺8M专区,#genre#
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-
-CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1
-CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
-CCTV1,http://175.10.37.200:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
-CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2
-CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
-CCTV2,http://175.10.37.200:9901/tsfile/live/0002_1.m3u8
-CCTV2,http://218.29.55.44:808/hls/2/index.m3u8
-CCTV3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3
-CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
-CCTV3,http://175.10.37.200:9901/tsfile/live/0003_1.m3u8
-CCTV3,http://218.29.55.44:808/hls/3/index.m3u8
-CCTV4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
-CCTV4,http://125.210.152.19:9120/live/hzgq-cctv4gq-h264.m3u8
-CCTV4,http://175.10.37.200:9901/tsfile/live/0004_1.m3u8
-CCTV4,http://218.29.55.44:808/hls/4/index.m3u8
-CCTV5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5
-CCTV5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
-CCTV5,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
-CCTV5,http://175.10.37.200:9901/tsfile/live/0005_1.m3u8
-CCTV5,http://218.29.55.44:808/hls/5/index.m3u8
-CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
-CCTV5+,http://xuehanwei.my03.com:8888/udp/239.253.92.82:8013
-CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-CCTV6,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6
-CCTV6,http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8
-CCTV6,http://175.10.37.200:9901/tsfile/live/0006_1.m3u8
-CCTV6,http://218.29.55.44:808/hls/6/index.m3u8
-CCTV7,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7
-CCTV7,http://125.210.152.19:9120/live/hzgq-cctv7gq-h264.m3u8
-CCTV7,http://175.10.37.200:9901/tsfile/live/0007_1.m3u8
-CCTV7,http://218.29.55.44:808/hls/7/index.m3u8
-CCTV8,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8
-CCTV8,http://125.210.152.19:9120/live/hzgq-cctv8gq-h264.m3u8
-CCTV8,http://175.10.37.200:9901/tsfile/live/0008_1.m3u8
-CCTV8,http://218.29.55.44:808/hls/8/index.m3u8
-CCTV9,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9
-CCTV9,http://125.210.152.19:9120/live/hzgq-cctvjlgq-h264.m3u8
-CCTV9,http://218.29.55.44:808/hls/9/index.m3u8
-CCTV10,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10
-CCTV10,http://125.210.152.19:9120/live/hzgq-cctv10gq-h264.m3u8
-CCTV10,http://218.29.55.44:808/hls/10/index.m3u8
-CCTV11,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11
-CCTV11,http://125.210.152.19:9120/live/hzgq-cctv11gq-h264.m3u8
-CCTV11,http://175.10.37.200:9901/tsfile/live/0011_1.m3u8
-CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
-CCTV12,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12
-CCTV12,http://125.210.152.19:9120/live/hzgq-cctv12gq-h264.m3u8
-CCTV12,http://175.10.37.200:9901/tsfile/live/0012_1.m3u8
-CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
-CCTV13,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
-CCTV13,http://125.210.152.19:9120/live/hzgq-cctvnewsgq-h264.m3u8
-CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
-CCTV14,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14
-CCTV14,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
-CCTV14,http://175.10.37.200:9901/tsfile/live/0014_1.m3u8
-CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
-CCTV15,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15
-CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
-CCTV15,http://175.10.37.200:9901/tsfile/live/0015_1.m3u8
-CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
-CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
-CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17
-CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
-CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
-生活时尚,http://baidu.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8
-生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8?zshangd
-百姓健康,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8
-每日影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/mryyHD/__op/default/__f//index.m3u8
-幸福剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/xfjcHD/__op/default/__f//index.m3u8
-快乐垂钓,http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8
-第一剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-都市剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
-都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-动漫秀场,http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
-动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8?zshangd
-魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-风云剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-求索纪录,http://baidu.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
-兵器科技,http://baidu.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
-游戏风云,http://baidu.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8?zshangd
-幸福娱乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f//index.m3u8
-怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key
-风云音乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
-央视台球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
-风云足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-央视文化精品,http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
-高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
-早期教育,http://baidu.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f//index.m3u8
-CHC高清电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-江苏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
-江苏卫视,http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8
-江苏卫视,http://218.204.51.252:9901/tsfile/live/1029_1.m3u8
-北京卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
-北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
-北京卫视,http://218.204.51.252:9901/tsfile/live/1026_1.m3u8
-浙江卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
-浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
-浙江卫视,http://218.204.51.252:9901/tsfile/live/1027_1.m3u8
-东方卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
-东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
-东方卫视,http://218.204.51.252:9901/tsfile/live/1025_1.m3u8
-深圳卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
-深圳卫视,http://125.210.152.19:9120/live/hzgq-szwsgq-h264.m3u8
-深圳卫视,http://218.204.51.252:9901/tsfile/live/1037_1.m3u8
-辽宁卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
-辽宁卫视,http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8
-辽宁卫视,http://218.204.51.252:9901/tsfile/live/1030_1.m3u8
-天津卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
-天津卫视,http://125.210.152.19:9120/live/hzgq-tjwsgq-h264.m3u8
-天津卫视,http://218.204.51.252:9901/tsfile/live/1042_1.m3u8
-贵州卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
-贵州卫视,http://218.204.51.252:9901/tsfile/live/1047_1.m3u8
-四川卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
-四川卫视,http://125.210.152.19:9120/live/hzgq-ssws-h264.m3u8
-四川卫视,http://218.204.51.252:9901/tsfile/live/1038_1.m3u8
-重庆卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
-重庆卫视,http://125.210.152.19:9120/live/hzgq-cqwsgq-h264.m3u8
-重庆卫视,http://218.204.51.252:9901/tsfile/live/1041_1.m3u8
-云南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
-云南卫视,http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8
-云南卫视,http://218.204.51.252:9901/tsfile/live/1040_1.m3u8
-黑龙江卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
-黑龙江卫视,http://125.210.152.19:9120/live/hzgq-hljwsgq-h264.m3u8
-黑龙江卫视,http://218.204.51.252:9901/tsfile/live/1028_1.m3u8
-安徽卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
-安徽卫视,http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8
-安徽卫视,http://218.204.51.252:9901/tsfile/live/1032_1.m3u8
-河北卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
-河北卫视,http://125.210.152.19:9120/live/hzgq-hbwsgq1-h264.m3u8
-河北卫视,http://218.204.51.252:9901/tsfile/live/1045_1.m3u8
-江西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
-江西卫视,http://125.210.152.19:9120/live/hzgq-jxwsgq-h264.m3u8
-江西卫视,http://218.204.51.252:9901/tsfile/live/1033_1.m3u8
-湖北卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
-湖北卫视,http://125.210.152.19:9120/live/hzgq-hbwsgq-h264.m3u8
-湖北卫视,http://218.204.51.252:9901/tsfile/live/1036_1.m3u8
-海南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
-海南卫视,http://125.210.152.19:9120/live/hszx-lytv-h264.m3u8
-东南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
-吉林卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
-吉林卫视,http://125.210.152.19:9120/live/hzgq-jlwsgq-h264.m3u8
-吉林卫视,http://218.204.51.252:9901/tsfile/live/1048_1.m3u8
-广西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
-广西卫视,http://218.204.51.252:9901/tsfile/live/1003_1.m3u8
-内蒙古卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/neimengkuSD/__op/default/__f//index.m3u8
-内蒙古卫视,http://125.210.152.19:9120/live/hszx-nmgtv-h264.m3u8
-湖南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
-湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
-湖南卫视,http://218.204.51.252:9901/tsfile/live/1035_1.m3u8
-广东卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
-广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
-广东卫视,http://218.204.51.252:9901/tsfile/live/1031_1.m3u8
-河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
-河南卫视,http://218.204.51.252:9901/tsfile/live/1039_1.m3u8
-山西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
-山西卫视,http://218.204.51.252:9901/tsfile/live/1043_1.m3u8
-兵团卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
-兵团卫视,http://125.210.152.19:9120/live/hszx-bttv-h264.m3u8
-宁夏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
-宁夏卫视,http://125.210.152.19:9120/live/hszx-nxtv-h264.m3u8
-宁夏卫视,http://218.204.51.252:9901/tsfile/live/1049_1.m3u8
-三沙卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
-青海卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
-青海卫视,http://125.210.152.19:9120/live/hszx-qhtv-h264.m3u8
-青海卫视,http://218.204.51.252:9901/tsfile/live/1050_1.m3u8
-中国天气,http://baidu.live.cqccn.com/__cl/cg:live/__c/tianqiSD/__op/default/__f//index.m3u8
-新疆卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
-新疆卫视,http://125.210.152.19:9120/live/hszx-xjtv-h264.m3u8
-新疆卫视,http://218.204.51.252:9901/tsfile/live/1044_1.m3u8
-西藏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
-西藏卫视,http://125.210.152.19:9120/live/hszx-xztv-h264.m3u8
-西藏卫视,http://218.204.51.252:9901/tsfile/live/1046_1.m3u8
-北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
-甘肃卫视,http://125.210.152.19:9120/live/hszx-gstv-h264.m3u8
-山东卫视,http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8
-山东卫视,http://218.204.51.252:9901/tsfile/live/1034_1.m3u8
-陕西卫视,http://125.210.152.19:9120/live/hszx-shanxitv-h264.m3u8
-陕西卫视,http://125.210.152.19:9120/live/hszx-sxtv-h264.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8?zshangd
-欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
-上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
-上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-上海教育,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8?zshangd
-上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-法制天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-浦东财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-七彩戏曲,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
-全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8?zshangd
-极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
-幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8?zshangd
-金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8?zshangd
-七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8?zshangd
-东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
-纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
-上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
-KBS1,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
-KBS2,http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
-MBC,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
-SBS,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
-
+CCTV-1 综合,https://cntv.sbs/tv?auth=231013&id=cctv1
+CCTV-2 财经,https://cntv.sbs/tv?auth=231013&id=cctv2
+CCTV-3 综艺,https://cntv.sbs/tv?auth=231013&id=cctv3
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=231013&id=cctv4
+CCTV-5 体育,https://cntv.sbs/tv?auth=231013&id=cctv5
+CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=231013&id=cctv5p
+CCTV-6 电影,https://cntv.sbs/tv?auth=231013&id=cctv6
+CCTV-7 国防军事,https://cntv.sbs/tv?auth=231013&id=cctv7
+CCTV-8 电视剧,https://cntv.sbs/tv?auth=231013&id=cctv8
+CCTV-9 纪录,https://cntv.sbs/tv?auth=231013&id=cctv9
+CCTV-10 科教,https://cntv.sbs/tv?auth=231013&id=cctv10
+CCTV-11 戏曲,https://cntv.sbs/tv?auth=231013&id=cctv11
+CCTV-12 社会与法,https://cntv.sbs/tv?auth=231013&id=cctv12
+CCTV-13 新闻,https://cntv.sbs/tv?auth=231013&id=cctv13
+CCTV-14 少儿,https://cntv.sbs/tv?auth=231013&id=cctv14
+CCTV-15 音乐,https://cntv.sbs/tv?auth=231013&id=cctv15
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231013&id=cctv16
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=231013&id=cctv17
+CCTV-4K 超高清,https://cntv.sbs/tv?auth=231013&id=cctv4k
+CCTV-16 4K,https://cntv.sbs/tv?auth=231013&id=cctv164k
+北京卫视,https://cntv.sbs/tv?auth=231013&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=231013&id=dfws
+天津卫视,https://cntv.sbs/tv?auth=231013&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=231013&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=231013&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=231013&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=231013&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=231013&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=231013&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=231013&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=231013&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=231013&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=231013&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=231013&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=231013&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=231013&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=231013&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=231013&id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=231013&id=hunws
+江西卫视,https://cntv.sbs/tv?auth=231013&id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=231013&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=231013&id=zjws
+东南卫视,https://cntv.sbs/tv?auth=231013&id=dnws
+海峡卫视,https://cntv.sbs/tv?auth=231013&id=hxws
+厦门卫视,https://cntv.sbs/tv?auth=231013&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=231013&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=231013&id=szws
+广西卫视,https://cntv.sbs/tv?auth=231013&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=231013&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=231013&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=231013&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=231013&id=kbws
+海南卫视,https://cntv.sbs/tv?auth=231013&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=231013&id=ssws
+新疆卫视,https://cntv.sbs/tv?auth=231013&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=231013&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=231013&id=xzws
+西藏藏语卫视,https://cntv.sbs/tv?auth=231013&id=xzzyws
+CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
+CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
+北京纪实科教,https://cntv.sbs/tv?auth=231013&id=bjjskj
+纪实人文,https://cntv.sbs/tv?auth=231013&id=shjsrw
+动漫秀场,https://cntv.sbs/tv?auth=231013&id=dmxc
+哈哈炫动,https://cntv.sbs/tv?auth=231013&id=hhxd
+欢笑剧场,https://cntv.sbs/tv?auth=231013&id=hxjc
+欢笑剧场 4K,https://cntv.sbs/tv?auth=231013&id=hxjc4k
+都市剧场,https://cntv.sbs/tv?auth=231013&id=dsjc
+五星体育,https://cntv.sbs/tv?auth=231013&id=wxty
+劲爆体育,https://cntv.sbs/tv?auth=231013&id=jbty
+新视觉,https://cntv.sbs/tv?auth=231013&id=xsj
+游戏风云,https://cntv.sbs/tv?auth=231013&id=yxfy
+生活时尚,https://cntv.sbs/tv?auth=231013&id=shss
+金色学堂,https://cntv.sbs/tv?auth=231013&id=jspd
+乐游,https://cntv.sbs/tv?auth=231013&id=qjs
+魅力足球,https://cntv.sbs/tv?auth=231013&id=mlzq
+茶频道,https://cntv.sbs/tv?auth=231013&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=231013&id=klcd
+金鹰纪实,https://cntv.sbs/tv?auth=231013&id=jyjs
+金鹰卡通,https://cntv.sbs/tv?auth=231013&id=jykt
+嘉佳卡通,https://cntv.sbs/tv?auth=231013&id=jjkt
+财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
+中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
+梨园,https://pi.0472.org/tv/ly.php?auth=231013
+上海新闻综合,https://cntv.sbs/tv?auth=231013&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=231013&id=shds
+上海ICS外语,https://cntv.sbs/tv?auth=231013&id=shics
+东方影视,https://cntv.sbs/tv?auth=231013&id=dfys
+七彩戏剧,https://cntv.sbs/tv?auth=231013&id=qcxj
+第一财经,https://cntv.sbs/tv?auth=231013&id=dycj
+法治天地,https://cntv.sbs/tv?auth=231013&id=fztd
+东方财经,https://cntv.sbs/tv?auth=231013&id=dfcj
+上海教育,https://cntv.sbs/tv?auth=231013&id=shjy
+东方购物,https://cntv.sbs/tv?auth=231013&id=dfgw
+浦东电视台,https://cntv.sbs/tv?auth=231013&id=pdtv
+福建综合,https://cntv.sbs/tv?auth=231013&id=fjzh
+福建新闻,https://cntv.sbs/tv?auth=231013&id=fjxw
+福建电视剧,https://cntv.sbs/tv?auth=231013&id=fjdsj
+福建文体,https://cntv.sbs/tv?auth=231013&id=fjwt
+福建少儿,https://cntv.sbs/tv?auth=231013&id=fjse
+福建旅游,https://cntv.sbs/tv?auth=231013&id=fjly
+福建经济,https://cntv.sbs/tv?auth=231013&id=fjjj
+福建公共,https://cntv.sbs/tv?auth=231013&id=fjgg
+福建教育,https://cntv.sbs/tv?auth=231013&id=fjjy
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+看天下精选,https://cntv.sbs/tv?auth=231013&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=231013&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=231013&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=231013&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=231013&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=231013&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=231013&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=231013&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=231013&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=231013&id=xqjx
+健康养生,https://cntv.sbs/tv?auth=231013&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=231013&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=231013&id=bbdh
+百视通体育1,https://cntv.sbs/tv?auth=231013&id=sport1
+百视通体育2,https://cntv.sbs/tv?auth=231013&id=sport2
+百视通体育3,https://cntv.sbs/tv?auth=231013&id=sport3
+百视通体育4,https://cntv.sbs/tv?auth=231013&id=sport4
+百视通体育5,https://cntv.sbs/tv?auth=231013&id=sport5
+百视通体育6,https://cntv.sbs/tv?auth=231013&id=sport6
+百视通体育7,https://cntv.sbs/tv?auth=231013&id=sport7
+CCTV-1 综合,https://cntv.sbs/tv?auth=231013&id=cctv1
+CCTV-2 财经,https://cntv.sbs/tv?auth=231013&id=cctv2
+CCTV-3 综艺,https://cntv.sbs/tv?auth=231013&id=cctv3
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=231013&id=cctv4
+CCTV-5 体育,https://cntv.sbs/tv?auth=231013&id=cctv5
+CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=231013&id=cctv5p
+CCTV-6 电影,https://cntv.sbs/tv?auth=231013&id=cctv6
+CCTV-7 国防军事,https://cntv.sbs/tv?auth=231013&id=cctv7
+CCTV-8 电视剧,https://cntv.sbs/tv?auth=231013&id=cctv8
+CCTV-9 纪录,https://cntv.sbs/tv?auth=231013&id=cctv9
+CCTV-10 科教,https://cntv.sbs/tv?auth=231013&id=cctv10
+CCTV-11 戏曲,https://cntv.sbs/tv?auth=231013&id=cctv11
+CCTV-12 社会与法,https://cntv.sbs/tv?auth=231013&id=cctv12
+CCTV-13 新闻,https://cntv.sbs/tv?auth=231013&id=cctv13
+CCTV-14 少儿,https://cntv.sbs/tv?auth=231013&id=cctv14
+CCTV-15 音乐,https://cntv.sbs/tv?auth=231013&id=cctv15
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231013&id=cctv16
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=231013&id=cctv17
+CCTV-4K 超高清,https://cntv.sbs/tv?auth=231013&id=cctv4k
+CCTV-16 4K,https://cntv.sbs/tv?auth=231013&id=cctv164k
+北京卫视,https://cntv.sbs/tv?auth=231013&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=231013&id=dfws
+天津卫视,https://cntv.sbs/tv?auth=231013&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=231013&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=231013&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=231013&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=231013&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=231013&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=231013&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=231013&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=231013&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=231013&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=231013&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=231013&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=231013&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=231013&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=231013&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=231013&id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=231013&id=hunws
+江西卫视,https://cntv.sbs/tv?auth=231013&id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=231013&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=231013&id=zjws
+东南卫视,https://cntv.sbs/tv?auth=231013&id=dnws
+海峡卫视,https://cntv.sbs/tv?auth=231013&id=hxws
+厦门卫视,https://cntv.sbs/tv?auth=231013&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=231013&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=231013&id=szws
+广西卫视,https://cntv.sbs/tv?auth=231013&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=231013&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=231013&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=231013&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=231013&id=kbws
+海南卫视,https://cntv.sbs/tv?auth=231013&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=231013&id=ssws
+新疆卫视,https://cntv.sbs/tv?auth=231013&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=231013&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=231013&id=xzws
+西藏藏语卫视,https://cntv.sbs/tv?auth=231013&id=xzzyws
+CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
+CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
+北京纪实科教,https://cntv.sbs/tv?auth=231013&id=bjjskj
+纪实人文,https://cntv.sbs/tv?auth=231013&id=shjsrw
+动漫秀场,https://cntv.sbs/tv?auth=231013&id=dmxc
+哈哈炫动,https://cntv.sbs/tv?auth=231013&id=hhxd
+欢笑剧场,https://cntv.sbs/tv?auth=231013&id=hxjc
+欢笑剧场 4K,https://cntv.sbs/tv?auth=231013&id=hxjc4k
+都市剧场,https://cntv.sbs/tv?auth=231013&id=dsjc
+五星体育,https://cntv.sbs/tv?auth=231013&id=wxty
+劲爆体育,https://cntv.sbs/tv?auth=231013&id=jbty
+新视觉,https://cntv.sbs/tv?auth=231013&id=xsj
+游戏风云,https://cntv.sbs/tv?auth=231013&id=yxfy
+生活时尚,https://cntv.sbs/tv?auth=231013&id=shss
+金色学堂,https://cntv.sbs/tv?auth=231013&id=jspd
+乐游,https://cntv.sbs/tv?auth=231013&id=qjs
+魅力足球,https://cntv.sbs/tv?auth=231013&id=mlzq
+茶频道,https://cntv.sbs/tv?auth=231013&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=231013&id=klcd
+金鹰纪实,https://cntv.sbs/tv?auth=231013&id=jyjs
+金鹰卡通,https://cntv.sbs/tv?auth=231013&id=jykt
+嘉佳卡通,https://cntv.sbs/tv?auth=231013&id=jjkt
+财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
+中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
+梨园,https://pi.0472.org/tv/ly.php?auth=231013
+上海新闻综合,https://cntv.sbs/tv?auth=231013&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=231013&id=shds
+上海ICS外语,https://cntv.sbs/tv?auth=231013&id=shics
+东方影视,https://cntv.sbs/tv?auth=231013&id=dfys
+七彩戏剧,https://cntv.sbs/tv?auth=231013&id=qcxj
+第一财经,https://cntv.sbs/tv?auth=231013&id=dycj
+法治天地,https://cntv.sbs/tv?auth=231013&id=fztd
+东方财经,https://cntv.sbs/tv?auth=231013&id=dfcj
+上海教育,https://cntv.sbs/tv?auth=231013&id=shjy
+东方购物,https://cntv.sbs/tv?auth=231013&id=dfgw
+浦东电视台,https://cntv.sbs/tv?auth=231013&id=pdtv
+福建综合,https://cntv.sbs/tv?auth=231013&id=fjzh
+福建新闻,https://cntv.sbs/tv?auth=231013&id=fjxw
+福建电视剧,https://cntv.sbs/tv?auth=231013&id=fjdsj
+福建文体,https://cntv.sbs/tv?auth=231013&id=fjwt
+福建少儿,https://cntv.sbs/tv?auth=231013&id=fjse
+福建旅游,https://cntv.sbs/tv?auth=231013&id=fjly
+福建经济,https://cntv.sbs/tv?auth=231013&id=fjjj
+福建公共,https://cntv.sbs/tv?auth=231013&id=fjgg
+福建教育,https://cntv.sbs/tv?auth=231013&id=fjjy
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+看天下精选,https://cntv.sbs/tv?auth=231013&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=231013&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=231013&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=231013&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=231013&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=231013&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=231013&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=231013&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=231013&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=231013&id=xqjx
+健康养生,https://cntv.sbs/tv?auth=231013&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=231013&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=231013&id=bbdh
+百视通体育1,https://cntv.sbs/tv?auth=231013&id=sport1
+百视通体育2,https://cntv.sbs/tv?auth=231013&id=sport2
+百视通体育3,https://cntv.sbs/tv?auth=231013&id=sport3
+百视通体育4,https://cntv.sbs/tv?auth=231013&id=sport4
+百视通体育5,https://cntv.sbs/tv?auth=231013&id=sport5
+百视通体育6,https://cntv.sbs/tv?auth=231013&id=sport6
+百视通体育7,https://cntv.sbs/tv?auth=231013&id=sport7
+CCTV-1 综合,https://cntv.sbs/tv?auth=231013&id=cctv1
+CCTV-2 财经,https://cntv.sbs/tv?auth=231013&id=cctv2
+CCTV-3 综艺,https://cntv.sbs/tv?auth=231013&id=cctv3
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=231013&id=cctv4
+CCTV-5 体育,https://cntv.sbs/tv?auth=231013&id=cctv5
+CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=231013&id=cctv5p
+CCTV-6 电影,https://cntv.sbs/tv?auth=231013&id=cctv6
+CCTV-7 国防军事,https://cntv.sbs/tv?auth=231013&id=cctv7
+CCTV-8 电视剧,https://cntv.sbs/tv?auth=231013&id=cctv8
+CCTV-9 纪录,https://cntv.sbs/tv?auth=231013&id=cctv9
+CCTV-10 科教,https://cntv.sbs/tv?auth=231013&id=cctv10
+CCTV-11 戏曲,https://cntv.sbs/tv?auth=231013&id=cctv11
+CCTV-12 社会与法,https://cntv.sbs/tv?auth=231013&id=cctv12
+CCTV-13 新闻,https://cntv.sbs/tv?auth=231013&id=cctv13
+CCTV-14 少儿,https://cntv.sbs/tv?auth=231013&id=cctv14
+CCTV-15 音乐,https://cntv.sbs/tv?auth=231013&id=cctv15
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231013&id=cctv16
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=231013&id=cctv17
+CCTV-4K 超高清,https://cntv.sbs/tv?auth=231013&id=cctv4k
+CCTV-16 4K,https://cntv.sbs/tv?auth=231013&id=cctv164k
+北京卫视,https://cntv.sbs/tv?auth=231013&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=231013&id=dfws
+天津卫视,https://cntv.sbs/tv?auth=231013&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=231013&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=231013&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=231013&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=231013&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=231013&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=231013&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=231013&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=231013&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=231013&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=231013&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=231013&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=231013&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=231013&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=231013&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=231013&id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=231013&id=hunws
+江西卫视,https://cntv.sbs/tv?auth=231013&id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=231013&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=231013&id=zjws
+东南卫视,https://cntv.sbs/tv?auth=231013&id=dnws
+海峡卫视,https://cntv.sbs/tv?auth=231013&id=hxws
+厦门卫视,https://cntv.sbs/tv?auth=231013&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=231013&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=231013&id=szws
+广西卫视,https://cntv.sbs/tv?auth=231013&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=231013&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=231013&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=231013&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=231013&id=kbws
+海南卫视,https://cntv.sbs/tv?auth=231013&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=231013&id=ssws
+新疆卫视,https://cntv.sbs/tv?auth=231013&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=231013&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=231013&id=xzws
+西藏藏语卫视,https://cntv.sbs/tv?auth=231013&id=xzzyws
+CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
+CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
+北京纪实科教,https://cntv.sbs/tv?auth=231013&id=bjjskj
+纪实人文,https://cntv.sbs/tv?auth=231013&id=shjsrw
+动漫秀场,https://cntv.sbs/tv?auth=231013&id=dmxc
+哈哈炫动,https://cntv.sbs/tv?auth=231013&id=hhxd
+欢笑剧场,https://cntv.sbs/tv?auth=231013&id=hxjc
+欢笑剧场 4K,https://cntv.sbs/tv?auth=231013&id=hxjc4k
+都市剧场,https://cntv.sbs/tv?auth=231013&id=dsjc
+五星体育,https://cntv.sbs/tv?auth=231013&id=wxty
+劲爆体育,https://cntv.sbs/tv?auth=231013&id=jbty
+新视觉,https://cntv.sbs/tv?auth=231013&id=xsj
+游戏风云,https://cntv.sbs/tv?auth=231013&id=yxfy
+生活时尚,https://cntv.sbs/tv?auth=231013&id=shss
+金色学堂,https://cntv.sbs/tv?auth=231013&id=jspd
+乐游,https://cntv.sbs/tv?auth=231013&id=qjs
+魅力足球,https://cntv.sbs/tv?auth=231013&id=mlzq
+茶频道,https://cntv.sbs/tv?auth=231013&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=231013&id=klcd
+金鹰纪实,https://cntv.sbs/tv?auth=231013&id=jyjs
+金鹰卡通,https://cntv.sbs/tv?auth=231013&id=jykt
+嘉佳卡通,https://cntv.sbs/tv?auth=231013&id=jjkt
+财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
+中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
+梨园,https://pi.0472.org/tv/ly.php?auth=231013
+上海新闻综合,https://cntv.sbs/tv?auth=231013&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=231013&id=shds
+上海ICS外语,https://cntv.sbs/tv?auth=231013&id=shics
+东方影视,https://cntv.sbs/tv?auth=231013&id=dfys
+七彩戏剧,https://cntv.sbs/tv?auth=231013&id=qcxj
+第一财经,https://cntv.sbs/tv?auth=231013&id=dycj
+法治天地,https://cntv.sbs/tv?auth=231013&id=fztd
+东方财经,https://cntv.sbs/tv?auth=231013&id=dfcj
+上海教育,https://cntv.sbs/tv?auth=231013&id=shjy
+东方购物,https://cntv.sbs/tv?auth=231013&id=dfgw
+浦东电视台,https://cntv.sbs/tv?auth=231013&id=pdtv
+福建综合,https://cntv.sbs/tv?auth=231013&id=fjzh
+福建新闻,https://cntv.sbs/tv?auth=231013&id=fjxw
+福建电视剧,https://cntv.sbs/tv?auth=231013&id=fjdsj
+福建文体,https://cntv.sbs/tv?auth=231013&id=fjwt
+福建少儿,https://cntv.sbs/tv?auth=231013&id=fjse
+福建旅游,https://cntv.sbs/tv?auth=231013&id=fjly
+福建经济,https://cntv.sbs/tv?auth=231013&id=fjjj
+福建公共,https://cntv.sbs/tv?auth=231013&id=fjgg
+福建教育,https://cntv.sbs/tv?auth=231013&id=fjjy
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+看天下精选,https://cntv.sbs/tv?auth=231013&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=231013&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=231013&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=231013&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=231013&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=231013&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=231013&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=231013&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=231013&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=231013&id=xqjx
+健康养生,https://cntv.sbs/tv?auth=231013&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=231013&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=231013&id=bbdh
+百视通体育1,https://cntv.sbs/tv?auth=231013&id=sport1
+百视通体育2,https://cntv.sbs/tv?auth=231013&id=sport2
+百视通体育3,https://cntv.sbs/tv?auth=231013&id=sport3
+百视通体育4,https://cntv.sbs/tv?auth=231013&id=sport4
+百视通体育5,https://cntv.sbs/tv?auth=231013&id=sport5
+百视通体育6,https://cntv.sbs/tv?auth=231013&id=sport6
+百视通体育7,https://cntv.sbs/tv?auth=231013&id=sport7
 🍺体育,#genre#
 ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
