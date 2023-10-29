@@ -6365,19 +6365,11 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/f0de2ebba97c423fb1346753af8284
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 
 🌈彩虹頻道_8,#genre#
-松视1,http://193.233.206.48:8090/live/rx3/402/39cd9e52d157a4a11fe18823b1c2a3da/index.m3u8
-松视2,http://193.233.206.48:8090/live/rx3/403/32a197acb4b79f0cdf2a0845921b5167/index.m3u8
-松视3,http://193.233.206.48:8090/live/rx3/404/617643fef33ced7281eb86ccb7aa95b9/index.m3u8
-香蕉台,http://193.233.206.48:8090/live/rx3/408/1d24aceb2f68650e6c3e5cf0802c31e2/index.m3u8
-彩虹电影,http://193.233.206.48:8090/live/rx3/413/dac0d1d0e5c4c4febb34fd55d060723d/index.m3u8
-彩虹K,http://193.233.206.48:8090/live/rx3/406/51ea72993b31fb34a98de364f48d6c76/index.m3u8
-彩虹e,http://193.233.206.48:8090/live/rx3/415/e59f5e3ae0b7961349fe259b21b4a9fb/index.m3u8
-惊豔台,http://193.233.206.48:8090/live/rx3/409/7ce439e2933fb371169fc323d862923b/index.m3u8
-Erox HD,http://193.233.206.48:8090/live/rx3/456/7b1808bc48674799848603932039975a/index.m3u8
-Passie,http://193.233.206.48:8090/live/rx3/461/f1e227e79064f445d431694b5d38dc24/index.m3u8
-一本道,http://193.233.206.48:8090/live/rx3/414/051e24e543a869a6c093515b1de2f866/index.m3u8
-花花公子,http://193.233.206.48:8090/live/rx3/411/144204c74345cbb0b32872950b46766d/index.m3u8
-东京热,http://193.233.206.48:8090/live/rx3/416/022a52378c121428111e52b901589148/index.m3u8
+ 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
+🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+👅奥視3,http://125.227.210.55:62697/VideoInput/play.ts
+🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
+🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
 Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
