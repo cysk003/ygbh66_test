@@ -1,10 +1,6 @@
 🌙月光宝盒,#genre#
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
 民视,mitv://generationnexxxt.com:19806/c283dae9b9c54001874b6fbd69cf362b
 台视,mitv://generationnexxxt.com:19806/d2879f0e519d4d4ca5f0c2c735a08f8e
 中视,mitv://generationnexxxt.com:19806/f776be7674ee4abf9d084c6b558f5312
@@ -6114,7 +6110,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 回复VIP,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 获取密码,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 
-🌙弯弯测试_111,#genre#
+🌙弯弯测试_118,#genre#
 民视,mitv://generationnexxxt.com:19806/c283dae9b9c54001874b6fbd69cf362b
 台视,mitv://generationnexxxt.com:19806/d2879f0e519d4d4ca5f0c2c735a08f8e
 大爱,mitv://generationnexxxt.com:19806/71cbf744bb734a33af8138eb1f6e4c8d
@@ -6286,7 +6282,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/8a01b92cfba546019469635346591c
 东森新闻台(备),mitv://generationnexxxt.com:19806/c16b13dab46e4092984c99a819bbcbb5
 镜新闻,mitv://generationnexxxt.com:19806/01d1b7f588ad4204bf329f1abd6b3b5c
 MTV,mitv://generationnexxxt.com:19806/af4a6dd557ef4587931a5d669ac3d846
-🌈GA测试_111,#genre#
+🌈GA测试_118,#genre#
 港台電視31,mitv://generationnexxxt.com:19806/60cd512a1a9948df8e871e6696d4d4fb
 港台电视32,mitv://generationnexxxt.com:19806/ba11cdec809541238c037a1dfebddf86
 HOY TV,mitv://generationnexxxt.com:19806/68a9ac7c33e249a48ff33d4fd1b43a6b
@@ -6321,7 +6317,7 @@ Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
 HOY资讯台,mitv://generationnexxxt.com:19806/f123e0afc9164a3b85208bd3020e7ad6
 黄金翡翠台,mitv://generationnexxxt.com:19806/fdaec93475b945138bcda01606e6d8bc
-🐼馬來西亞测试_111,#genre#
+🐼馬來西亞测试_118,#genre#
 TV1,mitv://generationnexxxt.com:19806/9e0eceaf93854a4eb3d9ae2dcf60141c
 TV2,mitv://generationnexxxt.com:19806/a3f71a80564c4deda0a57a4ba6ed2175
 TV3,mitv://generationnexxxt.com:19806/71eab7f7f53d4d86aad166f9abfb07aa
@@ -6386,7 +6382,7 @@ HITS Movies,mitv://generationnexxxt.com:19806/3378871c64764b95b54499b6bc7f618d
 beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 Golf Channel,mitv://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd
  
-💘新加坡测试_111,#genre#
+💘新加坡测试_118,#genre#
 天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 中天亚洲台,mitv://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
 TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
@@ -6418,7 +6414,7 @@ TVBS亚洲,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
 NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
  
-☁️新闻测试_111,#genre#
+☁️新闻测试_118,#genre#
 无线新闻台(备),mitv://generationnexxxt.com:19806/dfe0352f4325442ab92e283086c52a96
 无线新闻台,mitv://generationnexxxt.com:19806/2053db4a28a84a93b2dd5927fab6fa06
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/7c9b0ce146db431f89f88eabee58918c
@@ -6472,7 +6468,7 @@ CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
 The Weather Network,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
 The Weather Channel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 
-电影_111,#genre#
+电影_118,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/417e410840104cf8bd50480fcf2d7bf7
 天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 天映经典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
@@ -6522,12 +6518,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/f0de2ebba97c423fb1346753af8284
 爱尔达影剧台,mitv://generationnexxxt.com:19806/9437a36933254255be157f6ad282d9ed
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 
-🌈彩虹頻道_111,#genre#
- 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
-🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
-👅奥視3,http://125.227.210.55:62697/VideoInput/play.ts
-🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
-🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
+🌈彩虹頻道_118,#genre#
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
 Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
@@ -6737,7 +6728,7 @@ mkmp-433乱不,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/3ff1dede/inde
 mkon-014渚,https://t13.cdn2020.com:12338/video/m3u8/2021/12/08/5d2c3c38/index.m3u8
 
 
-👠｜VIP直播资源_111,#genre#
+👠｜VIP直播资源_118,#genre#
 mide-821小野六花,https://t4s.cdn2020.com/video/m3u8/2020/09/25/31eaeb70/index.m3u8
 mide-784小野六花,https://t6s.cdn2020.com/video/m3u8/2021/02/05/ddf896d6/index.m3u8
 mide-797小野六花,https://t4s.cdn2020.com/video/m3u8/2020/07/27/89cfae5b/index.m3u8
@@ -6895,7 +6886,7 @@ abw-178結城,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/ae7feac3/index
 ipx-527岬,https://t4s.cdn2020.com/video/m3u8/2020/08/17/e1844eba/index.m3u8
 ipx-711岬,https://t10.cdn2020.com:12335/video/m3u8/2021/08/15/30400709/index.m3u8
 ipx-539岬,https://t4s.cdn2020.com/video/m3u8/2020/09/19/772e1a46/index.m3u8
-👠玩偶姐姐_111,#genre#
+👠玩偶姐姐_118,#genre#
 一日女友的漂亮姐姐 上 她是谁,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/70/fm/e0/kc/f7beb303cedd40b2a3f0255889aa6360.m3u8?
 一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/75/da/ic/nq/654561e53a8f44d4b452ee45db1d5aaa.m3u8?
 一日女友的漂亮姐姐 下 ,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
@@ -7054,7 +7045,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 切諾基唯一的DatAzz拍手,http://12204.vod.adultiptv.net/ph5a5cb7a12e61e/play.m3u8
 假出租車中出彙編＃1 HD,http://218158.vod.adultiptv.net/ph5a0bfc0cbc2ed/play.m3u8
 
-👠VIP高清秒播6_111,#genre#
+👠VIP高清秒播6_118,#genre#
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
@@ -7375,7 +7366,7 @@ GVH-103,https://t5s.cdn2020.com/video/m3u8/2020/10/31/24b330ac/index.m3u8
 GVH-239,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/71279403/index.m3u8
 
 
-👠｜VIP 直播资源3_111,#genre#
+👠｜VIP 直播资源3_118,#genre#
 午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
 午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
 午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
@@ -7435,7 +7426,7 @@ MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
-👠｜VIP欧美1_111,#genre#
+👠｜VIP欧美1_118,#genre#
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
 Blue Hustler,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/1064/index.m3u8
@@ -7518,7 +7509,7 @@ Blowjob Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6180/index.m3u
 Brazzers eXXtra,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6181/index.m3u8
 Brazzers HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6182/index.m3u8
 
-👠｜VIP欧美2_111,#genre#
+👠｜VIP欧美2_118,#genre#
 Brunette Adult TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6183/index.m3u8
 cento x cento,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6184/index.m3u8
 Cherry Pimps,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6185/index.m3u8
@@ -7601,7 +7592,7 @@ Hitzefrei HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6220/index.m3u8
 Holed,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6221/index.m3u8
 Hot and Mean,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6222/index.m3u8
 
-👠｜VIP欧美3_111,#genre#
+👠｜VIP欧美3_118,#genre#
 Hot Guys Fuck,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6223/index.m3u8
 Interracial Red TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6224/index.m3u8
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
@@ -7684,7 +7675,7 @@ True Amateurs,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6260/index.m3u8
 Tushy HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6261/index.m3u8
 TushyRAW,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6262/index.m3u8
 
-👠｜VIP欧美4_111,#genre#
+👠｜VIP欧美4_118,#genre#
 Visit-X TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6263/index.m3u8
 Vivid TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6264/index.m3u8
 Vixen HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6265/index.m3u8
