@@ -1,6 +1,10 @@
 🌙月光宝盒,#genre#
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+壹新聞,http://154.36.187.125/蓝山.php?cid=live1242&p=5003
+三立都會HD,http://154.36.187.125/蓝山.php?cid=live1020&p=5003
+MUCH TV,http://154.36.187.125/蓝山.php?cid=live1189&p=5003
+三立台灣HD,http://154.36.187.125/蓝山.php?cid=live1021&p=5003
 民视,mitv://generationnexxxt.com:19806/c283dae9b9c54001874b6fbd69cf362b
 台视,mitv://generationnexxxt.com:19806/d2879f0e519d4d4ca5f0c2c735a08f8e
 中视,mitv://generationnexxxt.com:19806/f776be7674ee4abf9d084c6b558f5312
