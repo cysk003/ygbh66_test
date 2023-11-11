@@ -1,5 +1,4 @@
 🌙月光宝盒,#genre#
-X愛爾達影視,udp://@224.1.4.160:11111
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 民视,mitv://generationnexxxt.com:19806/0a44eafe1e7d48f483dd2d948b9712f0
