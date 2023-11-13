@@ -1,41 +1,42 @@
 🌙月光宝盒,#genre#
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-民视,mitv://generationnexxxt.com:19806/0a44eafe1e7d48f483dd2d948b9712f0
-台视,mitv://generationnexxxt.com:19806/9b24a5d32c82478790b10293042b01d6
-中视,mitv://generationnexxxt.com:19806/9dd3e0b215cb4888b24d3eb206d0fe86
-华视,mitv://generationnexxxt.com:19806/87bb9ae61dab4945a486c90d179f89ec
-公视,mitv://generationnexxxt.com:19806/a29a35e7d7a44b8ca43405f529eb72a3
-年代新闻,mitv://generationnexxxt.com:19806/190958362163492e9a2546703d19baea
-东森新闻台,mitv://generationnexxxt.com:19806/8238956a778e4806b7c1f18ee9a4350f
-中天新闻台,mitv://generationnexxxt.com:19806/a63f4474709a485b8a5edc9607bfb2ff
-民视新闻台,mitv://generationnexxxt.com:19806/36c1d00ff7774df58e299c1e8c8998eb
-三立新闻台,mitv://generationnexxxt.com:19806/c9818a15c7c640ae8e77753ec7d3ea52
-TVBS新闻台,mitv://generationnexxxt.com:19806/583ea3e2f7394bcd9eb2a42e97de6747
-TVBS,mitv://generationnexxxt.com:19806/6383d9c9f4d2453fa13cfa7bbdda630d
-东森财经新闻台,mitv://generationnexxxt.com:19806/0564726a51ea4315b353f45cbec083cd
-非凡新闻台,mitv://generationnexxxt.com:19806/3c83c19ab8a24acd8800841af23ae2d6
-卫视电影台,mitv://generationnexxxt.com:19806/7a8d767d01034514a7e6b68f9d2ac41e
-东森电影台,mitv://generationnexxxt.com:19806/f30da8139aa346b69955ebadbf024f2a
-纬来电影台,mitv://generationnexxxt.com:19806/a2c6fe4d4ac64643a537a2393a231a19
-龙祥电影,mitv://generationnexxxt.com:19806/10586069cb124aab9ca34e46a83c1a52
-HBO,mitv://generationnexxxt.com:19806/e696eb57f41d493f8efd66056c3f043b
-东森洋片台,mitv://generationnexxxt.com:19806/777213e8caf6414f8f32146099caafe9
-AXN,mitv://generationnexxxt.com:19806/4a8287aaf89e4200b99b8450f35e10bf
-好莱坞电影台,mitv://generationnexxxt.com:19806/4691c9971ded4292b2a93014f0784297
-CINEMAX,mitv://generationnexxxt.com:19806/b4f3f18d7e214a3fb1546ad0f0b8887e
-HBO强档巨献,mitv://generationnexxxt.com:19806/94108f1a8a0b46d290148f4554b01db0
-HBO原创巨献,mitv://generationnexxxt.com:19806/e7fad95c7c0e43489ab690235f4c17b0
-美亚电影台HD,mitv://generationnexxxt.com:19806/5976a1daf42a488e9abf6d3451a2e889
-龙华电影,mitv://generationnexxxt.com:19806/b1cf36e5194e4ee5b28c75fef53cad54
-星卫HD电影台,mitv://generationnexxxt.com:19806/fac1789e2c66438ba29d9093523e40f8
-靖天映画,mitv://generationnexxxt.com:19806/29e1046fe46f4702bfd588252588530e
-靖天电影台,mitv://generationnexxxt.com:19806/d1934d4a60674616883ef5e4210d30c5
-WARNER TV,mitv://generationnexxxt.com:19806/20f317fbd7154bc4bfd72aedd2b5e28c
-Star Movies HD,mitv://generationnexxxt.com:19806/769407eabce944fa82bf682916259252
-AMC最爱电影,mitv://generationnexxxt.com:19806/f8b700f23007427991a66cf0364293da
-HBO Family,mitv://generationnexxxt.com:19806/337ce3b35feb48eb852e195b6c6ce7e9
-CatchPlay电影台,mitv://generationnexxxt.com:19806/7d68bea9ee0f4f0c932fd7d32a63caa6
+民視,mitv://135.148.104.228:19806/935809b7311d490392cc408f76a885dd
+台視,mitv://135.148.104.228:19806/ca94cf81f5184e1ba38c417df53083e9
+中視,mitv://135.148.104.228:19806/46c5103da0be4fdf8c80e33c58e9065b
+華視,mitv://135.148.104.228:19806/16217ed00ce348c28ff6378f0562f69f
+公視,mitv://135.148.104.228:19806/f2f582cb073b4d9da89f016994dc7aa7
+壹電視新聞台,mitv://135.148.104.228:19806/e099d9d2e11144bca5f54ab05e2a61f6
+年代新聞,mitv://135.148.104.228:19806/f1f22b55b3ee484e92cb9c4a1f8108d0
+東森新聞台,mitv://135.148.104.228:19806/c486dc0047df4754b7ec787a31d9606c
+中天新聞台,mitv://135.148.104.228:19806/38b072212e0c4bc0bb223f0ff69f53ea
+民視新聞台,mitv://135.148.104.228:19806/26b8a83d633f4118a5aab7b84bbe4b4b
+三立新聞台,mitv://135.148.104.228:19806/03f994cee3394939a2a89da78bf3ea16
+TVBS新聞台,mitv://135.148.104.228:19806/50c8e12ad3074c0da084608b952d9162
+TVBS,mitv://135.148.104.228:19806/3b6d4c58350b42eb83e733dcdd5a1917
+東森財經新聞台,mitv://135.148.104.228:19806/63b4d992b3e54e32853dd041731e70cb
+非凡新聞台,mitv://135.148.104.228:19806/019f4256632b4c7d88a59111c5ce59dc
+衛視電影台,mitv://135.148.104.228:19806/e4ef1bfd6b81426795d89025e902611c
+東森電影台,mitv://135.148.104.228:19806/e22cf7e2590e469c98a36af4d430dd0d
+緯來電影台,mitv://135.148.104.228:19806/5f1461c049754222ba75f8e46b7be2bb
+龍祥電影,mitv://135.148.104.228:19806/49242efdae444b7687fbf2775bd66ce5
+HBO,mitv://135.148.104.228:19806/94f53aeb87614480883b5cd03690d6c2
+東森洋片台,mitv://135.148.104.228:19806/eefb39405d7742239028bc2cbb169840
+AXN,mitv://135.148.104.228:19806/f36c3de820774cdcb36eb420e664e62b
+好萊塢電影台,mitv://135.148.104.228:19806/ec8126f7c43f4462948b66018b98c9b7
+CINEMAX,mitv://135.148.104.228:19806/c5053b418c434ba780f1512588b419df
+HBO強檔巨獻,mitv://135.148.104.228:19806/e07464982744437a83c59245af481502
+HBO原創巨獻,mitv://135.148.104.228:19806/508daca92fca485f9ee41bd5884ca51f
+美亞電影台HD,mitv://135.148.104.228:19806/a05d4db3a1d04c7a8193344fea31955f
+龍華電影,mitv://135.148.104.228:19806/fbb48740df2b4a7aa1e837f00c1d0575
+星衛HD電影台,mitv://135.148.104.228:19806/3fdd3561905a448494fc306e7e928a7a
+靖天映畫,mitv://135.148.104.228:19806/ea0dd409091a40dca01c6030ab10a230
+靖天電影台,mitv://135.148.104.228:19806/c5cd653913204a2ba2c20cb958c20b2e
+WARNERTV,mitv://135.148.104.228:19806/46c9e9be1f7d4698acc6520036f450e9
+StarMoviesHD,mitv://135.148.104.228:19806/498e8e2f167e4f1ca65fbda92add971a
+AMC最愛電影,mitv://135.148.104.228:19806/5b524d162c60487d979792cbc5c6fe4a
+HBOFamily,mitv://135.148.104.228:19806/32b2b904243c49aeae440baa6b102e5e
+CatchPlay電影台,mitv://135.148.104.228:19806/618488b324c7474eaa344b0e2d93a78f
 壹新聞,http://154.36.187.125/蓝山.php?cid=live1242&p=5003
 三立都會HD,http://154.36.187.125/蓝山.php?cid=live1020&p=5003
 MUCH TV,http://154.36.187.125/蓝山.php?cid=live1189&p=5003
