@@ -5948,7 +5948,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 回复VIP,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 获取密码,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 
-🌙弯弯测试_118,#genre#
+🌙弯弯测试_007,#genre#
 民视,mitv://generationnexxxt.com:19806/0a44eafe1e7d48f483dd2d948b9712f0
 台视,mitv://generationnexxxt.com:19806/9b24a5d32c82478790b10293042b01d6
 大爱,mitv://generationnexxxt.com:19806/2fe52dfee7924364b99b8b41b9b929fb
@@ -6122,7 +6122,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/4ff7797361d84ec2b8f08885bbe40e
 MTV,mitv://generationnexxxt.com:19806/c23e3cedfbe44e7886e8e3b3b7b93204
 东森购物1台,mitv://generationnexxxt.com:19806/d55fcd7a4c5f48a183c547b916c1053f
 东森购物2台,mitv://generationnexxxt.com:19806/40c30cbf0fd643ce8c02493d974eb96c
-🌈GA测试_118,#genre#
+🌈GA测试_007,#genre#
 港台電視31,mitv://generationnexxxt.com:19806/0555d2484c2a41e3b2ca6d30331b9b41
 港台电视32,mitv://generationnexxxt.com:19806/7daae3c3166d45df8a76febdae808aa6
 HOY TV,mitv://generationnexxxt.com:19806/43b627f3b8d740f08655b012d79e28ee
@@ -6157,7 +6157,7 @@ Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
 HOY资讯台,mitv://generationnexxxt.com:19806/490ed670a93e47f794361da9f00984bf
 黄金翡翠台,mitv://generationnexxxt.com:19806/4c800e013f5c4104a821b48ad7d34c5e
-🐼馬來西亞测试_118,#genre#
+🐼馬來西亞测试_007,#genre#
 TV1,mitv://generationnexxxt.com:19806/9e0eceaf93854a4eb3d9ae2dcf60141c
 TV2,mitv://generationnexxxt.com:19806/a3f71a80564c4deda0a57a4ba6ed2175
 TV3,mitv://generationnexxxt.com:19806/71eab7f7f53d4d86aad166f9abfb07aa
@@ -6221,7 +6221,7 @@ TVBS亚洲,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
 HITS Movies,mitv://generationnexxxt.com:19806/3378871c64764b95b54499b6bc7f618d
 beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 Golf Channel,mitv://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd
-💘新加坡测试_118,#genre#
+💘新加坡测试_007,#genre#
 天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 中天亚洲台,mitv://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
 TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
@@ -6252,7 +6252,7 @@ Thrill,mitv://generationnexxxt.com:19806/1f8b086750b743318f8b1e3d092161bb
 TVBS亚洲,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
 NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
-☁️新闻测试_118,#genre#
+☁️新闻测试_007,#genre#
 无线新闻台(备),mitv://generationnexxxt.com:19806/7fd48f602829454397e902145e8d5a61
 无线新闻台,mitv://generationnexxxt.com:19806/a579bfdb8bba4f9e8ae07e7a0570c21f
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/2d4b079184294fa8b1644bef0305af32
@@ -6305,7 +6305,7 @@ Business News Network,mitv://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670
 CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
 The Weather Network,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
 The Weather Channel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
-电影_118,#genre#
+电影_007,#genre#
 天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 天映经典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
 tvN Movies HD,mitv://generationnexxxt.com:19806/7ad63818eea64677beb87cf16459919f
