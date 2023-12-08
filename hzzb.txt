@@ -1,4 +1,3 @@
-
 🎈央视直播,#genre#
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -100,59 +99,100 @@ CCTV17,http://103.45.68.47:666/gy/gy292/百事.php?id=cctv17hd8m/8000000
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-
-🍺体育,#genre#
-ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-ELEVEN體育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
-ELEVEN 1,http://cineapp.org:8000/Fernando/Fernando/7451
-ELEVEN 3,http://cineapp.org:8000/Fernando/Fernando/7453
-ELEVEN 6,http://cineapp.org:8000/Fernando/Fernando/7456
-智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
-五星体育4k,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育4k,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-广东体育,http://113.117.74.17:808/hls/1/index.m3u8
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
-🌈4K8K,#genre#
-CCTV4K超高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
-CCTV4K,http://lxajh.top/iptv/cctv.php?id=cctv4k
-CCTV16-4K,http://home.ddx2013.cc:4022/rtp/239.93.5.206:8840
-苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top
-广东综艺4K,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
-南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-北京IPTV淘电影,https://epg.pw/stream/8857ae19129490c1bcadcdc8c1aa75f2e9400f0d995bb1e974db693fbdb47e30.m3u8
-CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-BTV北京纪实科教-8K,http://159.75.85.63:6798
-江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-爱上4K ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-绚影4K,http://home.ddx2013.cc:4022/rtp/239.93.4.248:8800
-4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?blog.ntnas.top
-4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
-虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
-斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
-斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
-咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+🌈百视通,#genre#
+CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+CCTV1 8M,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2 8M,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3 8M,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV4 8M,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5 8M,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+CCTV5+ 8M,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6 8M,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+CCTV7 8M,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8 8M,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+CCTV9 8M,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+CCTV10 8M,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+CCTV11 8M,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+CCTV12 8M,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+CCTV13 8M,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14 8M,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+CCTV15 8M,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+CCTV16 8M,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+江苏卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+广西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+四川卫视 8M,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+湖南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+东方卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+北京卫视 8M,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+天津卫视 8M,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视 8M,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+安徽卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+广东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视 8M,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+湖北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+东南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+云南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+贵州卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+海南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+欢笑剧场 8M,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+劲爆体育 8M,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓 8M,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
+金鹰纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+戏曲精选 8M,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
+上海第一财经 8M,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
+上视新闻 8M,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
+上海都市 8M,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+上海纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+东方影视 8M,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+五星体育 8M,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+上视外语 8M,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+七彩戏剧 8M,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+上海教育 8M,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+全纪实 8M,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
+生活时尚 8M,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
+新视觉 8M,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
+热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+健康养生 8M,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
+百变课堂 8M,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
+中国教育-1 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
+中国教育-4 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
+卡酷少儿 8M,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+纪实科教 8M,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+茶频道 8M,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
+足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+炫动卡通 8M,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
+东方财经 8M,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+都市剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+动漫秀场 8M,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
+法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
+金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 
 🌍重庆有线,#genre#
 重庆新闻,http://hls.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
