@@ -1,4 +1,8 @@
 🌙月光宝盒,#genre#
+4K超高清电影 4K,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
+欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
+凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
+凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
 CCTV-1 综合,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
 CCTV-2 财经,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
 CCTV-3 综艺,https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
@@ -19,10 +23,7 @@ CCTV-16 奥林匹克,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
 CCTV-16 奥林匹克 4K,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
 CCTV-17 农业农村,https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
 CCTV-4K 超高清,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
-4K超高清电影 4K,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
-欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
-凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
-凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
+
 安徽卫视,https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
 北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
 兵团卫视,https://live.goodiptv.club/api/sxg.php?id=btws_4000
