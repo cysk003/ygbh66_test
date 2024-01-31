@@ -2035,6 +2035,11 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+密码获取,#genre#
+公众号,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
+宝盒迷,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
+回复 VIP,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
+即可获取,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 
 台湾_000,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
