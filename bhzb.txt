@@ -1,180 +1,96 @@
 🌙月光宝盒,#genre#
-凤凰中文,https://live3.rxip.sc96655.com/live/test1_4000.m3u8
-凤凰资讯,https://live3.rxip.sc96655.com/live/test2_4000.m3u8
-CCTV-4K 超高清,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
-CCTV-1 综合,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
-CCTV-2 财经,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
-CCTV-3 综艺,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
-CCTV-4 中文国际,https://live3.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
-CCTV-5 体育,https://live3.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-CCTV-5+ 体育赛事,https://live3.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-CCTV-6 电影,https://live3.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
-CCTV-7 国防军事,https://live3.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
-CCTV-8 电视剧,https://live3.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
-CCTV-9 纪录,https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
-CCTV-10 科教,https://live3.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
-CCTV-11 戏曲,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
-CCTV-12 社会与法,https://live3.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
-CCTV-13 新闻,https://live3.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
-CCTV-14 少儿,https://live3.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
-CCTV-15 音乐,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
-CCTV-16 奥林匹克,https://live3.rxip.sc96655.com/live/CCTV-16_4000.m3u8
-CCTV-16 奥林匹克 4K,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
-CCTV-17 农业农村,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8
-CCTV-4K 超高清,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
+CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+CETV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
+东南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8
+四川卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
+广西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8
+安徽卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225773/1.m3u8
+新疆卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/1.m3u8
+甘肃卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
+浙江卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
+山东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+江苏卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
+深圳卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
+兵团卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
+广东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
+北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+农林卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+金鹰卡通,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225744/1.m3u8
+丝路频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+京视剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+综合频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+陕西新闻资讯,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+陕西公共,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
+陕西影视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+陕西体育休闲,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+陕西汉中略阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+陕西咸阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+陕西铜川,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+陕西汉中城固,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
 
-
-
-安徽卫视,https://live3.rxip.sc96655.com/live/ahwsH265_4000.m3u8
-北京卫视,https://live3.rxip.sc96655.com/live/bjwsH265_4000.m3u8
-兵团卫视,https://live3.rxip.sc96655.com/live/btws_4000.m3u8
-重庆卫视,https://live3.rxip.sc96655.com/live/cqwsH265_4000.m3u8
-东方卫视,https://live3.rxip.sc96655.com/live/dfwsH265_4000.m3u8
-东南卫视,https://live3.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
-甘肃卫视,https://live3.rxip.sc96655.com/live/gsws_4000.m3u8
-广东卫视,https://live3.rxip.sc96655.com/live/gdwsH265_4000.m3u8
-广西卫视,https://live3.rxip.sc96655.com/live/gxws_4000.m3u8
-贵州卫视,https://live3.rxip.sc96655.com/live/gzwsH265_4000.m3u8
-海南卫视,https://live3.rxip.sc96655.com/live/hnws_4000.m3u8
-河南卫视,https://live3.rxip.sc96655.com/live/hnws35_4000.m3u8
-黑龙江卫视,https://live3.rxip.sc96655.com/live/hljwsH265_4000.m3u8
-湖北卫视,https://live3.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-湖南卫视,https://live3.rxip.sc96655.com/live/hnwsH265_4000.m3u8
-吉林卫视,https://live3.rxip.sc96655.com/live/jlwsH265_4000.m3u8
-江苏卫视,https://live3.rxip.sc96655.com/live/jswsH265_4000.m3u8
-江西卫视,https://live3.rxip.sc96655.com/live/jxwsH265_4000.m3u8
-辽宁卫视,https://live3.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
-内蒙古卫视,https://live3.rxip.sc96655.com/live/nmgws_4000.m3u8
-山东教育卫视,https://live3.rxip.sc96655.com/live/sdjy_4000.m3u8
-山东卫视,https://live3.rxip.sc96655.com/live/sdwsH265_4000.m3u8
-山西卫视,https://live3.rxip.sc96655.com/live/sxws42_4000.m3u8
-陕西卫视,https://live3.rxip.sc96655.com/live/sxws_4000.m3u8
-深圳卫视,https://live3.rxip.sc96655.com/live/szwsH265_4000.m3u8
-天津卫视,https://live3.rxip.sc96655.com/live/tjwsH265_4000.m3u8
-西藏卫视,https://live3.rxip.sc96655.com/live/xzwsH264_2000.m3u8
-云南卫视,https://live3.rxip.sc96655.com/live/ynws_4000.m3u8
-浙江卫视,https://live3.rxip.sc96655.com/live/zjwsH265_4000.m3u8
-CETV-1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
-CETV-4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
-欢笑剧场4K,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
-CHC动作电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
-CHC高清电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
-CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
-动漫秀场,https://live3.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
-都市剧场,https://live3.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
-法治天地,https://live3.rxip.sc96655.com/live/fztx_4000.m3u8
-纪实科教,https://live3.rxip.sc96655.com/live/bjjs_2000.m3u8
-嘉佳卡通,https://live3.rxip.sc96655.com/live/jjkt_2000.m3u8
-家庭理财,https://live3.rxip.sc96655.com/live/jtlc_4000.m3u8
-江苏财富天下,https://live3.rxip.sc96655.com/live/cftx_4000.m3u8
-金鹰纪实,https://live3.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8
-金鹰卡通,https://live3.rxip.sc96655.com/live/jykt_2000.m3u8
-劲爆体育,https://live3.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
-卡酷少儿,https://live3.rxip.sc96655.com/live/kkkt_4000.m3u8
-快乐119.118.174.252:8888,https://live3.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
-乐游,https://live3.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
-梨园频道,https://live3.rxip.sc96655.com/live/ly_4000.m3u8
-魅力足球,https://live3.rxip.sc96655.com/live/mlyy_4000.m3u8
-七彩戏剧,https://live3.rxip.sc96655.com/live/qcxj_2000.m3u8
-摄影频道,https://live3.rxip.sc96655.com/live/sy_4000.m3u8
-生活时尚,https://live3.rxip.sc96655.com/live/shssH265_4000.m3u8
-四海钓鱼,https://live3.rxip.sc96655.com/live/shdy_4000.m3u8
-天元围棋,https://live3.rxip.sc96655.com/live/tywq_2000.m3u8
-武术世界,https://live3.rxip.sc96655.com/live/wssj_4000.m3u8
-先锋乒羽,https://live3.rxip.sc96655.com/live/xfpy_4000.m3u8
-新视觉,https://live3.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
-证劵服务,https://live3.rxip.sc96655.com/live/jz_2000.m3u8
-中国天气,https://live3.rxip.sc96655.com/live/zgqx_4000.m3u8
-中央新影-发现之旅,https://live3.rxip.sc96655.com/live/fxzl_2000.m3u8
-中央新影-老故事,https://live3.rxip.sc96655.com/live/lgs_2000.m3u8
-中央新影-中学生,https://live3.rxip.sc96655.com/live/zxs_4000.m3u8
 🌜央视,#genre#
-CCTV-1 综合,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
-CCTV-2 财经,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
-CCTV-3 综艺,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
-CCTV-4 中文国际,https://live3.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
-CCTV-5 体育,https://live3.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-CCTV-5+ 体育赛事,https://live3.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-CCTV-6 电影,https://live3.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
-CCTV-7 国防军事,https://live3.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
-CCTV-8 电视剧,https://live3.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
-CCTV-9 纪录,https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
-CCTV-10 科教,https://live3.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
-CCTV-11 戏曲,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
-CCTV-12 社会与法,https://live3.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
-CCTV-13 新闻,https://live3.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
-CCTV-14 少儿,https://live3.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
-CCTV-15 音乐,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
-CCTV-16 奥林匹克,https://live3.rxip.sc96655.com/live/CCTV-16_4000.m3u8
-CCTV-16 奥林匹克 4K,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
-CCTV-17 农业农村,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8
-CCTV-4K 超高清,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
+CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+CETV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 
 
 🌜卫视,#genre#
-安徽卫视,https://live3.rxip.sc96655.com/live/ahwsH265_4000.m3u8
-北京卫视,https://live3.rxip.sc96655.com/live/bjwsH265_4000.m3u8
-兵团卫视,https://live3.rxip.sc96655.com/live/btws_4000.m3u8
-重庆卫视,https://live3.rxip.sc96655.com/live/cqwsH265_4000.m3u8
-东方卫视,https://live3.rxip.sc96655.com/live/dfwsH265_4000.m3u8
-东南卫视,https://live3.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
-甘肃卫视,https://live3.rxip.sc96655.com/live/gsws_4000.m3u8
-广东卫视,https://live3.rxip.sc96655.com/live/gdwsH265_4000.m3u8
-广西卫视,https://live3.rxip.sc96655.com/live/gxws_4000.m3u8
-贵州卫视,https://live3.rxip.sc96655.com/live/gzwsH265_4000.m3u8
-海南卫视,https://live3.rxip.sc96655.com/live/hnws_4000.m3u8
-河南卫视,https://live3.rxip.sc96655.com/live/hnws35_4000.m3u8
-黑龙江卫视,https://live3.rxip.sc96655.com/live/hljwsH265_4000.m3u8
-湖北卫视,https://live3.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-湖南卫视,https://live3.rxip.sc96655.com/live/hnwsH265_4000.m3u8
-吉林卫视,https://live3.rxip.sc96655.com/live/jlwsH265_4000.m3u8
-江苏卫视,https://live3.rxip.sc96655.com/live/jswsH265_4000.m3u8
-江西卫视,https://live3.rxip.sc96655.com/live/jxwsH265_4000.m3u8
-辽宁卫视,https://live3.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
-内蒙古卫视,https://live3.rxip.sc96655.com/live/nmgws_4000.m3u8
-山东教育卫视,https://live3.rxip.sc96655.com/live/sdjy_4000.m3u8
-山东卫视,https://live3.rxip.sc96655.com/live/sdwsH265_4000.m3u8
-山西卫视,https://live3.rxip.sc96655.com/live/sxws42_4000.m3u8
-陕西卫视,https://live3.rxip.sc96655.com/live/sxws_4000.m3u8
-深圳卫视,https://live3.rxip.sc96655.com/live/szwsH265_4000.m3u8
-天津卫视,https://live3.rxip.sc96655.com/live/tjwsH265_4000.m3u8
-西藏卫视,https://live3.rxip.sc96655.com/live/xzwsH264_2000.m3u8
-云南卫视,https://live3.rxip.sc96655.com/live/ynws_4000.m3u8
-浙江卫视,https://live3.rxip.sc96655.com/live/zjwsH265_4000.m3u8
-CETV-1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
-CETV-4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
-欢笑剧场4K,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
-CHC动作电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
-CHC高清电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
-CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
-动漫秀场,https://live3.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
-都市剧场,https://live3.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
-法治天地,https://live3.rxip.sc96655.com/live/fztx_4000.m3u8
-纪实科教,https://live3.rxip.sc96655.com/live/bjjs_2000.m3u8
-嘉佳卡通,https://live3.rxip.sc96655.com/live/jjkt_2000.m3u8
-家庭理财,https://live3.rxip.sc96655.com/live/jtlc_4000.m3u8
-江苏财富天下,https://live3.rxip.sc96655.com/live/cftx_4000.m3u8
-金鹰纪实,https://live3.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8
-金鹰卡通,https://live3.rxip.sc96655.com/live/jykt_2000.m3u8
-劲爆体育,https://live3.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
-卡酷少儿,https://live3.rxip.sc96655.com/live/kkkt_4000.m3u8
-快乐119.118.174.252:8888,https://live3.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
-乐游,https://live3.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
-梨园频道,https://live3.rxip.sc96655.com/live/ly_4000.m3u8
-魅力足球,https://live3.rxip.sc96655.com/live/mlyy_4000.m3u8
-七彩戏剧,https://live3.rxip.sc96655.com/live/qcxj_2000.m3u8
-摄影频道,https://live3.rxip.sc96655.com/live/sy_4000.m3u8
-生活时尚,https://live3.rxip.sc96655.com/live/shssH265_4000.m3u8
-四海钓鱼,https://live3.rxip.sc96655.com/live/shdy_4000.m3u8
-天元围棋,https://live3.rxip.sc96655.com/live/tywq_2000.m3u8
-武术世界,https://live3.rxip.sc96655.com/live/wssj_4000.m3u8
-先锋乒羽,https://live3.rxip.sc96655.com/live/xfpy_4000.m3u8
-新视觉,https://live3.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
-证劵服务,https://live3.rxip.sc96655.com/live/jz_2000.m3u8
-中国天气,https://live3.rxip.sc96655.com/live/zgqx_4000.m3u8
-中央新影-发现之旅,https://live3.rxip.sc96655.com/live/fxzl_2000.m3u8
-中央新影-老故事,https://live3.rxip.sc96655.com/live/lgs_2000.m3u8
-中央新影-中学生,https://live3.rxip.sc96655.com/live/zxs_4000.m3u8
+江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
+东南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8
+四川卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
+广西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8
+安徽卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225773/1.m3u8
+新疆卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/1.m3u8
+甘肃卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
+浙江卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
+山东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+江苏卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
+深圳卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
+兵团卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
+广东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
+北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+农林卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+金鹰卡通,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225744/1.m3u8
+丝路频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+京视剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+综合频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+陕西新闻资讯,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+陕西公共,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
+陕西影视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+陕西体育休闲,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+陕西汉中略阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+陕西咸阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+陕西铜川,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+陕西汉中城固,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
+
 四川GD,#genre#
 四川卫视,https://live3.rxip.sc96655.com/live/scwsH265_4000.m3u8
 四川文化旅游,https://live3.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
