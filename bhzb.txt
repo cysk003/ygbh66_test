@@ -80,6 +80,22 @@ CETV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122622
 
 
 🌜卫视,#genre#
+北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/index.m3u8
+北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
+重庆卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
+四川卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
+安徽卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/index.m3u8
+天津卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
+山西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/index.m3u8
+山东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
+湖北卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226194/index.m3u8
+湖南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226211/index.m3u8
+东方卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/index.m3u8
+江苏卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/index.m3u8
+辽宁卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
+深圳卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/index.m3u8
+云南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225751/index.m3u8
+吉林卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
 江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
 东南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8
 四川卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
