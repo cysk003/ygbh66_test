@@ -61,6 +61,21 @@ CETV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122622
 陕西汉中城固,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
 
 🌜央视,#genre#
+CCTV01综合,http://120.224.23.34:9901/tsfile/live/0001_1.m3u8
+CCTV02财*,http://120.224.23.34:9901/tsfile/live/0002_1.m3u8
+CCTV03综艺,http://120.224.23.34:9901/tsfile/live/0003_1.m3u8
+CCTV04国际,http://120.224.23.34:9901/tsfile/live/0004_1.m3u8
+CCTV05体育,http://120.224.23.34:9901/tsfile/live/0005_1.m3u8
+CCTV05+体,http://120.224.23.34:9901/tsfile/live/0016_1.m3u8
+CCTV06电影,http://120.224.23.34:9901/tsfile/live/0006_1.m3u8
+CCTV07军农,http://120.224.23.34:9901/tsfile/live/0007_1.m3u8
+CCTV8电视,http://120.224.23.34:9901/tsfile/live/0008_1.m3u8
+CCTV9纪录,http://120.224.23.34:9901/tsfile/live/0009_1.m3u8
+CCTV10科教,http://120.224.23.34:9901/tsfile/live/0010_1.m3u8
+CCTV11戏曲,http://120.224.23.34:9901/tsfile/live/0011_1.m3u8
+CCTV12社会,http://120.224.23.34:9901/tsfile/live/0012_1.m3u8
+CCTV13新闻,http://120.224.23.34:9901/tsfile/live/0013_1.m3u8
+CCTV15音乐,http://120.224.23.34:9901/tsfile/live/0015_1.m3u8
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
