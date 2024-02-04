@@ -192,186 +192,139 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
-四川GD,#genre#
-四川卫视,https://live3.rxip.sc96655.com/live/scwsH265_4000.m3u8
-四川文化旅游,https://live3.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
-四川经济,https://live3.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
-四川新闻,https://live3.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
-四川影视文艺,https://live3.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-四川妇女儿童,https://live3.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
-四川科教,https://live3.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
-四川乡村,https://live3.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
-四川康巴卫视,https://live3.rxip.sc96655.com/live/kbwsH264_2000.m3u8
-四川峨嵋电影,https://live3.rxip.sc96655.com/live/emdygqH265_4000.m3u8
-四川超高清电影,https://live3.rxip.sc96655.com/live/emdy4k_8000.m3u8
-成都新闻综合,https://live3.rxip.sc96655.com/live/CDTV-1_4000.m3u8
-成都经济资讯,https://live3.rxip.sc96655.com/live/CDTV-2_4000.m3u8
-成都都市生活,https://live3.rxip.sc96655.com/live/CDTV-3_4000.m3u8
-成都影视文艺,https://live3.rxip.sc96655.com/live/CDTV-4_4000.m3u8
-成都公共频道,https://live3.rxip.sc96655.com/live/CDTV-5_4000.m3u8
-成都高新区,https://live3.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8
-凤凰中文,https://live3.rxip.sc96655.com/live/test1_4000.m3u8
-凤凰资讯,https://live3.rxip.sc96655.com/live/test2_4000.m3u8
-
-
-阿坝州TV,https://live3.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8
-阿坝州藏语,https://live3.rxip.sc96655.com/live/wypdgqH265_4000.m3u8
-安居综合,https://live3.rxip.sc96655.com/live/ajxw_2000.m3u8
-安岳综合频道,https://live3.rxip.sc96655.com/live/ayxwzh_4000.m3u8
-安州综合频道,https://live3.rxip.sc96655.com/live/azgq_2000.m3u8
-巴中文旅生活,https://live3.rxip.sc96655.com/live/bzetH264_2000.m3u8
-巴中综合,https://live3.rxip.sc96655.com/live/bzytH265_4000.m3u8
-巴州电视,https://live3.rxip.sc96655.com/live/bzxw_4000.m3u8
-宝兴综合,https://live3.rxip.sc96655.com/live/bxdst_2000.m3u8
-北川综合,https://live3.rxip.sc96655.com/live/bcxwHD_2000.m3u8
-苍溪综合,https://live3.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8
-长宁综合,https://live3.rxip.sc96655.com/live/znzh_2000.m3u8
-朝天综合,https://live3.rxip.sc96655.com/live/ctxwzh_2000.m3u8
-崇州,https://live3.rxip.sc96655.com/live/czyt_4000.m3u8
-船山综合,https://live3.rxip.sc96655.com/live/csxw_2000.m3u8
-达川新闻综合,https://live3.rxip.sc96655.com/live/dcxwzh_2000.m3u8
-达州导视,https://live3.rxip.sc96655.com/live/dzds_2000.m3u8
-达州公共,https://live3.rxip.sc96655.com/live/dzgg_2000.m3u8
-达州新闻综合,https://live3.rxip.sc96655.com/live/dzxwzh_2000.m3u8
-大邑电视台,https://live3.rxip.sc96655.com/live/dyytH265_4000.m3u8
-大英新闻综合,https://live3.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8
-丹棱综合,https://live3.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8
-德昌电视台,https://live3.rxip.sc96655.com/live/dcxw_4000.m3u8
-东兴综合,https://live3.rxip.sc96655.com/live/dxxwzh_4000.m3u8
-都江堰,https://live3.rxip.sc96655.com/live/djyzh_4000.m3u8
-峨边电视台,https://live3.rxip.sc96655.com/live/ebdst_2000.m3u8
-峨眉综合,https://live3.rxip.sc96655.com/live/emsxw_2000.m3u8
-恩阳新闻,https://live3.rxip.sc96655.com/live/eyxw_2000.m3u8
-涪城综合,https://live3.rxip.sc96655.com/live/fcgq_2000.m3u8
-富顺综合,https://live3.rxip.sc96655.com/live/fszh_2000.m3u8
-甘孜综合,https://live3.rxip.sc96655.com/live/gzxwzh_2000.m3u8
-高县-1,https://live3.rxip.sc96655.com/live/gxt_2000.m3u8
-古蔺新闻综合,https://live3.rxip.sc96655.com/live/glxwzhgq_2000.m3u8
-广安公共,https://live3.rxip.sc96655.com/live/gagg_2000.m3u8
-广安区电视台,https://live3.rxip.sc96655.com/live/gaqxw_2000.m3u8
-广安新闻综合,https://live3.rxip.sc96655.com/live/gaxwzh_2000.m3u8
-广汉综合,https://live3.rxip.sc96655.com/live/ghxwzh_2000.m3u8
-广元文化生活,https://live3.rxip.sc96655.com/live/gyggH265_4000.m3u8
-广元综合,https://live3.rxip.sc96655.com/live/gyzhH265_4000.m3u8
-汉源综合,https://live3.rxip.sc96655.com/live/hyxwzh_2000.m3u8
-合江新闻综合,https://live3.rxip.sc96655.com/live/hjxw_2000.m3u8
-黑水,https://live3.rxip.sc96655.com/live/hsxwzhpdH264_2000.m3u8
-洪雅新闻综合,https://live3.rxip.sc96655.com/live/hyzh_2000.m3u8
-华蓥综合,https://live3.rxip.sc96655.com/live/hyxw_2000.m3u8
-会理新闻,https://live3.rxip.sc96655.com/live/hlyt_4000.m3u8
-夹江新闻综合,https://live3.rxip.sc96655.com/live/jjxw_2000.m3u8
-简阳新闻综合,https://live3.rxip.sc96655.com/live/jyxwzh_2000.m3u8
-剑阁综合,https://live3.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8
-江安电视台,https://live3.rxip.sc96655.com/live/jat_2000.m3u8
-江油综合,https://live3.rxip.sc96655.com/live/jyxwHD_2000.m3u8
-金口河综合,https://live3.rxip.sc96655.com/live/jkhdst_2000.m3u8
-金牛,https://live3.rxip.sc96655.com/live/jnyx_2000.m3u8
-金堂电视台,https://live3.rxip.sc96655.com/live/jtzhpd_2000.m3u8
-开江新闻综合,https://live3.rxip.sc96655.com/live/kjxwzh_2000.m3u8
-乐山公共,https://live3.rxip.sc96655.com/live/lsggpd_4000.m3u8
-乐山新闻综合,https://live3.rxip.sc96655.com/live/lsxwzh_4000.m3u8
-利州综合,https://live3.rxip.sc96655.com/live/lzxwzh_2000.m3u8
-凉山新闻综合,https://live3.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8
-凉山彝语综合,https://live3.rxip.sc96655.com/live/yyzh_2000.m3u8
-邻水,https://live3.rxip.sc96655.com/live/lsxw_2000.m3u8
-龙泉综合,https://live3.rxip.sc96655.com/live/lqxw_2000.m3u8
-隆昌综合,https://live3.rxip.sc96655.com/live/lcxw_2000.m3u8
-芦山综合频道,https://live3.rxip.sc96655.com/live/lszh_2000.m3u8
-罗江,https://live3.rxip.sc96655.com/live/ljxwzh_2000.m3u8
-马边综合,https://live3.rxip.sc96655.com/live/mbxwzh_2000.m3u8
-马尔康,https://live3.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8
-眉山综合,https://live3.rxip.sc96655.com/live/msxwzhgq_2000.m3u8
-米易综合,https://live3.rxip.sc96655.com/live/myxwzh_2000.m3u8
-绵阳科技,https://live3.rxip.sc96655.com/live/myetH265_4000.m3u8
-绵阳新闻综合,https://live3.rxip.sc96655.com/live/myytH265_4000.m3u8
-绵竹,https://live3.rxip.sc96655.com/live/mzxwzh_2000.m3u8
-冕宁综合,https://live3.rxip.sc96655.com/live/mnxw_2000.m3u8
-名山电视台,https://live3.rxip.sc96655.com/live/msdstH265_2000.m3u8
-木里,https://live3.rxip.sc96655.com/live/mltHD_4000.m3u8
-纳溪-1,https://live3.rxip.sc96655.com/live/nxxw_2000.m3u8
-南部综合,https://live3.rxip.sc96655.com/live/nbxw_2000.m3u8
-南充综合,https://live3.rxip.sc96655.com/live/ncxwzh_2000.m3u8
-南江电视台,https://live3.rxip.sc96655.com/live/njxw_2000.m3u8
-南溪综合,https://live3.rxip.sc96655.com/live/nxt_2000.m3u8
-内江公共,https://live3.rxip.sc96655.com/live/njgg_4000.m3u8
-内江综合,https://live3.rxip.sc96655.com/live/njzh_4000.m3u8
-宁南综合,https://live3.rxip.sc96655.com/live/nnt_4000.m3u8
-攀钢新闻综合,https://live3.rxip.sc96655.com/live/pgxwzh_2000.m3u8
-攀枝花新闻综合,https://live3.rxip.sc96655.com/live/pzhytH265_4000.m3u8
-彭山综合,https://live3.rxip.sc96655.com/live/pszh_2000.m3u8
-彭州综合,https://live3.rxip.sc96655.com/live/pzxwzh_2000.m3u8
-蓬安综合,https://live3.rxip.sc96655.com/live/pazh_2000.m3u8
-蓬溪新闻综合,https://live3.rxip.sc96655.com/live/pxxw_2000.m3u8
-平昌综合,https://live3.rxip.sc96655.com/live/pcxw_2000.m3u8
-平武综合,https://live3.rxip.sc96655.com/live/pwgq_4000.m3u8
-屏山综合,https://live3.rxip.sc96655.com/live/psxwzh_2000.m3u8
-蒲江综合,https://live3.rxip.sc96655.com/live/pjxw_4000.m3u8
-普格综合,https://live3.rxip.sc96655.com/live/pgt_4000.m3u8
-前锋,https://live3.rxip.sc96655.com/live/qfxw_2000.m3u8
-青白江综合,https://live3.rxip.sc96655.com/live/qbjxwzh_2000.m3u8
-青川综合,https://live3.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8
-青神综合,https://live3.rxip.sc96655.com/live/qszh_2000.m3u8
-渠县新闻综合,https://live3.rxip.sc96655.com/live/qxxwzh_2000.m3u8
-仁和新闻,https://live3.rxip.sc96655.com/live/rhxwH264_2000.m3u8
-荣县综合,https://live3.rxip.sc96655.com/live/rxzh_2000.m3u8
-三台TV,https://live3.rxip.sc96655.com/live/stxwHD_2000.m3u8
-射洪综合,https://live3.rxip.sc96655.com/live/shzhH264_2000.m3u8
-石棉,https://live3.rxip.sc96655.com/live/smxwzh_2000.m3u8
-什邡新闻综合,https://live3.rxip.sc96655.com/live/sfx_2000.m3u8
-双流综合,https://live3.rxip.sc96655.com/live/slgq_2000.m3u8
-松潘,https://live3.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8
-遂宁综合,https://live3.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8
-天全新闻,https://live3.rxip.sc96655.com/live/tqzh_2000.m3u8
-通川区,https://live3.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8
-通江综合,https://live3.rxip.sc96655.com/live/tjxwH265_4000.m3u8
-万源,https://live3.rxip.sc96655.com/live/wyxwzh_2000.m3u8
-旺苍新闻综合,https://live3.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8
-温江综合频道,https://live3.rxip.sc96655.com/live/wjytH264_2000.m3u8
-武胜综合,https://live3.rxip.sc96655.com/live/wsxw_2000.m3u8
-五通桥,https://live3.rxip.sc96655.com/live/wtqxwzh_2000.m3u8
-西昌,https://live3.rxip.sc96655.com/live/xctHD_2000.m3u8
-西充综合,https://live3.rxip.sc96655.com/live/xczh_2000.m3u8
-喜德,https://live3.rxip.sc96655.com/live/xdxw_4000.m3u8
-新都综合,https://live3.rxip.sc96655.com/live/xdzhpd_2000.m3u8
-新津,https://live3.rxip.sc96655.com/live/xjzh_4000.m3u8
-兴文电视台,https://live3.rxip.sc96655.com/live/xwt_2000.m3u8
-叙永电视台,https://live3.rxip.sc96655.com/live/xyxw_2000.m3u8
-叙州新闻综合,https://live3.rxip.sc96655.com/live/ybx_2000.m3u8
-宣汉综合,https://live3.rxip.sc96655.com/live/xhxwzh_2000.m3u8
-雅安公共,https://live3.rxip.sc96655.com/live/yagg_2000.m3u8
-雅安新闻综合,https://live3.rxip.sc96655.com/live/yazh_2000.m3u8
-雅安雨城,https://live3.rxip.sc96655.com/live/ycpd_2000.m3u8
-盐边电视台,https://live3.rxip.sc96655.com/live/ybtgq_2000.m3u8
-盐亭1,https://live3.rxip.sc96655.com/live/ytzh_2000.m3u8
-雁江,https://live3.rxip.sc96655.com/live/yjxw_2000.m3u8
-仪陇新闻综合,https://live3.rxip.sc96655.com/live/ylxw_2000.m3u8
-宜宾公共,https://live3.rxip.sc96655.com/live/ybetH264_2000.m3u8
-宜宾新闻综合,https://live3.rxip.sc96655.com/live/ybytH264_2000.m3u8
-营山,https://live3.rxip.sc96655.com/live/ysxw_2000.m3u8
-越西综合,https://live3.rxip.sc96655.com/live/yxt_4000.m3u8
-岳池,https://live3.rxip.sc96655.com/live/ycxw_2000.m3u8
-昭化综合,https://live3.rxip.sc96655.com/live/zhxwzh_2000.m3u8
-中江新闻综合,https://live3.rxip.sc96655.com/live/zjxwzh_2000.m3u8
-资阳新闻综合,https://live3.rxip.sc96655.com/live/zyxwzh_2000.m3u8
-资中综合,https://live3.rxip.sc96655.com/live/zzzh_2000.m3u8
-自贡文化生活,https://live3.rxip.sc96655.com/live/zggg_4000.m3u8
-自贡综合,https://live3.rxip.sc96655.com/live/zgxw_4000.m3u8
-郫县新闻综合,https://live3.rxip.sc96655.com/live/pxds1_2000.m3u8
-荥经电视台,https://live3.rxip.sc96655.com/live/xjdst_2000.m3u8
-阆中综合,https://live3.rxip.sc96655.com/live/lzxw_2000.m3u8
-沐川综合,https://live3.rxip.sc96655.com/live/mcxw_2000.m3u8
-泸定综合频道,https://live3.rxip.sc96655.com/live/ldxw_4000.m3u8
-泸县综合,https://live3.rxip.sc96655.com/live/lxxwzh_2000.m3u8
-泸州公共,https://live3.rxip.sc96655.com/live/lzgg_2000.m3u8
-珙县新闻,https://live3.rxip.sc96655.com/live/gxzh_2000.m3u8
-梓潼综合,https://live3.rxip.sc96655.com/live/ztgq_2000.m3u8
-犍为新闻综合,https://live3.rxip.sc96655.com/live/qwxwzh_2000.m3u8
-筠连TV,https://live3.rxip.sc96655.com/live/ylyt_2000.m3u8
-川网导视,https://live3.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8
-精品导视,https://live3.rxip.sc96655.com/live/jpdsH265_4000.m3u8
-沙湾融媒,https://live3.rxip.sc96655.com/live/swxwzh_2000.m3u8
-
-
+💯福建酒店,#genre#
+CCTV1,http://117.27.190.42:9901/tsfile/live/23232_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://117.27.190.42:9901/tsfile/live/23233_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://117.27.190.42:9901/tsfile/live/23234_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://117.27.190.42:9901/tsfile/live/23235_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://117.27.190.42:9901/tsfile/live/23236_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://117.27.190.42:9901/tsfile/live/23237_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://117.27.190.42:9901/tsfile/live/23238_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://117.27.190.42:9901/tsfile/live/23239_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://117.27.190.42:9901/tsfile/live/23240_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://117.27.190.42:9901/tsfile/live/23241_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://117.27.190.42:9901/tsfile/live/23242_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://117.27.190.42:9901/tsfile/live/23243_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://117.27.190.42:9901/tsfile/live/23244_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://117.27.190.42:9901/tsfile/live/23245_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://117.27.190.42:9901/tsfile/live/23246_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://117.27.190.42:9901/tsfile/live/23247_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5＋,http://117.27.190.42:9901/tsfile/live/23248_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://117.27.190.42:9901/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://117.27.190.42:9901/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://117.27.190.42:9901/tsfile/live/23251_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://117.27.190.42:9901/tsfile/live/23252_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://117.27.190.42:9901/tsfile/live/23253_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://117.27.190.42:9901/tsfile/live/23254_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://117.27.190.42:9901/tsfile/live/23255_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://117.27.190.42:9901/tsfile/live/23256_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://117.27.190.42:9901/tsfile/live/23257_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://117.27.190.42:9901/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://117.27.190.42:9901/tsfile/live/23259_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://117.27.190.42:9901/tsfile/live/23260_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://117.27.190.42:9901/tsfile/live/23261_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://117.27.190.42:9901/tsfile/live/23262_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://117.27.190.42:9901/tsfile/live/23263_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://117.27.190.42:9901/tsfile/live/23264_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://117.27.190.42:9901/tsfile/live/23265_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://117.27.190.42:9901/tsfile/live/23266_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://117.27.190.42:9901/tsfile/live/23267_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://117.27.190.42:9901/tsfile/live/23268_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://117.27.190.42:9901/tsfile/live/23269_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://117.27.190.42:9901/tsfile/live/23270_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://117.27.190.42:9901/tsfile/live/23271_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://117.27.190.42:9901/tsfile/live/23272_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://117.27.190.42:9901/tsfile/live/23273_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://117.27.190.42:9901/tsfile/live/23274_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://117.27.190.42:9901/tsfile/live/23275_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://117.27.190.42:9901/tsfile/live/23276_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://117.27.190.42:9901/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://117.27.190.42:9901/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://117.27.190.42:9901/tsfile/live/23281_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://117.27.190.42:9901/tsfile/live/23282_1.m3u8?key=txiptv&playlive=1&authid=0
+海峡卫视,http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
+福建综合,http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://117.27.190.42:9901/tsfile/live/23285_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://117.27.190.42:9901/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://117.27.190.42:9901/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
+福建旅游,http://117.27.190.42:9901/tsfile/live/23288_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济,http://117.27.190.42:9901/tsfile/live/23289_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://117.27.190.42:9901/tsfile/live/23290_1.m3u8?key=txiptv&playlive=1&authid=0
+福建文体,http://117.27.190.42:9901/tsfile/live/23291_1.m3u8?key=txiptv&playlive=1&authid=0
+福建教育,http://117.27.190.42:9901/tsfile/live/23292_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门1,http://117.27.190.42:9901/tsfile/live/23293_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门2,http://117.27.190.42:9901/tsfile/live/23294_1.m3u8?key=txiptv&playlive=1&authid=0
+南平综合,http://117.27.190.42:9901/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0
+宁德综合,http://117.27.190.42:9901/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0
+龙岩综合,http://117.27.190.42:9901/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
+三明综合,http://117.27.190.42:9901/tsfile/live/23298_1.m3u8?key=txiptv&playlive=1&authid=0
+平潭综合,http://117.27.190.42:9901/tsfile/live/23299_1.m3u8?key=txiptv&playlive=1&authid=0
+泉州综合,http://117.27.190.42:9901/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
+福州综合,http://117.27.190.42:9901/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
+莆田综合,http://117.27.190.42:9901/tsfile/live/23302_1.m3u8?key=txiptv&playlive=1&authid=0
+漳州综合,http://117.27.190.42:9901/tsfile/live/23303_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://110.81.206.138:50080/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://110.81.206.138:50080/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://110.81.206.138:50080/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://110.81.206.138:50080/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://110.81.206.138:50080/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://110.81.206.138:50080/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://110.81.206.138:50080/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://110.81.206.138:50080/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://110.81.206.138:50080/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://110.81.206.138:50080/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://110.81.206.138:50080/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://110.81.206.138:50080/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://110.81.206.138:50080/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://110.81.206.138:50080/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://110.81.206.138:50080/tsfile/live/23015_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://110.81.206.138:50080/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://110.81.206.138:50080/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://110.81.206.138:50080/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯台,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文台,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://110.81.206.138:50080/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
+海峡卫视,http://110.81.206.138:50080/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
+福建综合,http://110.81.206.138:50080/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://110.81.206.138:50080/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://110.81.206.138:50080/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://110.81.206.138:50080/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
+福建旅游,http://110.81.206.138:50080/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济生活,http://110.81.206.138:50080/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
+福建体育,http://110.81.206.138:50080/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://110.81.206.138:50080/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
+福建教育,http://110.81.206.138:50080/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://110.81.206.138:50080/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://110.81.206.138:50080/tsfile/live/23034_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://110.81.206.138:50080/tsfile/live/23035_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://110.81.206.138:50080/tsfile/live/23036_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://110.81.206.138:50080/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://110.81.206.138:50080/tsfile/live/23038_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://110.81.206.138:50080/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://110.81.206.138:50080/tsfile/live/23040_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://110.81.206.138:50080/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://110.81.206.138:50080/tsfile/live/23042_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://110.81.206.138:50080/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://110.81.206.138:50080/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://110.81.206.138:50080/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://110.81.206.138:50080/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://110.81.206.138:50080/tsfile/live/23047_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://110.81.206.138:50080/tsfile/live/23048_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://110.81.206.138:50080/tsfile/live/23049_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://110.81.206.138:50080/tsfile/live/23050_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://110.81.206.138:50080/tsfile/live/23051_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://110.81.206.138:50080/tsfile/live/23052_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://110.81.206.138:50080/tsfile/live/23053_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://110.81.206.138:50080/tsfile/live/23054_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://110.81.206.138:50080/tsfile/live/23055_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://110.81.206.138:50080/tsfile/live/23056_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://110.81.206.138:50080/tsfile/live/23059_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://110.81.206.138:50080/tsfile/live/23062_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://110.81.206.138:50080/tsfile/live/23065_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://110.81.206.138:50080/tsfile/live/23066_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://110.81.206.138:50080/tsfile/live/23067_1.m3u8?key=txiptv&playlive=1&authid=0
 范明IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -2058,7 +2011,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 回复 VIP,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 即可获取,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 
-台湾_000,#genre#
+台湾_888,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
@@ -2232,7 +2185,7 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
-中国_000,#genre#
+中国_888,#genre#
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
@@ -2280,7 +2233,7 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3
 CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 
-港澳_000,#genre#
+港澳_888,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -2316,7 +2269,7 @@ Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 
-马来西亚_000,#genre#
+马来西亚_888,#genre#
 TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
 TV3,mitv://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
@@ -2377,7 +2330,7 @@ HITS Movies,mitv://generationnexxxt.com:19806/72b44f288c8c4c5baa031ec11d9e0e35
 beIN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
 Golf Channel,mitv://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
 
-新加坡_000,#genre#
+新加坡_888,#genre#
 天映频道,mitv://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 中天亚洲台,mitv://generationnexxxt.com:19806/7c932e1429374b358b547a75ebba7ca8
 TVB星河(粤),mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
@@ -2408,7 +2361,7 @@ TVBS亚洲,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
 NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 beIN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
 
-日本_000,#genre#
+日本_888,#genre#
 NHK-G综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
 NHK-E教育,mitv://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
 日本テレビ,mitv://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
@@ -2448,7 +2401,7 @@ Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e07
 日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 
-韩国_000,#genre#
+韩国_888,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
@@ -2470,7 +2423,7 @@ Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
 
-泰国_000,#genre#
+泰国_888,#genre#
 Channel 5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
 NBT,mitv://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
 TNN 16,mitv://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
@@ -2498,7 +2451,7 @@ TVB Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
 Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
 Top News,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 
-北美_000,#genre#
+北美_888,#genre#
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
@@ -2522,7 +2475,7 @@ The Weather Network,mitv://generationnexxxt.com:19806/65792289000be5843171ed9050
 The Weather Channel,mitv://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
 KOMO 4 TV,mitv://generationnexxxt.com:19806/65791ef700074fd53163fa0823ae64b8
 
-新闻_000,#genre#
+新闻_888,#genre#
 无线新闻台(备),mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
 无线新闻台,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
@@ -2576,13 +2529,13 @@ CP24,mitv://generationnexxxt.com:19806/6579228a000310453171ef2756ac0145
 The Weather Network,mitv://generationnexxxt.com:19806/65792289000be5843171ed9050240875
 The Weather Channel,mitv://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
 
-音乐_000,#genre#
+音乐_888,#genre#
 Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
 Mezzo Live,mitv://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
 CLASSICA 古典乐,mitv://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
-体育_000,#genre#
+体育_888,#genre#
 CCTV5,mitv://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
 CCTV5+,mitv://generationnexxxt.com:19806/5b390808c064415fa55fa30feb8788ff
 魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
@@ -2642,7 +2595,7 @@ Sky Sports Cricket,mitv://generationnexxxt.com:19806/65791ef8000290523163fcb71a5
 Sky Sports Mix,mitv://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
 Golf Channel,mitv://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
 
-知识_000,#genre#
+知识_888,#genre#
 CCTV9,mitv://generationnexxxt.com:19806/1d25488429514e78ab4d100819bece3e
 国家地理频道,mitv://generationnexxxt.com:19806/37a44d0af7634364a91f2fb8d9b9cf9b
 探索频道,mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
@@ -2666,7 +2619,7 @@ Love Nature,mitv://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
 亚洲旅游台,mitv://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
 EYE TV旅游台,mitv://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e
 
-儿少_000,#genre#
+儿少_888,#genre#
 CCTV14,mitv://generationnexxxt.com:19806/5ce5a7ff03b541cc8ef405312b4fec09
 CN卡通频道,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
 星空卫视,mitv://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
@@ -2682,7 +2635,7 @@ Animax,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
 Nick Jr.,mitv://generationnexxxt.com:19806/acebbded37714fa4a5554c025873a92c
 Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 
-电影_000,#genre#
+电影_888,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
 天映频道,mitv://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 天映经典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
@@ -2722,7 +2675,7 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3
 CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 
-戏剧_000,#genre#
+戏剧_888,#genre#
 东森戏剧台,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
 八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
 纬来戏剧台,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
@@ -2734,6 +2687,6 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 爱尔达影剧台,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 
-♥会员频道_000,#genre#
+♥会员频道_888,#genre#
 随机🔞电影,http://lzo.37.gay/daili/sx.php
 
