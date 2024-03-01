@@ -2901,7 +2901,11 @@ TVBS新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxz
 好莱坞电影台,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 AXN台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
 东森戏剧台,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-TW台湾(设置里面打开玩转原力才能观看）_666,#genre#
+TW台湾_666,#genre#
+请打开设置里,p3p://108.181.32.169:55214/64251dd200003544ea55fe1c5eb00e42
+偏好设置选项,p3p://108.181.32.169:55214/6442f24f00097e845edb5e492842265c
+里面的玩转原力,p3p://108.181.32.169:55214/64c859e10007934267f487ac0fa618e0
+才能观看,p3p://108.181.32.169:55214/64251df1000b5a9cea567a0e255d4664
 民视,p3p://108.181.32.169:55214/64251dd200003544ea55fe1c5eb00e42
 民视(b),p3p://108.181.32.169:55214/6442f24f00097e845edb5e492842265c
 民视新闻台,p3p://108.181.32.169:55214/64c859e10007934267f487ac0fa618e0
@@ -3010,7 +3014,11 @@ Euro news my,p3p://108.181.32.169:55214/6413817b0003393aa58bbcbf158b6409
 FOX NEWS my,p3p://108.181.32.169:55214/6413818e000154fca58c067b60210765
 BBC News HD,p3p://108.181.32.169:55214/641384e7000133cda5991a1b33cb3ea0
 DW HD,p3p://108.181.32.169:55214/641384f6000cbd09a59957a77daa41a1
-HongKong香港(设置里面打开玩转原力才能观看）_666,#genre#
+HongKong香港_666,#genre#
+请打开设置里,p3p://108.181.32.169:55214/64251dd200003544ea55fe1c5eb00e42
+偏好设置选项,p3p://108.181.32.169:55214/6442f24f00097e845edb5e492842265c
+里面的玩转原力,p3p://108.181.32.169:55214/64c859e10007934267f487ac0fa618e0
+才能观看,p3p://108.181.32.169:55214/64251df1000b5a9cea567a0e255d4664
 TVB翡翠台,p3p://108.181.32.169:55214/6533f6560002787f2d01338b57197695
 TVB翡翠台(b),p3p://108.181.32.169:55214/6533f5c20003762b2cfef1ac322c6404
 VB翡翠台(d),p3p://108.181.32.169:55214/655daa1c00083272cfe6541e61d40be0
