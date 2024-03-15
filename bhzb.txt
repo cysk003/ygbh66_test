@@ -47,6 +47,34 @@ CGTN西语,https://guot55.serv00.net/ysp.php?id=cgtne
 CGTN法语,https://guot55.serv00.net/ysp.php?id=cgtnf
 CGTN阿语,https://guot55.serv00.net/ysp.php?id=cgtna
 CGTN俄语,https://guot55.serv00.net/ysp.php?id=cgtnr
+广东卫视,https://guot55.serv00.net/ysp.php?id=gdws
+深圳卫视,https://guot55.serv00.net/ysp.php?id=szws
+湖南卫视,https://guot55.serv00.net/ysp.php?id=hnws
+安徽卫视,https://guot55.serv00.net/ysp.php?id=ahws
+浙江卫视,https://guot55.serv00.net/ysp.php?id=zsws
+江苏卫视,https://guot55.serv00.net/ysp.php?id=jsws
+北京卫视,https://guot55.serv00.net/ysp.php?id=bjws
+东方卫视,https://guot55.serv00.net/ysp.php?id=dfws
+天津卫视,https://guot55.serv00.net/ysp.php?id=tjws
+河南卫视,https://guot55.serv00.net/ysp.php?id=hnws
+湖北卫视,https://guot55.serv00.net/ysp.php?id=hubws
+广西卫视,https://guot55.serv00.net/ysp.php?id=gxws
+四川卫视,https://guot55.serv00.net/ysp.php?id=scws
+重庆卫视,https://guot55.serv00.net/ysp.php?id=cqws
+江西卫视,https://guot55.serv00.net/ysp.php?id=jxws
+黑龙江卫视,https://guot55.serv00.net/ysp.php?id=hljws
+辽宁卫视,https://guot55.serv00.net/ysp.php?id=lnws
+云南卫视,https://guot55.serv00.net/ysp.php?id=ynws
+河北卫视,https://guot55.serv00.net/ysp.php?id=hbws
+贵州卫视,https://guot55.serv00.net/ysp.php?id=gzws
+青海卫视,https://guot55.serv00.net/ysp.php?id=qhws
+吉林卫视,https://guot55.serv00.net/ysp.php?id=jlws
+山西卫视,https://guot55.serv00.net/ysp.php?id=sxws
+陕西卫视,https://guot55.serv00.net/ysp.php?id=sxws
+东南卫视,https://guot55.serv00.net/ysp.php?id=dnws
+新疆卫视,https://guot55.serv00.net/ysp.php?id=xjws
+西藏卫视,https://guot55.serv00.net/ysp.php?id=xzws
+山东卫视,https://guot55.serv00.net/ysp.php?id=sdws
 
 
 CCTV1,http://125.210.152.19:9121/live/hzgq-cctv1gq-h264.m3u8
