@@ -3395,50 +3395,76 @@ CGTN俄语,https://guot55.serv00.net/ysp.php?id=cgtnr
 西藏卫视,https://guot55.serv00.net/ysp.php?id=xzws
 山东卫视,https://guot55.serv00.net/ysp.php?id=sdws
 
+宝盒央卫2,#genre#
+CCTV-4K,http://ygbh.cloudns.ch/ysp.php?id=cctv4k
+CCTV-8K,http://ygbh.cloudns.ch/ysp.php?id=cctv8k
+cctv1综合,http://ygbh.cloudns.ch/ysp.php?id=cctv1
+cctv2财经,http://ygbh.cloudns.ch/ysp.php?id=cctv2
+cctv3综艺,http://ygbh.cloudns.ch/ysp.php?id=cctv3
+cctv4中文国际,http://ygbh.cloudns.ch/ysp.php?id=cctv4
+cctv5体育,http://ygbh.cloudns.ch/ysp.php?id=cctv5
+cctv6电影,http://ygbh.cloudns.ch/ysp.php?id=cctv6
+cctv7国防军事,http://ygbh.cloudns.ch/ysp.php?id=cctv7
+cctv8电视剧,http://ygbh.cloudns.ch/ysp.php?id=cctv8
+cctv9纪录,http://ygbh.cloudns.ch/ysp.php?id=cctv9
+cctv10科教,http://ygbh.cloudns.ch/ysp.php?id=cctv10
+cctv11戏曲,http://ygbh.cloudns.ch/ysp.php?id=cctv11
+cctv12社会与法,http://ygbh.cloudns.ch/ysp.php?id=cctv12
+cctv13新闻,http://ygbh.cloudns.ch/ysp.php?id=cctv13
+cctv14少儿,http://ygbh.cloudns.ch/ysp.php?id=cctv14
+cctv15音乐,http://ygbh.cloudns.ch/ysp.php?id=cctv15
+cctv16奥林匹克,http://ygbh.cloudns.ch/ysp.php?id=cctv16
+cctv17农业农村,http://ygbh.cloudns.ch/ysp.php?id=cctv17
+CCTV5+,http://ygbh.cloudns.ch/ysp.php?id=cctv5p
 
+cctv兵器科技,http://ygbh.cloudns.ch/ysp.php?id=bqkj
+cctv第一剧场,http://ygbh.cloudns.ch/ysp.php?id=dyjc
+cctv怀旧剧场,http://ygbh.cloudns.ch/ysp.php?id=hjjc
+cctv风云剧场,http://ygbh.cloudns.ch/ysp.php?id=fyjc
+cctv风云音乐,http://ygbh.cloudns.ch/ysp.php?id=fyyy
+cctv风云足球,http://ygbh.cloudns.ch/ysp.php?id=fyzq
+cctv电视指南,http://ygbh.cloudns.ch/ysp.php?id=dszn
+cctv女性时尚,http://ygbh.cloudns.ch/ysp.php?id=nxss
+cctv央视文化精品,http://ygbh.cloudns.ch/ysp.php?id=whjp
+CCTV世界地理,http://ygbh.cloudns.ch/ysp.php?id=sjdl
+CCTV高尔夫网球,http://ygbh.cloudns.ch/ysp.php?id=gefwq
+CCTV央视台球,http://ygbh.cloudns.ch/ysp.php?id=ystq
+cctv卫生健康,http://ygbh.cloudns.ch/ysp.php?id=wsjk
+CGTN,http://ygbh.cloudns.ch/ysp.php?id=cgtn
+CGTN记录,http://ygbh.cloudns.ch/ysp.php?id=cgtnjl
+CGTN西语,http://ygbh.cloudns.ch/ysp.php?id=cgtne
+CGTN法语,http://ygbh.cloudns.ch/ysp.php?id=cgtnf
+CGTN阿语,http://ygbh.cloudns.ch/ysp.php?id=cgtna
+CGTN俄语,http://ygbh.cloudns.ch/ysp.php?id=cgtnr
+广东卫视,http://ygbh.cloudns.ch/ysp.php?id=gdws
+深圳卫视,http://ygbh.cloudns.ch/ysp.php?id=szws
+湖南卫视,http://ygbh.cloudns.ch/ysp.php?id=hnws
+安徽卫视,http://ygbh.cloudns.ch/ysp.php?id=ahws
+浙江卫视,http://ygbh.cloudns.ch/ysp.php?id=zsws
+江苏卫视,http://ygbh.cloudns.ch/ysp.php?id=jsws
+北京卫视,http://ygbh.cloudns.ch/ysp.php?id=bjws
+东方卫视,http://ygbh.cloudns.ch/ysp.php?id=dfws
+天津卫视,http://ygbh.cloudns.ch/ysp.php?id=tjws
+河南卫视,http://ygbh.cloudns.ch/ysp.php?id=hnws
+湖北卫视,http://ygbh.cloudns.ch/ysp.php?id=hubws
+广西卫视,http://ygbh.cloudns.ch/ysp.php?id=gxws
+四川卫视,http://ygbh.cloudns.ch/ysp.php?id=scws
+重庆卫视,http://ygbh.cloudns.ch/ysp.php?id=cqws
+江西卫视,http://ygbh.cloudns.ch/ysp.php?id=jxws
+黑龙江卫视,http://ygbh.cloudns.ch/ysp.php?id=hljws
+辽宁卫视,http://ygbh.cloudns.ch/ysp.php?id=lnws
+云南卫视,http://ygbh.cloudns.ch/ysp.php?id=ynws
+河北卫视,http://ygbh.cloudns.ch/ysp.php?id=hbws
+贵州卫视,http://ygbh.cloudns.ch/ysp.php?id=gzws
+青海卫视,http://ygbh.cloudns.ch/ysp.php?id=qhws
+吉林卫视,http://ygbh.cloudns.ch/ysp.php?id=jlws
+山西卫视,http://ygbh.cloudns.ch/ysp.php?id=sxws
+陕西卫视,http://ygbh.cloudns.ch/ysp.php?id=sxws
+东南卫视,http://ygbh.cloudns.ch/ysp.php?id=dnws
+新疆卫视,http://ygbh.cloudns.ch/ysp.php?id=xjws
+西藏卫视,http://ygbh.cloudns.ch/ysp.php?id=xzws
+山东卫视,http://ygbh.cloudns.ch/ysp.php?id=sdws
 
-
-秒开,#genre#
-TVB J2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
-TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
-TVB 明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
-TVB 星河台(国),http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
-TVB 无线新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-TVB 财经体育资1台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
-TVB 财经体育资2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
-VIU TV台,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
-VIU TV6台,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
-RTHK31台,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
-RTHK32台,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
-HOY 资讯台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
-澳门莲花台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
-台视台,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
-民视台,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
-中视台,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
-华视台,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
-TVBS台,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-TVBS新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
-民视新闻台,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
-中视新闻台,http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
-台视新闻台,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
-寰宇新闻台,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
-中天新闻台,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-年代新闻台,http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
-东森新闻台,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-三立新闻台,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-非凡新闻台,http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
-壹新闻台,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-镜新闻台,http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
-三立LIVE台,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
-动物星球台,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
-探索频道台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-龙祥电影台,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
-东森电影台,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-龙华电影台,http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
-龙华洋片台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
-好莱坞电影台,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
-AXN台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
-东森戏剧台,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
 
 台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
