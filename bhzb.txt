@@ -7,7 +7,13 @@
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-
+BRTV8K,http://ygbh.cloudns.ch/北京.php?id=brtv8k
+纪实科教,http://ygbh.cloudns.ch/北京.php?id=bjjskj
+北京影视,http://ygbh.cloudns.ch/北京.php?id=bjys
+北京财经,http://ygbh.cloudns.ch/北京.php?id=bjcj
+北京卡酷,http://ygbh.cloudns.ch/北京.php?id=bjkk
+北京生活,http://ygbh.cloudns.ch/北京.php?id=bjsh
+北京新闻,http://ygbh.cloudns.ch/北京.php?id=bjxw
 CCTV1,http://125.210.152.19:9121/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9121/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9121/live/hzgq-cctv3gq-h264.m3u8
