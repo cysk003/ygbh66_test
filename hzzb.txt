@@ -1,9 +1,9 @@
 🌙月光宝盒,#genre#
 重温经典,http://140.249.247.156/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 国际少儿频道,https://livesec.mudu.tv/watch/fb3vzu.m3u8
-CCTV6,http://ygbh.cloudns.ch/1905.php?id=cctv6
-1905国外电影,http://ygbh.cloudns.ch/1905.php?id=1905b
-1905国内电影,http://ygbh.cloudns.ch/1905.php?id=1905a
+CCTV6,http://ygbhbox.dynv6.net/1905.php?id=cctv6
+1905国外电影,http://ygbhbox.dynv6.net/1905.php?id=1905b
+1905国内电影,http://ygbhbox.dynv6.net/1905.php?id=1905a
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
