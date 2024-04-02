@@ -2263,6 +2263,9 @@ pgsql 正在直播,https://lunbo.freetv.top/yy/53498473
 经典武侠电影,https://lunbo.freetv.top/yy/28298966
 
 宝盒央卫,#genre#
+CCTV6,http://ygbhbox.dynv6.net/1905.php?id=cctv6
+1905国外电影,http://ygbhbox.dynv6.net/1905.php?id=1905b
+1905国内电影,http://ygbhbox.dynv6.net/1905.php?id=1905a
 CCTV-4K,http://ygbh.live/ysp.php?id=cctv4k
 CCTV-8K,http://ygbh.live/ysp.php?id=cctv8k
 cctv1综合,http://ygbh.live/ysp.php?id=cctv1
