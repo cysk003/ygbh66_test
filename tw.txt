@@ -2263,10 +2263,11 @@ pgsql 正在直播,https://lunbo.freetv.top/yy/53498473
 经典武侠电影,https://lunbo.freetv.top/yy/28298966
 
 宝盒央卫,#genre#
+凤凰卫视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=01
+凤凰资讯,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=02
 CCTV6,http://ygbhbox.dynv6.net/1905.php?id=cctv6
 1905国外电影,http://ygbhbox.dynv6.net/1905.php?id=1905b
 1905国内电影,http://ygbhbox.dynv6.net/1905.php?id=1905a
-央视,#genre#
 cccv-4k,http://ygbh.live/ysp.php?id=cctv4k
 cccv-8k,http://ygbh.live/ysp.php?id=cctv8k
 cccv1,http://ygbh.live/ysp.php?id=cctv1
