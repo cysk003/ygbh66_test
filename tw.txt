@@ -1,5 +1,4 @@
 🌙月光宝盒,#genre#
-重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
