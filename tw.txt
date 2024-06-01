@@ -2779,7 +2779,7 @@ UFC格斗精选,http://ygbh.live/migu.php?id=ufcgdjx
 宝盒没宝,https://3043.kstore.space/js/bh.mp4
 宝盒迷,https://3043.kstore.space/js/bh.mp4
 
-HK,#genre#
+histar,#genre#
 TVB 翡翠台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=feicui
 TVB 无线新闻台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvb-news
 TVB PLUS,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=tvb-plus
@@ -3242,7 +3242,7 @@ SBS,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a
 SBS Plus,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sbs-plus
 SBS funE,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sbs-fune
 SBS M,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=sbs-m 
-4GTV(儿童节快乐),#genre#
+4GTV,#genre#
 民視,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv155
 中視,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv040
 華視,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv041
@@ -3330,7 +3330,7 @@ Smart知識台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d
 ELTV生活英語台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn20
 龍華經典台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn21
 寰宇財經台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn23
-斯玛特(六一快乐),#genre#
+斯玛特,#genre#
 TVB Magic,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=Tvbmagic
 TVB Jade,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=Tvbjade
 TVB Asia,https://s2-10623-kwimgs.52520.xyz/Smartv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=Tvbasia
