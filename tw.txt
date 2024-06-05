@@ -2446,7 +2446,7 @@ UFC格斗精选,http://ygbh.live/migu.php?id=ufcgdjx
 宝盒没宝,https://3043.kstore.space/js/bh.mp4
 宝盒迷,https://3043.kstore.space/js/bh.mp4
 
-高速油管,#genre#
+高速YT,#genre#
 中天新聞2台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
 民視新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
