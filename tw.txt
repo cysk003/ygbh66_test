@@ -2447,7 +2447,6 @@ UFC格斗精选,http://ygbh.live/migu.php?id=ufcgdjx
 宝盒迷,https://3043.kstore.space/js/bh.mp4
 
 高速YT(切换EXO解码),#genre#
-凤凰资讯,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=a3WZVssKlAI
 CCTV4,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=twhG7_jvA8g
 TVBS NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=YvdcZ_jpLXE
