@@ -13,6 +13,13 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
+凤凰中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 CCTV6,http://ygbh.live/1905.php?id=cctv6
 1905国内电影,http://ygbh.live/1905.php?id=1905a
 1905国外电影,http://ygbh.live/1905.php?id=1905b
