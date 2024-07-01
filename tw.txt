@@ -3024,9 +3024,9 @@ UFC格斗精选,http://ygbh.live/migu.php?id=ufcgdjx
 武汉黄鹤楼,http://ygbh.live/migu.php?id=whhhl
 
 联系宝盒,#genre#
-公众号,https://3043.kstore.space/js/bh.mp4
-宝盒没宝,https://3043.kstore.space/js/bh.mp4
-宝盒迷,https://3043.kstore.space/js/bh.mp4
+公众号,https://git.acwing.com/bh666/bh/-/raw/main/pg/bh.mp4
+宝盒没宝,https://git.acwing.com/bh666/bh/-/raw/main/pg/bh.mp4
+宝盒迷,https://git.acwing.com/bh666/bh/-/raw/main/pg/bh.mp4
 
 
 Smartv,#genre#
