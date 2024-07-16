@@ -3,13 +3,13 @@
 	"sites":[
 		{
       "key": "网飞影视",
-      "name": "全球|首页",
+      "name": "國際|首页",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/wf.js"
     }, {
       "key": "dan酷影视",
-      "name": "全球|酷影",
+      "name": "國際|酷影",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "./lib/XBPQ.jar",
@@ -17,9 +17,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
-    }, { "key": "kk", "name": "全球┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, {
+    }, { "key": "kk", "name": "國際┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, {
       "key": "子子影视",
-      "name": "全球|子子",
+      "name": "國際|子子",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -63,7 +63,7 @@
     }
     },{
             "key": "drpy_js_黑木耳资源",
-            "name": "全球|木耳",
+            "name": "國際|木耳",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
@@ -77,7 +77,7 @@
       "api": "csp_XBPQ",
       "ext": "./lib/4kys.json"
     },
-	{"key":"XBPQ_文才","name":"全球|文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+	{"key":"XBPQ_文才","name":"國際|文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
 				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -113,7 +113,7 @@
 			}
 		},{ 
       "key": "csp_xBPQ_影视控", 
-      "name": "全球|影视控", 
+      "name": "國際|影视控", 
       "type": 3,
       "api": "csp_XBPQ", 
       "searchable": 1, 
@@ -123,7 +123,7 @@
       "jar": "./lib/XBPQ.jar"      
     },{
 			"key": "NanGua",
-			"name": "全球|南瓜",
+			"name": "國際|南瓜",
 			"type": 3,
 			"api": "csp_NanGua",
 			"searchable": 1,
@@ -131,7 +131,7 @@
 			"ext": "null$$$1"
 		},{
 			"key": "賤賤",
-			"name": "全球|荐片",
+			"name": "國際|荐片",
 			"type": 3,
 			"api": "csp_Jianpian",
 			"searchable": 1,
@@ -140,7 +140,7 @@
 			"timeout":60
 		}, {
                 "key": "XBPQ_无忧短剧",
-                "name": "全球|短剧",
+                "name": "國際|短剧",
                 "type": 3,
                 "api": "csp_XBPQ",
                 "jar": "./lib/XBPQ.jar",
@@ -151,9 +151,9 @@
         },
 	
 	
-		{"key":"Xinshijue","name":"全球|新视觉","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
+		{"key":"Xinshijue","name":"國際|新视觉","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
 		
-		{"key":"XBPQ_黑狐影院","name":"全球|黑狐影视","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+		{"key":"XBPQ_黑狐影院","name":"國際|黑狐影视","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -188,7 +188,7 @@
 			}
 		},
 		
-		{"key": "XBPQ_麻衣影院","name":"全球|麻衣影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
+		{"key": "XBPQ_麻衣影院","name":"國際|麻衣影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 		{"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/o.jar"},
@@ -207,17 +207,17 @@
 {"key":"素白白","name":"素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
 		{
 			"key": "天天",
-			"name": "全球|天天",
+			"name": "國際|天天",
 			"type": 3,
 			"api": "csp_TTian",
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 	
-		{"key":"drpy_js_酷吧","name":"全球|酷吧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"drpy_js_酷吧","name":"國際|酷吧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		
 		{
 			"key": "快看",
-			"name": "全球|快看",
+			"name": "國際|快看",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -227,7 +227,7 @@
 		},
 		{
 			"key": "星星",
-			"name": "全球|星星",
+			"name": "國際|星星",
 			"type": 3,
 			"api": "csp_Star",
 			"searchable": 1,
@@ -236,7 +236,7 @@
 		},
 		{
 			"key": "haiwaikan",
-			"name": "全球|海外看",
+			"name": "國際|海外看",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
 			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
@@ -301,7 +301,7 @@
 		],
 		"lives":[
 			{
-				"name": "全球影视",
+				"name": "國際影视",
 				"type": 0,
 				"url": "https://yang-1989.eu.org/m3u/Gather",
 				"playerType": 1,
