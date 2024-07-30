@@ -362,57 +362,7 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 剧集_邻里一家亲,https://www.goodiptv.club/huya/11342426
 搞笑_陈翔六点半,https://www.goodiptv.club/huya/11274154
 
-✨奥运频道,#genre#
-CCTV5, http://cdn.1678520.xyz/xsj.php?id=cctv5
-CCTV5+, http://cdn.1678520.xyz/xsj.php?id=cctv5plus
-CCTV16, http://cdn.1678520.xyz/xsj.php?id=cctv16
 
-ELTA奥运1台, http://cdn.1678520.xyz/xsj.php?id=elta-oly1
-ELTA奥运2台, http://cdn.1678520.xyz/xsj.php?id=elta-oly2
-ELTA奥运3台, http://cdn.1678520.xyz/xsj.php?id=elta-oly3
-ELTA奥运4台, http://cdn.1678520.xyz/xsj.php?id=elta-oly4
-ELTA奥运5台, http://cdn.1678520.xyz/xsj.php?id=elta-oly5
-ELTA奥运6台, http://cdn.1678520.xyz/xsj.php?id=elta-oly6
-ELTA奥运7台, http://cdn.1678520.xyz/xsj.php?id=elta-oly7
-
-Astro OLY 1, http://cdn.1678520.xyz/xsj.php?id=astro-oly1
-Astro OLY 2, http://cdn.1678520.xyz/xsj.php?id=astro-oly2
-Astro OLY 3, http://cdn.1678520.xyz/xsj.php?id=astro-oly3
-Astro OLY 4, http://cdn.1678520.xyz/xsj.php?id=astro-oly4
-Astro OLY 5, http://cdn.1678520.xyz/xsj.php?id=astro-oly5
-Astro OLY 6, http://cdn.1678520.xyz/xsj.php?id=astro-oly6
-Astro OLY 7, http://cdn.1678520.xyz/xsj.php?id=astro-oly7
-Astro OLY 8, http://cdn.1678520.xyz/xsj.php?id=astro-oly8
-Astro OLY 9, http://cdn.1678520.xyz/xsj.php?id=astro-oly9
-Astro OLY 10, http://cdn.1678520.xyz/xsj.php?id=astro-oly10
-Astro OLY 11, http://cdn.1678520.xyz/xsj.php?id=astro-oly11
-Astro OLY 12, http://cdn.1678520.xyz/xsj.php?id=astro-oly12
-Astro OLY 13, http://cdn.1678520.xyz/xsj.php?id=astro-oly13
-Astro OLY 14, http://cdn.1678520.xyz/xsj.php?id=astro-oly14
-Astro OLY 15, http://cdn.1678520.xyz/xsj.php?id=astro-oly15
-Astro OLY 16, http://cdn.1678520.xyz/xsj.php?id=astro-oly16
- 奧運801台, https://mytvsuper.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運802台, https://mytvsuper.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
- 奧運803台, https://mytvsuper.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
- 奧運804台, https://mytvsuper.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
- 奧運805台, https://mytvsuper.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
- 奧運806台, https://mytvsuper.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運807台, https://mytvsuper.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運808台, https://mytvsuper.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運809台, https://mytvsuper.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運810台, https://mytvsuper.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運811台, https://mytvsuper.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運812台, https://mytvsuper.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運813台, https://mytvsuper.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運814台, https://mytvsuper.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運815台, https://mytvsuper.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運816台, https://mytvsuper.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運817台, https://mytvsuper.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- 奧運817台, http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly817
 斗鱼,#genre#
 橙記Orange丶,https://www.goodiptv.club/douyu/4549169
 UU娇哒哒呀,https://www.goodiptv.club/douyu/96577
